@@ -1,0 +1,3403 @@
+date,product,price,quantity,revenue
+2026-01-01,Classic Milk Tea,4.92,2,9.84
+2026-01-01,Classic Milk Tea,7.1,2,14.2
+2026-01-01,Classic Milk Tea,5.92,3,17.76
+2026-01-01,Thai Tea,5.6,1,5.6
+2026-01-01,Matcha Latte,5.92,2,11.84
+2026-01-01,Classic Milk Tea,7.24,1,7.24
+2026-01-01,Thai Tea,6.4,3,19.2
+2026-01-01,Brown Sugar Boba,6.3,1,6.3
+2026-01-01,Classic Milk Tea,5.56,1,5.56
+2026-01-01,Matcha Latte,7.01,3,21.03
+2026-01-01,Brown Sugar Boba,6.36,1,6.36
+2026-01-01,Taro Milk Tea,5.61,2,11.22
+2026-01-01,Brown Sugar Boba,5.58,1,5.58
+2026-01-01,Matcha Latte,5.1,1,5.1
+2026-01-01,Classic Milk Tea,5.76,2,11.52
+2026-01-01,Classic Milk Tea,5.22,2,10.44
+2026-01-01,Classic Milk Tea,7.08,2,14.16
+2026-01-01,Thai Tea,5.64,1,5.64
+2026-01-01,Thai Tea,7.31,1,7.31
+2026-01-01,Taro Milk Tea,5.71,2,11.42
+2026-01-01,Brown Sugar Boba,6.32,2,12.64
+2026-01-01,Matcha Latte,4.69,1,4.69
+2026-01-01,Thai Tea,5.62,2,11.24
+2026-01-01,Matcha Latte,5.71,2,11.42
+2026-01-01,Taro Milk Tea,4.79,3,14.37
+2026-01-01,Thai Tea,5.6,3,16.8
+2026-01-01,Brown Sugar Boba,6.22,2,12.44
+2026-01-01,Brown Sugar Boba,5.54,1,5.54
+2026-01-01,Brown Sugar Boba,5.5,2,11.0
+2026-01-01,Thai Tea,4.66,2,9.32
+2026-01-01,Taro Milk Tea,5.48,3,16.44
+2026-01-01,Brown Sugar Boba,4.71,3,14.13
+2026-01-01,Brown Sugar Boba,6.07,3,18.21
+2026-01-01,Classic Milk Tea,4.6,2,9.2
+2026-01-01,Matcha Latte,6.9,3,20.7
+2026-01-01,Matcha Latte,4.98,2,9.96
+2026-01-01,Matcha Latte,5.97,3,17.91
+2026-01-01,Brown Sugar Boba,5.56,2,11.12
+2026-01-01,Matcha Latte,7.32,1,7.32
+2026-01-01,Taro Milk Tea,4.86,3,14.58
+2026-01-01,Classic Milk Tea,5.26,3,15.78
+2026-01-01,Taro Milk Tea,6.57,2,13.14
+2026-01-01,Brown Sugar Boba,4.55,1,4.55
+2026-01-01,Taro Milk Tea,7.23,3,21.69
+2026-01-01,Classic Milk Tea,4.52,1,4.52
+2026-01-01,Matcha Latte,5.16,1,5.16
+2026-01-01,Brown Sugar Boba,6.04,2,12.08
+2026-01-01,Matcha Latte,6.82,2,13.64
+2026-01-02,Taro Milk Tea,4.56,1,4.56
+2026-01-02,Taro Milk Tea,5.79,2,11.58
+2026-01-02,Taro Milk Tea,5.59,2,11.18
+2026-01-02,Brown Sugar Boba,5.81,2,11.62
+2026-01-02,Brown Sugar Boba,6.86,1,6.86
+2026-01-02,Classic Milk Tea,4.72,2,9.44
+2026-01-02,Matcha Latte,4.71,2,9.42
+2026-01-02,Taro Milk Tea,6.72,2,13.44
+2026-01-02,Matcha Latte,5.86,3,17.58
+2026-01-02,Classic Milk Tea,5.94,1,5.94
+2026-01-02,Taro Milk Tea,5.79,3,17.37
+2026-01-02,Taro Milk Tea,5.82,2,11.64
+2026-01-02,Matcha Latte,5.48,2,10.96
+2026-01-02,Matcha Latte,4.81,2,9.62
+2026-01-02,Taro Milk Tea,5.83,3,17.49
+2026-01-02,Taro Milk Tea,6.57,1,6.57
+2026-01-02,Brown Sugar Boba,6.81,2,13.62
+2026-01-02,Thai Tea,5.81,3,17.43
+2026-01-02,Thai Tea,6.8,1,6.8
+2026-01-02,Thai Tea,5.41,2,10.82
+2026-01-02,Taro Milk Tea,5.22,2,10.44
+2026-01-02,Matcha Latte,6.58,3,19.74
+2026-01-02,Matcha Latte,5.64,3,16.92
+2026-01-02,Matcha Latte,6.59,3,19.77
+2026-01-02,Classic Milk Tea,6.87,1,6.87
+2026-01-02,Thai Tea,5.92,1,5.92
+2026-01-02,Matcha Latte,7.15,3,21.45
+2026-01-02,Brown Sugar Boba,7.0,3,21.0
+2026-01-02,Brown Sugar Boba,5.94,1,5.94
+2026-01-02,Taro Milk Tea,6.41,3,19.23
+2026-01-02,Thai Tea,6.81,2,13.62
+2026-01-02,Taro Milk Tea,6.35,2,12.7
+2026-01-02,Matcha Latte,6.16,3,18.48
+2026-01-02,Classic Milk Tea,5.75,2,11.5
+2026-01-02,Taro Milk Tea,5.93,3,17.79
+2026-01-02,Taro Milk Tea,7.42,1,7.42
+2026-01-02,Thai Tea,5.41,1,5.41
+2026-01-02,Classic Milk Tea,6.87,2,13.74
+2026-01-02,Matcha Latte,5.65,3,16.95
+2026-01-02,Brown Sugar Boba,7.32,3,21.96
+2026-01-02,Classic Milk Tea,4.82,2,9.64
+2026-01-02,Classic Milk Tea,5.1,3,15.3
+2026-01-03,Taro Milk Tea,5.14,2,10.28
+2026-01-03,Matcha Latte,4.73,2,9.46
+2026-01-03,Matcha Latte,4.8,3,14.4
+2026-01-03,Brown Sugar Boba,4.9,2,9.8
+2026-01-03,Brown Sugar Boba,6.26,1,6.26
+2026-01-03,Classic Milk Tea,4.51,3,13.53
+2026-01-03,Brown Sugar Boba,4.76,2,9.52
+2026-01-03,Thai Tea,6.05,3,18.15
+2026-01-03,Taro Milk Tea,7.04,2,14.08
+2026-01-03,Thai Tea,5.3,3,15.9
+2026-01-03,Matcha Latte,4.9,1,4.9
+2026-01-03,Classic Milk Tea,5.27,2,10.54
+2026-01-03,Taro Milk Tea,5.18,3,15.54
+2026-01-03,Thai Tea,6.75,3,20.25
+2026-01-03,Matcha Latte,5.92,3,17.76
+2026-01-03,Classic Milk Tea,6.76,2,13.52
+2026-01-03,Brown Sugar Boba,6.35,2,12.7
+2026-01-03,Matcha Latte,5.52,3,16.56
+2026-01-03,Matcha Latte,5.72,3,17.16
+2026-01-03,Classic Milk Tea,7.3,2,14.6
+2026-01-03,Classic Milk Tea,7.49,1,7.49
+2026-01-03,Classic Milk Tea,6.19,3,18.57
+2026-01-03,Brown Sugar Boba,7.31,3,21.93
+2026-01-03,Taro Milk Tea,6.42,1,6.42
+2026-01-03,Taro Milk Tea,6.73,2,13.46
+2026-01-03,Matcha Latte,4.76,3,14.28
+2026-01-03,Thai Tea,6.41,3,19.23
+2026-01-03,Taro Milk Tea,7.16,3,21.48
+2026-01-03,Matcha Latte,7.12,2,14.24
+2026-01-03,Brown Sugar Boba,5.83,3,17.49
+2026-01-03,Thai Tea,5.31,1,5.31
+2026-01-03,Brown Sugar Boba,6.98,3,20.94
+2026-01-03,Brown Sugar Boba,6.18,1,6.18
+2026-01-03,Thai Tea,4.86,2,9.72
+2026-01-03,Brown Sugar Boba,7.21,2,14.42
+2026-01-03,Classic Milk Tea,6.73,2,13.46
+2026-01-03,Thai Tea,4.81,2,9.62
+2026-01-03,Brown Sugar Boba,4.7,3,14.1
+2026-01-03,Taro Milk Tea,6.79,3,20.37
+2026-01-03,Classic Milk Tea,6.98,3,20.94
+2026-01-03,Thai Tea,6.07,2,12.14
+2026-01-03,Brown Sugar Boba,6.85,1,6.85
+2026-01-03,Matcha Latte,7.04,1,7.04
+2026-01-03,Taro Milk Tea,5.13,2,10.26
+2026-01-03,Brown Sugar Boba,6.43,2,12.86
+2026-01-04,Thai Tea,6.6,1,6.6
+2026-01-04,Classic Milk Tea,6.79,2,13.58
+2026-01-04,Thai Tea,5.53,2,11.06
+2026-01-04,Matcha Latte,5.08,2,10.16
+2026-01-04,Thai Tea,5.2,1,5.2
+2026-01-04,Taro Milk Tea,7.1,1,7.1
+2026-01-04,Matcha Latte,6.98,2,13.96
+2026-01-04,Brown Sugar Boba,4.65,2,9.3
+2026-01-04,Taro Milk Tea,6.06,3,18.18
+2026-01-04,Matcha Latte,4.6,1,4.6
+2026-01-04,Thai Tea,6.05,1,6.05
+2026-01-04,Thai Tea,7.47,1,7.47
+2026-01-04,Matcha Latte,5.45,2,10.9
+2026-01-04,Thai Tea,6.57,1,6.57
+2026-01-04,Taro Milk Tea,5.19,2,10.38
+2026-01-04,Brown Sugar Boba,6.77,1,6.77
+2026-01-04,Taro Milk Tea,6.63,3,19.89
+2026-01-04,Taro Milk Tea,5.72,1,5.72
+2026-01-04,Classic Milk Tea,4.78,1,4.78
+2026-01-04,Brown Sugar Boba,5.65,3,16.95
+2026-01-04,Brown Sugar Boba,7.07,1,7.07
+2026-01-04,Thai Tea,6.11,2,12.22
+2026-01-04,Classic Milk Tea,6.0,3,18.0
+2026-01-04,Brown Sugar Boba,7.21,2,14.42
+2026-01-04,Matcha Latte,7.02,3,21.06
+2026-01-04,Taro Milk Tea,5.75,2,11.5
+2026-01-04,Brown Sugar Boba,5.04,2,10.08
+2026-01-04,Brown Sugar Boba,4.93,3,14.79
+2026-01-04,Thai Tea,6.22,1,6.22
+2026-01-04,Classic Milk Tea,6.23,2,12.46
+2026-01-04,Brown Sugar Boba,6.36,1,6.36
+2026-01-04,Matcha Latte,5.67,3,17.01
+2026-01-04,Brown Sugar Boba,7.16,3,21.48
+2026-01-04,Matcha Latte,6.5,2,13.0
+2026-01-04,Thai Tea,7.32,2,14.64
+2026-01-04,Classic Milk Tea,6.51,1,6.51
+2026-01-04,Brown Sugar Boba,6.8,2,13.6
+2026-01-04,Thai Tea,6.13,3,18.39
+2026-01-04,Brown Sugar Boba,6.29,3,18.87
+2026-01-04,Brown Sugar Boba,6.28,2,12.56
+2026-01-04,Brown Sugar Boba,4.92,2,9.84
+2026-01-04,Taro Milk Tea,5.12,2,10.24
+2026-01-04,Matcha Latte,6.74,2,13.48
+2026-01-04,Brown Sugar Boba,5.54,2,11.08
+2026-01-04,Thai Tea,4.52,1,4.52
+2026-01-04,Brown Sugar Boba,6.07,1,6.07
+2026-01-04,Matcha Latte,5.68,3,17.04
+2026-01-04,Brown Sugar Boba,7.49,3,22.47
+2026-01-04,Thai Tea,7.15,2,14.3
+2026-01-05,Taro Milk Tea,7.36,2,14.72
+2026-01-05,Classic Milk Tea,6.04,2,12.08
+2026-01-05,Classic Milk Tea,5.18,1,5.18
+2026-01-05,Taro Milk Tea,4.83,1,4.83
+2026-01-05,Thai Tea,7.23,3,21.69
+2026-01-05,Thai Tea,4.95,1,4.95
+2026-01-05,Thai Tea,6.53,3,19.59
+2026-01-05,Classic Milk Tea,7.05,1,7.05
+2026-01-05,Matcha Latte,6.1,1,6.1
+2026-01-05,Classic Milk Tea,6.11,1,6.11
+2026-01-05,Matcha Latte,7.24,2,14.48
+2026-01-05,Brown Sugar Boba,6.94,2,13.88
+2026-01-05,Classic Milk Tea,4.89,3,14.67
+2026-01-05,Classic Milk Tea,7.2,1,7.2
+2026-01-05,Thai Tea,4.96,2,9.92
+2026-01-05,Matcha Latte,5.34,3,16.02
+2026-01-05,Thai Tea,5.08,2,10.16
+2026-01-05,Brown Sugar Boba,4.99,2,9.98
+2026-01-05,Brown Sugar Boba,7.06,2,14.12
+2026-01-05,Matcha Latte,5.09,2,10.18
+2026-01-05,Classic Milk Tea,6.04,3,18.12
+2026-01-05,Classic Milk Tea,6.36,3,19.08
+2026-01-05,Classic Milk Tea,6.67,1,6.67
+2026-01-05,Matcha Latte,7.34,2,14.68
+2026-01-05,Thai Tea,6.3,1,6.3
+2026-01-05,Brown Sugar Boba,6.49,3,19.47
+2026-01-05,Matcha Latte,4.79,1,4.79
+2026-01-05,Classic Milk Tea,6.62,3,19.86
+2026-01-05,Taro Milk Tea,5.94,2,11.88
+2026-01-05,Taro Milk Tea,6.01,2,12.02
+2026-01-05,Thai Tea,4.88,2,9.76
+2026-01-05,Thai Tea,5.45,2,10.9
+2026-01-05,Classic Milk Tea,7.38,3,22.14
+2026-01-05,Classic Milk Tea,5.44,1,5.44
+2026-01-05,Taro Milk Tea,7.28,2,14.56
+2026-01-05,Classic Milk Tea,5.97,1,5.97
+2026-01-05,Thai Tea,7.42,1,7.42
+2026-01-05,Classic Milk Tea,5.91,1,5.91
+2026-01-05,Matcha Latte,6.72,3,20.16
+2026-01-05,Taro Milk Tea,5.53,2,11.06
+2026-01-05,Brown Sugar Boba,7.33,2,14.66
+2026-01-06,Classic Milk Tea,6.56,2,13.12
+2026-01-06,Thai Tea,7.05,3,21.15
+2026-01-06,Taro Milk Tea,4.95,3,14.85
+2026-01-06,Brown Sugar Boba,5.92,1,5.92
+2026-01-06,Classic Milk Tea,5.57,2,11.14
+2026-01-06,Thai Tea,6.76,2,13.52
+2026-01-06,Classic Milk Tea,7.12,3,21.36
+2026-01-06,Classic Milk Tea,7.49,3,22.47
+2026-01-06,Brown Sugar Boba,5.45,2,10.9
+2026-01-06,Brown Sugar Boba,7.16,3,21.48
+2026-01-06,Classic Milk Tea,6.61,1,6.61
+2026-01-06,Brown Sugar Boba,4.79,1,4.79
+2026-01-06,Brown Sugar Boba,6.38,1,6.38
+2026-01-06,Thai Tea,6.39,3,19.17
+2026-01-06,Taro Milk Tea,4.81,1,4.81
+2026-01-06,Taro Milk Tea,6.34,1,6.34
+2026-01-06,Classic Milk Tea,4.88,1,4.88
+2026-01-06,Thai Tea,6.74,3,20.22
+2026-01-06,Classic Milk Tea,4.73,2,9.46
+2026-01-06,Matcha Latte,5.48,3,16.44
+2026-01-06,Brown Sugar Boba,4.55,1,4.55
+2026-01-06,Taro Milk Tea,6.35,1,6.35
+2026-01-06,Classic Milk Tea,5.33,1,5.33
+2026-01-06,Matcha Latte,6.65,3,19.95
+2026-01-06,Thai Tea,5.57,1,5.57
+2026-01-06,Thai Tea,6.41,2,12.82
+2026-01-06,Matcha Latte,6.72,2,13.44
+2026-01-06,Thai Tea,5.14,1,5.14
+2026-01-06,Taro Milk Tea,5.14,1,5.14
+2026-01-06,Taro Milk Tea,7.05,2,14.1
+2026-01-06,Brown Sugar Boba,6.47,3,19.41
+2026-01-06,Taro Milk Tea,7.22,1,7.22
+2026-01-06,Brown Sugar Boba,5.84,1,5.84
+2026-01-06,Taro Milk Tea,4.53,2,9.06
+2026-01-06,Matcha Latte,6.49,2,12.98
+2026-01-06,Classic Milk Tea,5.53,1,5.53
+2026-01-06,Thai Tea,7.26,1,7.26
+2026-01-06,Brown Sugar Boba,6.33,1,6.33
+2026-01-06,Taro Milk Tea,6.71,1,6.71
+2026-01-06,Taro Milk Tea,6.46,2,12.92
+2026-01-06,Brown Sugar Boba,5.27,2,10.54
+2026-01-07,Brown Sugar Boba,5.25,2,10.5
+2026-01-07,Matcha Latte,6.95,3,20.85
+2026-01-07,Brown Sugar Boba,5.01,2,10.02
+2026-01-07,Classic Milk Tea,6.99,1,6.99
+2026-01-07,Thai Tea,5.75,2,11.5
+2026-01-07,Brown Sugar Boba,6.57,1,6.57
+2026-01-07,Taro Milk Tea,6.78,1,6.78
+2026-01-07,Matcha Latte,5.28,1,5.28
+2026-01-07,Classic Milk Tea,5.03,2,10.06
+2026-01-07,Matcha Latte,5.42,3,16.26
+2026-01-07,Classic Milk Tea,6.3,2,12.6
+2026-01-07,Thai Tea,5.32,1,5.32
+2026-01-07,Matcha Latte,6.77,2,13.54
+2026-01-07,Brown Sugar Boba,5.26,2,10.52
+2026-01-07,Classic Milk Tea,5.96,1,5.96
+2026-01-07,Classic Milk Tea,5.58,1,5.58
+2026-01-07,Thai Tea,5.5,2,11.0
+2026-01-07,Thai Tea,6.48,1,6.48
+2026-01-07,Matcha Latte,5.43,3,16.29
+2026-01-07,Brown Sugar Boba,7.43,3,22.29
+2026-01-07,Thai Tea,4.58,2,9.16
+2026-01-07,Brown Sugar Boba,4.68,2,9.36
+2026-01-07,Brown Sugar Boba,5.94,3,17.82
+2026-01-07,Classic Milk Tea,5.29,2,10.58
+2026-01-07,Brown Sugar Boba,6.9,2,13.8
+2026-01-07,Taro Milk Tea,4.57,1,4.57
+2026-01-07,Classic Milk Tea,4.86,3,14.58
+2026-01-07,Taro Milk Tea,7.04,1,7.04
+2026-01-07,Classic Milk Tea,7.19,2,14.38
+2026-01-08,Brown Sugar Boba,5.2,3,15.6
+2026-01-08,Thai Tea,6.03,2,12.06
+2026-01-08,Brown Sugar Boba,7.01,1,7.01
+2026-01-08,Thai Tea,5.2,1,5.2
+2026-01-08,Matcha Latte,4.58,3,13.74
+2026-01-08,Taro Milk Tea,5.54,2,11.08
+2026-01-08,Taro Milk Tea,6.75,1,6.75
+2026-01-08,Taro Milk Tea,6.94,2,13.88
+2026-01-08,Thai Tea,6.14,1,6.14
+2026-01-08,Matcha Latte,7.28,2,14.56
+2026-01-08,Matcha Latte,6.84,3,20.52
+2026-01-08,Matcha Latte,6.06,1,6.06
+2026-01-08,Brown Sugar Boba,4.72,2,9.44
+2026-01-08,Matcha Latte,6.93,3,20.79
+2026-01-08,Taro Milk Tea,7.21,3,21.63
+2026-01-08,Brown Sugar Boba,5.83,3,17.49
+2026-01-08,Matcha Latte,5.97,1,5.97
+2026-01-08,Brown Sugar Boba,5.57,3,16.71
+2026-01-08,Brown Sugar Boba,4.64,2,9.28
+2026-01-08,Taro Milk Tea,7.43,2,14.86
+2026-01-08,Classic Milk Tea,7.48,1,7.48
+2026-01-08,Brown Sugar Boba,6.73,2,13.46
+2026-01-08,Brown Sugar Boba,5.17,1,5.17
+2026-01-08,Classic Milk Tea,7.35,1,7.35
+2026-01-08,Taro Milk Tea,4.89,3,14.67
+2026-01-08,Thai Tea,4.7,1,4.7
+2026-01-08,Brown Sugar Boba,5.7,2,11.4
+2026-01-08,Classic Milk Tea,7.16,2,14.32
+2026-01-08,Brown Sugar Boba,6.23,1,6.23
+2026-01-08,Brown Sugar Boba,5.52,2,11.04
+2026-01-08,Brown Sugar Boba,4.79,1,4.79
+2026-01-08,Classic Milk Tea,7.43,3,22.29
+2026-01-08,Brown Sugar Boba,6.54,2,13.08
+2026-01-08,Brown Sugar Boba,5.43,3,16.29
+2026-01-08,Classic Milk Tea,6.65,1,6.65
+2026-01-09,Brown Sugar Boba,5.99,3,17.97
+2026-01-09,Brown Sugar Boba,4.68,1,4.68
+2026-01-09,Taro Milk Tea,5.86,1,5.86
+2026-01-09,Thai Tea,7.12,3,21.36
+2026-01-09,Classic Milk Tea,6.61,2,13.22
+2026-01-09,Thai Tea,5.1,3,15.3
+2026-01-09,Brown Sugar Boba,4.58,2,9.16
+2026-01-09,Brown Sugar Boba,4.7,2,9.4
+2026-01-09,Classic Milk Tea,6.4,1,6.4
+2026-01-09,Taro Milk Tea,6.8,3,20.4
+2026-01-09,Classic Milk Tea,5.1,1,5.1
+2026-01-09,Matcha Latte,6.68,1,6.68
+2026-01-09,Matcha Latte,5.21,3,15.63
+2026-01-09,Brown Sugar Boba,5.76,3,17.28
+2026-01-09,Thai Tea,5.53,2,11.06
+2026-01-09,Thai Tea,7.29,2,14.58
+2026-01-09,Matcha Latte,5.64,3,16.92
+2026-01-09,Matcha Latte,7.4,2,14.8
+2026-01-09,Classic Milk Tea,6.82,3,20.46
+2026-01-09,Taro Milk Tea,6.86,2,13.72
+2026-01-09,Thai Tea,6.62,1,6.62
+2026-01-09,Brown Sugar Boba,7.46,3,22.38
+2026-01-09,Brown Sugar Boba,5.53,3,16.59
+2026-01-09,Classic Milk Tea,4.53,2,9.06
+2026-01-09,Matcha Latte,5.55,1,5.55
+2026-01-09,Thai Tea,4.94,2,9.88
+2026-01-09,Taro Milk Tea,6.08,3,18.24
+2026-01-09,Brown Sugar Boba,6.58,2,13.16
+2026-01-09,Matcha Latte,4.8,3,14.4
+2026-01-09,Classic Milk Tea,6.77,3,20.31
+2026-01-09,Brown Sugar Boba,4.61,1,4.61
+2026-01-10,Matcha Latte,5.6,2,11.2
+2026-01-10,Thai Tea,6.74,1,6.74
+2026-01-10,Taro Milk Tea,7.16,2,14.32
+2026-01-10,Thai Tea,7.33,3,21.99
+2026-01-10,Thai Tea,6.92,1,6.92
+2026-01-10,Brown Sugar Boba,6.64,3,19.92
+2026-01-10,Matcha Latte,4.74,2,9.48
+2026-01-10,Thai Tea,6.89,1,6.89
+2026-01-10,Classic Milk Tea,7.32,3,21.96
+2026-01-10,Matcha Latte,6.02,3,18.06
+2026-01-10,Brown Sugar Boba,5.3,1,5.3
+2026-01-10,Taro Milk Tea,6.36,2,12.72
+2026-01-10,Taro Milk Tea,4.89,1,4.89
+2026-01-10,Taro Milk Tea,7.26,1,7.26
+2026-01-10,Taro Milk Tea,4.67,1,4.67
+2026-01-10,Matcha Latte,5.24,2,10.48
+2026-01-10,Thai Tea,5.68,3,17.04
+2026-01-10,Brown Sugar Boba,5.27,1,5.27
+2026-01-10,Brown Sugar Boba,6.25,1,6.25
+2026-01-10,Thai Tea,6.31,2,12.62
+2026-01-10,Brown Sugar Boba,5.87,1,5.87
+2026-01-10,Matcha Latte,5.85,3,17.55
+2026-01-10,Taro Milk Tea,5.01,2,10.02
+2026-01-10,Classic Milk Tea,6.11,2,12.22
+2026-01-10,Classic Milk Tea,6.61,2,13.22
+2026-01-10,Classic Milk Tea,6.58,1,6.58
+2026-01-10,Matcha Latte,5.53,3,16.59
+2026-01-10,Matcha Latte,6.78,3,20.34
+2026-01-10,Brown Sugar Boba,6.2,3,18.6
+2026-01-10,Thai Tea,5.31,2,10.62
+2026-01-10,Matcha Latte,6.87,3,20.61
+2026-01-10,Classic Milk Tea,6.68,2,13.36
+2026-01-10,Taro Milk Tea,5.72,3,17.16
+2026-01-11,Matcha Latte,4.55,2,9.1
+2026-01-11,Classic Milk Tea,5.04,3,15.12
+2026-01-11,Matcha Latte,6.01,2,12.02
+2026-01-11,Thai Tea,5.9,3,17.7
+2026-01-11,Thai Tea,6.22,2,12.44
+2026-01-11,Brown Sugar Boba,4.91,3,14.73
+2026-01-11,Taro Milk Tea,6.51,1,6.51
+2026-01-11,Taro Milk Tea,5.47,1,5.47
+2026-01-11,Brown Sugar Boba,6.47,1,6.47
+2026-01-11,Taro Milk Tea,4.76,1,4.76
+2026-01-11,Classic Milk Tea,6.32,1,6.32
+2026-01-11,Brown Sugar Boba,4.8,3,14.4
+2026-01-11,Thai Tea,5.18,2,10.36
+2026-01-11,Brown Sugar Boba,7.13,2,14.26
+2026-01-11,Taro Milk Tea,5.84,3,17.52
+2026-01-11,Thai Tea,5.81,2,11.62
+2026-01-11,Classic Milk Tea,7.25,2,14.5
+2026-01-11,Brown Sugar Boba,5.97,2,11.94
+2026-01-11,Classic Milk Tea,5.16,1,5.16
+2026-01-11,Matcha Latte,5.65,1,5.65
+2026-01-11,Taro Milk Tea,5.67,2,11.34
+2026-01-11,Thai Tea,5.78,3,17.34
+2026-01-11,Brown Sugar Boba,5.8,1,5.8
+2026-01-11,Brown Sugar Boba,5.95,3,17.85
+2026-01-11,Thai Tea,6.55,3,19.65
+2026-01-11,Matcha Latte,7.07,3,21.21
+2026-01-11,Matcha Latte,5.98,1,5.98
+2026-01-11,Taro Milk Tea,7.47,1,7.47
+2026-01-11,Brown Sugar Boba,5.33,2,10.66
+2026-01-11,Brown Sugar Boba,6.38,1,6.38
+2026-01-11,Classic Milk Tea,5.0,3,15.0
+2026-01-11,Matcha Latte,7.14,2,14.28
+2026-01-11,Matcha Latte,6.18,3,18.54
+2026-01-11,Classic Milk Tea,6.55,3,19.65
+2026-01-11,Classic Milk Tea,6.66,2,13.32
+2026-01-11,Brown Sugar Boba,7.38,3,22.14
+2026-01-11,Taro Milk Tea,6.93,3,20.79
+2026-01-11,Thai Tea,6.52,1,6.52
+2026-01-11,Matcha Latte,6.55,1,6.55
+2026-01-11,Thai Tea,5.22,2,10.44
+2026-01-12,Brown Sugar Boba,6.17,2,12.34
+2026-01-12,Thai Tea,6.82,3,20.46
+2026-01-12,Classic Milk Tea,6.1,1,6.1
+2026-01-12,Classic Milk Tea,5.93,1,5.93
+2026-01-12,Taro Milk Tea,5.83,3,17.49
+2026-01-12,Classic Milk Tea,7.11,2,14.22
+2026-01-12,Thai Tea,6.63,2,13.26
+2026-01-12,Brown Sugar Boba,7.1,1,7.1
+2026-01-12,Matcha Latte,6.34,3,19.02
+2026-01-12,Thai Tea,6.89,2,13.78
+2026-01-12,Brown Sugar Boba,6.67,2,13.34
+2026-01-12,Brown Sugar Boba,5.83,1,5.83
+2026-01-12,Thai Tea,5.91,3,17.73
+2026-01-12,Taro Milk Tea,6.26,3,18.78
+2026-01-12,Classic Milk Tea,6.4,2,12.8
+2026-01-12,Thai Tea,4.94,3,14.82
+2026-01-12,Classic Milk Tea,6.97,3,20.91
+2026-01-12,Matcha Latte,6.08,2,12.16
+2026-01-12,Thai Tea,5.9,2,11.8
+2026-01-12,Brown Sugar Boba,4.69,2,9.38
+2026-01-12,Matcha Latte,6.29,2,12.58
+2026-01-12,Brown Sugar Boba,5.26,2,10.52
+2026-01-12,Thai Tea,5.47,2,10.94
+2026-01-12,Thai Tea,6.15,1,6.15
+2026-01-12,Thai Tea,5.99,1,5.99
+2026-01-12,Brown Sugar Boba,6.35,2,12.7
+2026-01-12,Taro Milk Tea,4.5,2,9.0
+2026-01-12,Thai Tea,5.38,2,10.76
+2026-01-12,Matcha Latte,5.16,2,10.32
+2026-01-12,Brown Sugar Boba,6.72,3,20.16
+2026-01-12,Matcha Latte,5.21,3,15.63
+2026-01-12,Thai Tea,5.94,1,5.94
+2026-01-12,Taro Milk Tea,5.56,2,11.12
+2026-01-12,Taro Milk Tea,5.47,2,10.94
+2026-01-12,Matcha Latte,5.23,3,15.69
+2026-01-12,Classic Milk Tea,5.49,3,16.47
+2026-01-12,Thai Tea,6.69,3,20.07
+2026-01-13,Brown Sugar Boba,4.9,2,9.8
+2026-01-13,Thai Tea,6.94,3,20.82
+2026-01-13,Matcha Latte,5.63,3,16.89
+2026-01-13,Taro Milk Tea,6.06,2,12.12
+2026-01-13,Thai Tea,5.02,2,10.04
+2026-01-13,Classic Milk Tea,5.41,1,5.41
+2026-01-13,Taro Milk Tea,5.2,1,5.2
+2026-01-13,Classic Milk Tea,6.27,1,6.27
+2026-01-13,Taro Milk Tea,5.82,2,11.64
+2026-01-13,Matcha Latte,5.96,3,17.88
+2026-01-13,Thai Tea,5.93,3,17.79
+2026-01-13,Brown Sugar Boba,5.66,3,16.98
+2026-01-13,Thai Tea,5.56,3,16.68
+2026-01-13,Thai Tea,5.17,3,15.51
+2026-01-13,Matcha Latte,5.86,3,17.58
+2026-01-13,Taro Milk Tea,7.42,1,7.42
+2026-01-13,Matcha Latte,6.61,3,19.83
+2026-01-13,Thai Tea,4.5,1,4.5
+2026-01-13,Thai Tea,4.96,1,4.96
+2026-01-13,Matcha Latte,6.21,3,18.63
+2026-01-13,Brown Sugar Boba,5.25,3,15.75
+2026-01-13,Thai Tea,4.69,2,9.38
+2026-01-13,Thai Tea,4.95,3,14.85
+2026-01-13,Thai Tea,6.62,1,6.62
+2026-01-13,Thai Tea,4.72,1,4.72
+2026-01-13,Taro Milk Tea,7.37,3,22.11
+2026-01-13,Thai Tea,4.7,3,14.1
+2026-01-13,Thai Tea,6.19,3,18.57
+2026-01-13,Matcha Latte,5.94,3,17.82
+2026-01-13,Brown Sugar Boba,6.66,2,13.32
+2026-01-13,Brown Sugar Boba,6.46,3,19.38
+2026-01-13,Taro Milk Tea,6.19,3,18.57
+2026-01-13,Matcha Latte,6.26,1,6.26
+2026-01-13,Thai Tea,6.44,2,12.88
+2026-01-13,Matcha Latte,5.78,1,5.78
+2026-01-13,Brown Sugar Boba,6.9,3,20.7
+2026-01-13,Thai Tea,5.83,1,5.83
+2026-01-14,Brown Sugar Boba,6.81,1,6.81
+2026-01-14,Classic Milk Tea,7.44,2,14.88
+2026-01-14,Classic Milk Tea,6.91,1,6.91
+2026-01-14,Thai Tea,5.88,2,11.76
+2026-01-14,Matcha Latte,5.32,3,15.96
+2026-01-14,Thai Tea,4.52,1,4.52
+2026-01-14,Taro Milk Tea,6.56,3,19.68
+2026-01-14,Thai Tea,5.04,2,10.08
+2026-01-14,Classic Milk Tea,7.43,2,14.86
+2026-01-14,Taro Milk Tea,6.93,2,13.86
+2026-01-14,Taro Milk Tea,5.33,1,5.33
+2026-01-14,Taro Milk Tea,7.39,2,14.78
+2026-01-14,Thai Tea,7.01,1,7.01
+2026-01-14,Thai Tea,4.75,2,9.5
+2026-01-14,Matcha Latte,6.8,1,6.8
+2026-01-14,Taro Milk Tea,7.05,1,7.05
+2026-01-14,Taro Milk Tea,6.31,2,12.62
+2026-01-14,Thai Tea,5.63,2,11.26
+2026-01-14,Classic Milk Tea,7.02,3,21.06
+2026-01-14,Thai Tea,6.99,2,13.98
+2026-01-14,Brown Sugar Boba,4.81,3,14.43
+2026-01-14,Classic Milk Tea,7.03,2,14.06
+2026-01-14,Classic Milk Tea,6.8,3,20.4
+2026-01-14,Matcha Latte,5.33,3,15.99
+2026-01-14,Brown Sugar Boba,6.71,3,20.13
+2026-01-14,Brown Sugar Boba,5.08,2,10.16
+2026-01-14,Classic Milk Tea,6.45,2,12.9
+2026-01-14,Matcha Latte,7.14,3,21.42
+2026-01-14,Matcha Latte,5.88,3,17.64
+2026-01-14,Taro Milk Tea,6.15,2,12.3
+2026-01-14,Matcha Latte,4.95,2,9.9
+2026-01-15,Brown Sugar Boba,5.81,1,5.81
+2026-01-15,Brown Sugar Boba,7.47,1,7.47
+2026-01-15,Matcha Latte,4.79,1,4.79
+2026-01-15,Thai Tea,5.81,2,11.62
+2026-01-15,Taro Milk Tea,6.0,1,6.0
+2026-01-15,Matcha Latte,4.82,3,14.46
+2026-01-15,Matcha Latte,7.07,1,7.07
+2026-01-15,Thai Tea,4.61,2,9.22
+2026-01-15,Matcha Latte,5.47,1,5.47
+2026-01-15,Taro Milk Tea,5.12,1,5.12
+2026-01-15,Classic Milk Tea,6.94,1,6.94
+2026-01-15,Classic Milk Tea,7.12,3,21.36
+2026-01-15,Taro Milk Tea,6.54,1,6.54
+2026-01-15,Matcha Latte,4.74,3,14.22
+2026-01-15,Matcha Latte,5.86,1,5.86
+2026-01-15,Thai Tea,6.28,3,18.84
+2026-01-15,Taro Milk Tea,6.57,2,13.14
+2026-01-15,Classic Milk Tea,5.71,3,17.13
+2026-01-15,Taro Milk Tea,6.32,2,12.64
+2026-01-15,Thai Tea,4.52,1,4.52
+2026-01-15,Thai Tea,6.69,3,20.07
+2026-01-15,Matcha Latte,5.59,1,5.59
+2026-01-15,Classic Milk Tea,5.61,3,16.83
+2026-01-15,Brown Sugar Boba,5.37,1,5.37
+2026-01-15,Taro Milk Tea,7.2,3,21.6
+2026-01-15,Brown Sugar Boba,7.31,3,21.93
+2026-01-15,Thai Tea,5.55,2,11.1
+2026-01-15,Taro Milk Tea,7.37,2,14.74
+2026-01-15,Brown Sugar Boba,7.14,1,7.14
+2026-01-15,Matcha Latte,7.26,2,14.52
+2026-01-15,Matcha Latte,5.67,2,11.34
+2026-01-15,Classic Milk Tea,6.72,2,13.44
+2026-01-15,Taro Milk Tea,5.42,1,5.42
+2026-01-15,Taro Milk Tea,5.37,1,5.37
+2026-01-15,Matcha Latte,6.56,3,19.68
+2026-01-15,Classic Milk Tea,7.22,2,14.44
+2026-01-15,Taro Milk Tea,7.13,1,7.13
+2026-01-15,Thai Tea,4.69,3,14.07
+2026-01-15,Brown Sugar Boba,6.42,2,12.84
+2026-01-15,Brown Sugar Boba,7.1,3,21.3
+2026-01-15,Taro Milk Tea,5.01,1,5.01
+2026-01-15,Taro Milk Tea,7.25,3,21.75
+2026-01-16,Matcha Latte,5.29,1,5.29
+2026-01-16,Brown Sugar Boba,7.31,3,21.93
+2026-01-16,Thai Tea,4.74,3,14.22
+2026-01-16,Thai Tea,6.93,2,13.86
+2026-01-16,Taro Milk Tea,5.41,2,10.82
+2026-01-16,Taro Milk Tea,7.28,2,14.56
+2026-01-16,Classic Milk Tea,7.4,3,22.2
+2026-01-16,Brown Sugar Boba,7.18,3,21.54
+2026-01-16,Classic Milk Tea,6.26,2,12.52
+2026-01-16,Classic Milk Tea,5.8,1,5.8
+2026-01-16,Thai Tea,7.38,3,22.14
+2026-01-16,Brown Sugar Boba,6.12,3,18.36
+2026-01-16,Classic Milk Tea,4.82,2,9.64
+2026-01-16,Taro Milk Tea,6.23,1,6.23
+2026-01-16,Matcha Latte,6.4,2,12.8
+2026-01-16,Brown Sugar Boba,5.29,3,15.87
+2026-01-16,Classic Milk Tea,4.78,3,14.34
+2026-01-16,Classic Milk Tea,4.93,2,9.86
+2026-01-16,Thai Tea,6.34,2,12.68
+2026-01-16,Brown Sugar Boba,4.73,1,4.73
+2026-01-16,Classic Milk Tea,5.08,3,15.24
+2026-01-16,Thai Tea,7.2,3,21.6
+2026-01-16,Matcha Latte,4.75,3,14.25
+2026-01-16,Classic Milk Tea,6.41,2,12.82
+2026-01-16,Matcha Latte,6.83,1,6.83
+2026-01-16,Thai Tea,6.69,2,13.38
+2026-01-16,Classic Milk Tea,6.45,1,6.45
+2026-01-17,Thai Tea,6.21,3,18.63
+2026-01-17,Matcha Latte,4.57,3,13.71
+2026-01-17,Taro Milk Tea,5.8,3,17.4
+2026-01-17,Thai Tea,7.33,3,21.99
+2026-01-17,Brown Sugar Boba,7.36,2,14.72
+2026-01-17,Brown Sugar Boba,4.75,1,4.75
+2026-01-17,Thai Tea,6.46,1,6.46
+2026-01-17,Thai Tea,4.72,1,4.72
+2026-01-17,Classic Milk Tea,6.35,2,12.7
+2026-01-17,Classic Milk Tea,6.84,3,20.52
+2026-01-17,Taro Milk Tea,5.61,3,16.83
+2026-01-17,Brown Sugar Boba,5.49,2,10.98
+2026-01-17,Classic Milk Tea,6.42,2,12.84
+2026-01-17,Matcha Latte,6.19,2,12.38
+2026-01-17,Thai Tea,4.69,3,14.07
+2026-01-17,Brown Sugar Boba,4.61,2,9.22
+2026-01-17,Matcha Latte,4.81,2,9.62
+2026-01-17,Brown Sugar Boba,5.35,2,10.7
+2026-01-17,Matcha Latte,6.54,2,13.08
+2026-01-17,Taro Milk Tea,5.97,3,17.91
+2026-01-17,Classic Milk Tea,5.27,1,5.27
+2026-01-17,Thai Tea,4.55,1,4.55
+2026-01-17,Taro Milk Tea,5.3,1,5.3
+2026-01-17,Matcha Latte,7.19,1,7.19
+2026-01-17,Brown Sugar Boba,6.28,1,6.28
+2026-01-17,Classic Milk Tea,6.8,3,20.4
+2026-01-17,Classic Milk Tea,4.75,2,9.5
+2026-01-17,Matcha Latte,5.58,3,16.74
+2026-01-17,Classic Milk Tea,5.68,3,17.04
+2026-01-17,Thai Tea,5.9,1,5.9
+2026-01-17,Brown Sugar Boba,6.41,3,19.23
+2026-01-17,Brown Sugar Boba,6.59,3,19.77
+2026-01-17,Matcha Latte,6.34,1,6.34
+2026-01-17,Matcha Latte,4.82,1,4.82
+2026-01-17,Matcha Latte,4.98,3,14.94
+2026-01-17,Thai Tea,7.1,1,7.1
+2026-01-17,Classic Milk Tea,6.72,3,20.16
+2026-01-17,Taro Milk Tea,5.67,1,5.67
+2026-01-17,Taro Milk Tea,7.05,2,14.1
+2026-01-17,Classic Milk Tea,6.24,3,18.72
+2026-01-17,Thai Tea,7.22,1,7.22
+2026-01-17,Brown Sugar Boba,4.94,1,4.94
+2026-01-18,Thai Tea,7.34,1,7.34
+2026-01-18,Matcha Latte,6.32,3,18.96
+2026-01-18,Taro Milk Tea,7.48,3,22.44
+2026-01-18,Matcha Latte,7.31,3,21.93
+2026-01-18,Classic Milk Tea,5.4,1,5.4
+2026-01-18,Taro Milk Tea,6.01,1,6.01
+2026-01-18,Taro Milk Tea,7.33,3,21.99
+2026-01-18,Matcha Latte,6.87,2,13.74
+2026-01-18,Thai Tea,6.67,1,6.67
+2026-01-18,Taro Milk Tea,7.34,3,22.02
+2026-01-18,Classic Milk Tea,6.29,2,12.58
+2026-01-18,Classic Milk Tea,7.45,2,14.9
+2026-01-18,Classic Milk Tea,4.66,3,13.98
+2026-01-18,Classic Milk Tea,6.89,1,6.89
+2026-01-18,Taro Milk Tea,6.32,2,12.64
+2026-01-18,Classic Milk Tea,6.63,1,6.63
+2026-01-18,Brown Sugar Boba,5.73,3,17.19
+2026-01-18,Brown Sugar Boba,4.98,2,9.96
+2026-01-18,Matcha Latte,6.78,3,20.34
+2026-01-18,Brown Sugar Boba,5.6,1,5.6
+2026-01-18,Matcha Latte,6.96,2,13.92
+2026-01-18,Classic Milk Tea,4.53,2,9.06
+2026-01-18,Taro Milk Tea,6.87,1,6.87
+2026-01-18,Classic Milk Tea,4.5,2,9.0
+2026-01-18,Classic Milk Tea,4.62,3,13.86
+2026-01-18,Matcha Latte,7.36,1,7.36
+2026-01-18,Brown Sugar Boba,5.08,2,10.16
+2026-01-18,Taro Milk Tea,6.64,3,19.92
+2026-01-18,Thai Tea,4.57,3,13.71
+2026-01-18,Brown Sugar Boba,4.89,2,9.78
+2026-01-18,Classic Milk Tea,5.45,2,10.9
+2026-01-18,Thai Tea,5.31,3,15.93
+2026-01-18,Classic Milk Tea,4.77,1,4.77
+2026-01-18,Brown Sugar Boba,5.32,1,5.32
+2026-01-18,Classic Milk Tea,5.14,2,10.28
+2026-01-18,Taro Milk Tea,6.28,1,6.28
+2026-01-18,Matcha Latte,6.56,2,13.12
+2026-01-18,Matcha Latte,7.12,2,14.24
+2026-01-18,Matcha Latte,5.79,1,5.79
+2026-01-18,Taro Milk Tea,5.39,2,10.78
+2026-01-18,Taro Milk Tea,5.06,1,5.06
+2026-01-18,Matcha Latte,5.69,3,17.07
+2026-01-18,Matcha Latte,6.85,1,6.85
+2026-01-18,Matcha Latte,5.04,1,5.04
+2026-01-19,Thai Tea,6.42,3,19.26
+2026-01-19,Taro Milk Tea,6.66,2,13.32
+2026-01-19,Matcha Latte,7.48,2,14.96
+2026-01-19,Matcha Latte,4.94,1,4.94
+2026-01-19,Matcha Latte,6.14,3,18.42
+2026-01-19,Classic Milk Tea,4.74,3,14.22
+2026-01-19,Classic Milk Tea,7.16,2,14.32
+2026-01-19,Taro Milk Tea,4.76,1,4.76
+2026-01-19,Thai Tea,5.56,2,11.12
+2026-01-19,Brown Sugar Boba,4.76,2,9.52
+2026-01-19,Brown Sugar Boba,6.14,1,6.14
+2026-01-19,Taro Milk Tea,4.76,3,14.28
+2026-01-19,Thai Tea,5.4,1,5.4
+2026-01-19,Matcha Latte,6.04,2,12.08
+2026-01-19,Classic Milk Tea,4.91,3,14.73
+2026-01-19,Brown Sugar Boba,6.19,1,6.19
+2026-01-19,Brown Sugar Boba,5.98,3,17.94
+2026-01-19,Thai Tea,5.27,1,5.27
+2026-01-19,Matcha Latte,6.28,3,18.84
+2026-01-19,Taro Milk Tea,5.17,3,15.51
+2026-01-19,Thai Tea,6.06,3,18.18
+2026-01-19,Brown Sugar Boba,5.56,3,16.68
+2026-01-19,Brown Sugar Boba,5.55,3,16.65
+2026-01-19,Taro Milk Tea,5.49,3,16.47
+2026-01-19,Taro Milk Tea,5.22,1,5.22
+2026-01-19,Thai Tea,6.85,3,20.55
+2026-01-19,Brown Sugar Boba,5.72,1,5.72
+2026-01-19,Classic Milk Tea,7.18,2,14.36
+2026-01-19,Thai Tea,6.94,3,20.82
+2026-01-19,Thai Tea,4.97,2,9.94
+2026-01-19,Brown Sugar Boba,5.31,1,5.31
+2026-01-19,Matcha Latte,7.13,3,21.39
+2026-01-19,Brown Sugar Boba,5.97,1,5.97
+2026-01-19,Thai Tea,6.57,3,19.71
+2026-01-19,Thai Tea,6.5,1,6.5
+2026-01-19,Matcha Latte,6.11,3,18.33
+2026-01-19,Brown Sugar Boba,5.97,1,5.97
+2026-01-19,Matcha Latte,5.28,1,5.28
+2026-01-19,Classic Milk Tea,5.95,3,17.85
+2026-01-19,Brown Sugar Boba,7.3,2,14.6
+2026-01-19,Classic Milk Tea,6.31,3,18.93
+2026-01-19,Classic Milk Tea,6.86,2,13.72
+2026-01-20,Brown Sugar Boba,6.24,1,6.24
+2026-01-20,Matcha Latte,5.27,3,15.81
+2026-01-20,Thai Tea,5.74,3,17.22
+2026-01-20,Taro Milk Tea,6.32,3,18.96
+2026-01-20,Thai Tea,4.71,3,14.13
+2026-01-20,Taro Milk Tea,5.19,3,15.57
+2026-01-20,Thai Tea,6.48,1,6.48
+2026-01-20,Classic Milk Tea,5.7,2,11.4
+2026-01-20,Thai Tea,6.32,1,6.32
+2026-01-20,Brown Sugar Boba,6.82,3,20.46
+2026-01-20,Classic Milk Tea,6.07,1,6.07
+2026-01-20,Classic Milk Tea,5.96,1,5.96
+2026-01-20,Matcha Latte,6.41,1,6.41
+2026-01-20,Matcha Latte,4.74,1,4.74
+2026-01-20,Taro Milk Tea,6.47,1,6.47
+2026-01-20,Classic Milk Tea,6.94,2,13.88
+2026-01-20,Brown Sugar Boba,6.65,3,19.95
+2026-01-20,Thai Tea,5.25,3,15.75
+2026-01-20,Taro Milk Tea,6.37,2,12.74
+2026-01-20,Classic Milk Tea,5.78,2,11.56
+2026-01-20,Thai Tea,4.72,2,9.44
+2026-01-20,Taro Milk Tea,5.01,2,10.02
+2026-01-20,Taro Milk Tea,6.6,1,6.6
+2026-01-20,Thai Tea,7.38,2,14.76
+2026-01-20,Taro Milk Tea,4.96,1,4.96
+2026-01-20,Matcha Latte,5.18,3,15.54
+2026-01-20,Classic Milk Tea,5.06,2,10.12
+2026-01-20,Thai Tea,5.55,2,11.1
+2026-01-20,Taro Milk Tea,5.05,1,5.05
+2026-01-20,Taro Milk Tea,6.02,1,6.02
+2026-01-20,Taro Milk Tea,4.68,3,14.04
+2026-01-20,Classic Milk Tea,7.07,2,14.14
+2026-01-20,Brown Sugar Boba,7.05,1,7.05
+2026-01-20,Brown Sugar Boba,5.6,1,5.6
+2026-01-20,Thai Tea,7.15,3,21.45
+2026-01-20,Brown Sugar Boba,6.72,1,6.72
+2026-01-20,Classic Milk Tea,6.21,1,6.21
+2026-01-20,Matcha Latte,4.82,2,9.64
+2026-01-20,Classic Milk Tea,7.38,3,22.14
+2026-01-20,Brown Sugar Boba,7.04,2,14.08
+2026-01-20,Brown Sugar Boba,7.0,1,7.0
+2026-01-20,Thai Tea,4.8,3,14.4
+2026-01-20,Thai Tea,6.91,3,20.73
+2026-01-20,Brown Sugar Boba,5.32,1,5.32
+2026-01-20,Classic Milk Tea,5.91,2,11.82
+2026-01-21,Brown Sugar Boba,7.35,3,22.05
+2026-01-21,Taro Milk Tea,5.92,1,5.92
+2026-01-21,Thai Tea,4.64,1,4.64
+2026-01-21,Thai Tea,4.53,2,9.06
+2026-01-21,Matcha Latte,7.25,1,7.25
+2026-01-21,Thai Tea,4.64,1,4.64
+2026-01-21,Brown Sugar Boba,5.28,3,15.84
+2026-01-21,Matcha Latte,5.93,2,11.86
+2026-01-21,Matcha Latte,6.49,1,6.49
+2026-01-21,Matcha Latte,6.18,1,6.18
+2026-01-21,Classic Milk Tea,4.8,2,9.6
+2026-01-21,Classic Milk Tea,6.51,1,6.51
+2026-01-21,Taro Milk Tea,6.1,3,18.3
+2026-01-21,Brown Sugar Boba,4.65,3,13.95
+2026-01-21,Taro Milk Tea,6.56,2,13.12
+2026-01-21,Taro Milk Tea,4.75,1,4.75
+2026-01-21,Classic Milk Tea,6.86,1,6.86
+2026-01-21,Taro Milk Tea,5.52,2,11.04
+2026-01-21,Brown Sugar Boba,4.75,3,14.25
+2026-01-21,Thai Tea,6.94,1,6.94
+2026-01-21,Thai Tea,5.68,1,5.68
+2026-01-21,Brown Sugar Boba,5.69,1,5.69
+2026-01-21,Matcha Latte,7.3,2,14.6
+2026-01-21,Brown Sugar Boba,5.94,2,11.88
+2026-01-21,Brown Sugar Boba,6.17,1,6.17
+2026-01-21,Taro Milk Tea,6.45,1,6.45
+2026-01-21,Matcha Latte,5.01,1,5.01
+2026-01-21,Taro Milk Tea,6.58,3,19.74
+2026-01-21,Taro Milk Tea,7.3,1,7.3
+2026-01-21,Brown Sugar Boba,5.87,2,11.74
+2026-01-21,Taro Milk Tea,6.91,3,20.73
+2026-01-21,Matcha Latte,7.13,3,21.39
+2026-01-21,Brown Sugar Boba,6.77,3,20.31
+2026-01-21,Matcha Latte,7.36,3,22.08
+2026-01-21,Classic Milk Tea,5.41,3,16.23
+2026-01-21,Matcha Latte,5.67,3,17.01
+2026-01-21,Thai Tea,6.41,3,19.23
+2026-01-21,Brown Sugar Boba,6.85,1,6.85
+2026-01-21,Brown Sugar Boba,6.74,2,13.48
+2026-01-21,Taro Milk Tea,7.07,1,7.07
+2026-01-21,Matcha Latte,6.47,1,6.47
+2026-01-21,Brown Sugar Boba,6.61,1,6.61
+2026-01-21,Brown Sugar Boba,5.36,3,16.08
+2026-01-21,Classic Milk Tea,6.84,3,20.52
+2026-01-21,Matcha Latte,5.57,2,11.14
+2026-01-21,Matcha Latte,5.86,3,17.58
+2026-01-22,Matcha Latte,5.57,2,11.14
+2026-01-22,Classic Milk Tea,5.86,3,17.58
+2026-01-22,Classic Milk Tea,6.82,2,13.64
+2026-01-22,Brown Sugar Boba,6.47,2,12.94
+2026-01-22,Taro Milk Tea,5.03,3,15.09
+2026-01-22,Classic Milk Tea,7.15,1,7.15
+2026-01-22,Classic Milk Tea,6.89,3,20.67
+2026-01-22,Thai Tea,7.49,3,22.47
+2026-01-22,Brown Sugar Boba,6.29,3,18.87
+2026-01-22,Classic Milk Tea,5.2,3,15.6
+2026-01-22,Classic Milk Tea,7.47,1,7.47
+2026-01-22,Matcha Latte,4.57,1,4.57
+2026-01-22,Brown Sugar Boba,6.79,2,13.58
+2026-01-22,Thai Tea,6.15,2,12.3
+2026-01-22,Classic Milk Tea,6.63,2,13.26
+2026-01-22,Taro Milk Tea,6.49,1,6.49
+2026-01-22,Matcha Latte,5.93,2,11.86
+2026-01-22,Taro Milk Tea,6.0,2,12.0
+2026-01-22,Taro Milk Tea,5.32,2,10.64
+2026-01-22,Matcha Latte,4.59,1,4.59
+2026-01-22,Brown Sugar Boba,4.73,1,4.73
+2026-01-22,Brown Sugar Boba,4.76,2,9.52
+2026-01-22,Matcha Latte,4.57,2,9.14
+2026-01-22,Taro Milk Tea,4.82,2,9.64
+2026-01-22,Taro Milk Tea,4.88,3,14.64
+2026-01-22,Thai Tea,5.34,1,5.34
+2026-01-22,Brown Sugar Boba,6.9,1,6.9
+2026-01-22,Classic Milk Tea,6.68,3,20.04
+2026-01-22,Matcha Latte,6.19,3,18.57
+2026-01-22,Classic Milk Tea,6.31,1,6.31
+2026-01-22,Taro Milk Tea,5.92,2,11.84
+2026-01-22,Thai Tea,6.19,3,18.57
+2026-01-22,Brown Sugar Boba,6.9,3,20.7
+2026-01-23,Brown Sugar Boba,4.64,2,9.28
+2026-01-23,Classic Milk Tea,4.76,2,9.52
+2026-01-23,Thai Tea,5.63,1,5.63
+2026-01-23,Matcha Latte,5.29,2,10.58
+2026-01-23,Matcha Latte,6.15,2,12.3
+2026-01-23,Brown Sugar Boba,6.07,2,12.14
+2026-01-23,Brown Sugar Boba,6.9,2,13.8
+2026-01-23,Taro Milk Tea,6.02,1,6.02
+2026-01-23,Brown Sugar Boba,6.92,1,6.92
+2026-01-23,Classic Milk Tea,6.99,3,20.97
+2026-01-23,Classic Milk Tea,6.69,2,13.38
+2026-01-23,Classic Milk Tea,7.42,2,14.84
+2026-01-23,Matcha Latte,6.37,3,19.11
+2026-01-23,Matcha Latte,7.0,2,14.0
+2026-01-23,Taro Milk Tea,5.01,2,10.02
+2026-01-23,Taro Milk Tea,6.03,2,12.06
+2026-01-23,Matcha Latte,6.2,1,6.2
+2026-01-23,Thai Tea,6.93,2,13.86
+2026-01-23,Classic Milk Tea,5.38,3,16.14
+2026-01-23,Thai Tea,6.35,1,6.35
+2026-01-23,Brown Sugar Boba,6.26,1,6.26
+2026-01-23,Taro Milk Tea,5.43,1,5.43
+2026-01-23,Thai Tea,6.01,1,6.01
+2026-01-23,Taro Milk Tea,5.0,2,10.0
+2026-01-23,Thai Tea,7.13,1,7.13
+2026-01-23,Taro Milk Tea,6.5,1,6.5
+2026-01-23,Brown Sugar Boba,4.92,3,14.76
+2026-01-23,Taro Milk Tea,5.08,2,10.16
+2026-01-23,Classic Milk Tea,6.82,3,20.46
+2026-01-23,Brown Sugar Boba,6.09,1,6.09
+2026-01-23,Brown Sugar Boba,5.86,1,5.86
+2026-01-23,Brown Sugar Boba,6.02,1,6.02
+2026-01-23,Taro Milk Tea,5.82,2,11.64
+2026-01-23,Brown Sugar Boba,6.43,1,6.43
+2026-01-23,Brown Sugar Boba,7.29,1,7.29
+2026-01-23,Thai Tea,6.21,3,18.63
+2026-01-23,Taro Milk Tea,5.77,3,17.31
+2026-01-23,Brown Sugar Boba,6.41,1,6.41
+2026-01-23,Classic Milk Tea,5.68,2,11.36
+2026-01-23,Matcha Latte,7.14,3,21.42
+2026-01-23,Thai Tea,6.52,1,6.52
+2026-01-23,Brown Sugar Boba,5.23,1,5.23
+2026-01-23,Classic Milk Tea,5.0,2,10.0
+2026-01-23,Matcha Latte,4.87,2,9.74
+2026-01-23,Thai Tea,6.41,1,6.41
+2026-01-23,Classic Milk Tea,6.36,2,12.72
+2026-01-23,Classic Milk Tea,5.31,1,5.31
+2026-01-24,Taro Milk Tea,5.18,2,10.36
+2026-01-24,Matcha Latte,7.45,1,7.45
+2026-01-24,Matcha Latte,6.33,3,18.99
+2026-01-24,Classic Milk Tea,7.5,3,22.5
+2026-01-24,Taro Milk Tea,5.49,1,5.49
+2026-01-24,Brown Sugar Boba,5.51,3,16.53
+2026-01-24,Classic Milk Tea,5.22,1,5.22
+2026-01-24,Thai Tea,4.6,3,13.8
+2026-01-24,Matcha Latte,5.2,3,15.6
+2026-01-24,Brown Sugar Boba,6.15,1,6.15
+2026-01-24,Brown Sugar Boba,7.34,1,7.34
+2026-01-24,Taro Milk Tea,4.66,2,9.32
+2026-01-24,Taro Milk Tea,5.29,1,5.29
+2026-01-24,Brown Sugar Boba,5.99,1,5.99
+2026-01-24,Thai Tea,6.88,1,6.88
+2026-01-24,Thai Tea,5.96,1,5.96
+2026-01-24,Taro Milk Tea,7.34,1,7.34
+2026-01-24,Brown Sugar Boba,7.2,3,21.6
+2026-01-24,Taro Milk Tea,6.85,1,6.85
+2026-01-24,Classic Milk Tea,5.58,1,5.58
+2026-01-24,Taro Milk Tea,5.17,1,5.17
+2026-01-24,Brown Sugar Boba,5.23,1,5.23
+2026-01-24,Matcha Latte,7.33,1,7.33
+2026-01-24,Brown Sugar Boba,5.57,2,11.14
+2026-01-24,Brown Sugar Boba,5.08,3,15.24
+2026-01-24,Classic Milk Tea,6.94,2,13.88
+2026-01-24,Classic Milk Tea,4.51,3,13.53
+2026-01-24,Matcha Latte,4.74,3,14.22
+2026-01-24,Brown Sugar Boba,6.54,1,6.54
+2026-01-24,Matcha Latte,7.28,2,14.56
+2026-01-24,Classic Milk Tea,6.17,1,6.17
+2026-01-24,Thai Tea,6.29,2,12.58
+2026-01-24,Matcha Latte,4.72,2,9.44
+2026-01-24,Taro Milk Tea,6.91,2,13.82
+2026-01-25,Thai Tea,6.24,1,6.24
+2026-01-25,Matcha Latte,5.97,2,11.94
+2026-01-25,Classic Milk Tea,6.25,1,6.25
+2026-01-25,Matcha Latte,6.94,2,13.88
+2026-01-25,Brown Sugar Boba,7.13,2,14.26
+2026-01-25,Classic Milk Tea,7.47,2,14.94
+2026-01-25,Brown Sugar Boba,7.33,3,21.99
+2026-01-25,Taro Milk Tea,5.37,1,5.37
+2026-01-25,Taro Milk Tea,6.66,1,6.66
+2026-01-25,Taro Milk Tea,6.57,1,6.57
+2026-01-25,Brown Sugar Boba,6.51,1,6.51
+2026-01-25,Brown Sugar Boba,6.97,2,13.94
+2026-01-25,Matcha Latte,5.2,3,15.6
+2026-01-25,Classic Milk Tea,6.58,3,19.74
+2026-01-25,Brown Sugar Boba,6.29,3,18.87
+2026-01-25,Taro Milk Tea,5.94,3,17.82
+2026-01-25,Matcha Latte,7.01,3,21.03
+2026-01-25,Taro Milk Tea,6.79,3,20.37
+2026-01-25,Classic Milk Tea,6.96,2,13.92
+2026-01-25,Matcha Latte,4.57,2,9.14
+2026-01-25,Brown Sugar Boba,6.74,2,13.48
+2026-01-25,Classic Milk Tea,5.75,2,11.5
+2026-01-25,Classic Milk Tea,4.71,1,4.71
+2026-01-25,Classic Milk Tea,7.06,2,14.12
+2026-01-25,Classic Milk Tea,6.24,1,6.24
+2026-01-25,Taro Milk Tea,4.7,1,4.7
+2026-01-25,Classic Milk Tea,6.62,1,6.62
+2026-01-25,Classic Milk Tea,4.86,1,4.86
+2026-01-25,Matcha Latte,5.89,3,17.67
+2026-01-25,Thai Tea,6.81,1,6.81
+2026-01-25,Classic Milk Tea,4.65,1,4.65
+2026-01-25,Taro Milk Tea,6.09,2,12.18
+2026-01-25,Taro Milk Tea,6.28,3,18.84
+2026-01-26,Thai Tea,5.41,2,10.82
+2026-01-26,Brown Sugar Boba,7.2,3,21.6
+2026-01-26,Taro Milk Tea,4.55,2,9.1
+2026-01-26,Matcha Latte,5.65,2,11.3
+2026-01-26,Matcha Latte,4.85,2,9.7
+2026-01-26,Brown Sugar Boba,6.11,1,6.11
+2026-01-26,Thai Tea,5.39,2,10.78
+2026-01-26,Classic Milk Tea,5.46,3,16.38
+2026-01-26,Taro Milk Tea,4.75,1,4.75
+2026-01-26,Classic Milk Tea,6.71,2,13.42
+2026-01-26,Matcha Latte,6.09,3,18.27
+2026-01-26,Brown Sugar Boba,6.57,3,19.71
+2026-01-26,Brown Sugar Boba,7.37,2,14.74
+2026-01-26,Thai Tea,5.57,2,11.14
+2026-01-26,Matcha Latte,6.17,2,12.34
+2026-01-26,Thai Tea,4.81,2,9.62
+2026-01-26,Matcha Latte,5.87,2,11.74
+2026-01-26,Thai Tea,4.7,2,9.4
+2026-01-26,Matcha Latte,6.05,2,12.1
+2026-01-26,Classic Milk Tea,4.75,1,4.75
+2026-01-26,Brown Sugar Boba,6.19,3,18.57
+2026-01-26,Thai Tea,6.69,1,6.69
+2026-01-26,Classic Milk Tea,6.2,2,12.4
+2026-01-26,Brown Sugar Boba,7.27,2,14.54
+2026-01-26,Thai Tea,4.74,1,4.74
+2026-01-26,Taro Milk Tea,5.96,2,11.92
+2026-01-26,Thai Tea,5.94,2,11.88
+2026-01-27,Matcha Latte,5.26,1,5.26
+2026-01-27,Matcha Latte,4.76,2,9.52
+2026-01-27,Classic Milk Tea,7.03,1,7.03
+2026-01-27,Classic Milk Tea,4.57,3,13.71
+2026-01-27,Brown Sugar Boba,5.57,2,11.14
+2026-01-27,Taro Milk Tea,5.37,3,16.11
+2026-01-27,Thai Tea,7.01,2,14.02
+2026-01-27,Taro Milk Tea,6.35,2,12.7
+2026-01-27,Brown Sugar Boba,5.63,3,16.89
+2026-01-27,Taro Milk Tea,5.43,3,16.29
+2026-01-27,Thai Tea,4.67,1,4.67
+2026-01-27,Matcha Latte,6.16,3,18.48
+2026-01-27,Brown Sugar Boba,5.41,3,16.23
+2026-01-27,Matcha Latte,6.23,2,12.46
+2026-01-27,Classic Milk Tea,6.11,2,12.22
+2026-01-27,Classic Milk Tea,7.23,3,21.69
+2026-01-27,Taro Milk Tea,7.25,1,7.25
+2026-01-27,Brown Sugar Boba,6.41,2,12.82
+2026-01-27,Thai Tea,5.14,2,10.28
+2026-01-27,Brown Sugar Boba,6.71,3,20.13
+2026-01-27,Brown Sugar Boba,6.51,2,13.02
+2026-01-27,Matcha Latte,4.6,2,9.2
+2026-01-27,Matcha Latte,5.84,1,5.84
+2026-01-27,Taro Milk Tea,6.17,1,6.17
+2026-01-27,Brown Sugar Boba,5.55,2,11.1
+2026-01-27,Matcha Latte,4.98,1,4.98
+2026-01-27,Classic Milk Tea,6.87,1,6.87
+2026-01-27,Thai Tea,6.43,3,19.29
+2026-01-27,Brown Sugar Boba,6.18,2,12.36
+2026-01-27,Taro Milk Tea,7.02,2,14.04
+2026-01-27,Thai Tea,5.65,2,11.3
+2026-01-27,Matcha Latte,6.47,2,12.94
+2026-01-27,Thai Tea,6.91,2,13.82
+2026-01-27,Brown Sugar Boba,5.0,2,10.0
+2026-01-27,Matcha Latte,5.7,2,11.4
+2026-01-27,Brown Sugar Boba,4.59,2,9.18
+2026-01-27,Brown Sugar Boba,4.56,3,13.68
+2026-01-28,Thai Tea,5.12,3,15.36
+2026-01-28,Matcha Latte,4.58,1,4.58
+2026-01-28,Thai Tea,7.34,2,14.68
+2026-01-28,Matcha Latte,6.11,1,6.11
+2026-01-28,Thai Tea,5.19,3,15.57
+2026-01-28,Brown Sugar Boba,7.25,3,21.75
+2026-01-28,Brown Sugar Boba,5.59,3,16.77
+2026-01-28,Taro Milk Tea,7.37,2,14.74
+2026-01-28,Classic Milk Tea,5.45,3,16.35
+2026-01-28,Matcha Latte,5.34,3,16.02
+2026-01-28,Taro Milk Tea,5.33,2,10.66
+2026-01-28,Taro Milk Tea,6.36,3,19.08
+2026-01-28,Classic Milk Tea,6.71,1,6.71
+2026-01-28,Thai Tea,6.77,3,20.31
+2026-01-28,Thai Tea,5.05,2,10.1
+2026-01-28,Classic Milk Tea,5.92,2,11.84
+2026-01-28,Thai Tea,6.62,2,13.24
+2026-01-28,Classic Milk Tea,5.42,1,5.42
+2026-01-28,Brown Sugar Boba,5.41,2,10.82
+2026-01-28,Brown Sugar Boba,4.7,2,9.4
+2026-01-28,Matcha Latte,7.07,3,21.21
+2026-01-28,Classic Milk Tea,6.4,1,6.4
+2026-01-28,Taro Milk Tea,6.34,2,12.68
+2026-01-28,Taro Milk Tea,6.04,3,18.12
+2026-01-28,Brown Sugar Boba,6.89,3,20.67
+2026-01-28,Classic Milk Tea,7.14,3,21.42
+2026-01-28,Taro Milk Tea,6.42,1,6.42
+2026-01-28,Classic Milk Tea,5.99,1,5.99
+2026-01-28,Classic Milk Tea,7.01,3,21.03
+2026-01-28,Thai Tea,5.13,3,15.39
+2026-01-28,Taro Milk Tea,6.49,2,12.98
+2026-01-28,Thai Tea,6.41,2,12.82
+2026-01-28,Brown Sugar Boba,6.06,2,12.12
+2026-01-28,Thai Tea,5.74,2,11.48
+2026-01-28,Brown Sugar Boba,6.98,2,13.96
+2026-01-28,Classic Milk Tea,6.05,1,6.05
+2026-01-28,Matcha Latte,7.42,2,14.84
+2026-01-28,Taro Milk Tea,6.28,2,12.56
+2026-01-28,Thai Tea,4.83,3,14.49
+2026-01-28,Matcha Latte,6.72,3,20.16
+2026-01-28,Thai Tea,4.77,2,9.54
+2026-01-28,Brown Sugar Boba,6.82,1,6.82
+2026-01-28,Taro Milk Tea,6.09,3,18.27
+2026-01-28,Matcha Latte,7.38,2,14.76
+2026-01-28,Brown Sugar Boba,5.67,3,17.01
+2026-01-28,Classic Milk Tea,6.02,1,6.02
+2026-01-28,Matcha Latte,4.56,1,4.56
+2026-01-29,Thai Tea,6.35,1,6.35
+2026-01-29,Classic Milk Tea,4.73,3,14.19
+2026-01-29,Brown Sugar Boba,7.31,3,21.93
+2026-01-29,Brown Sugar Boba,5.7,2,11.4
+2026-01-29,Taro Milk Tea,6.0,2,12.0
+2026-01-29,Thai Tea,7.34,1,7.34
+2026-01-29,Taro Milk Tea,6.39,1,6.39
+2026-01-29,Thai Tea,5.13,2,10.26
+2026-01-29,Matcha Latte,7.34,2,14.68
+2026-01-29,Thai Tea,6.88,2,13.76
+2026-01-29,Matcha Latte,6.5,2,13.0
+2026-01-29,Taro Milk Tea,6.11,1,6.11
+2026-01-29,Taro Milk Tea,4.78,1,4.78
+2026-01-29,Brown Sugar Boba,5.02,3,15.06
+2026-01-29,Taro Milk Tea,6.64,3,19.92
+2026-01-29,Classic Milk Tea,5.49,3,16.47
+2026-01-29,Taro Milk Tea,6.51,3,19.53
+2026-01-29,Brown Sugar Boba,5.37,1,5.37
+2026-01-29,Taro Milk Tea,4.84,3,14.52
+2026-01-29,Thai Tea,5.86,2,11.72
+2026-01-29,Matcha Latte,4.74,1,4.74
+2026-01-29,Classic Milk Tea,5.48,2,10.96
+2026-01-29,Matcha Latte,4.72,1,4.72
+2026-01-29,Classic Milk Tea,5.11,1,5.11
+2026-01-29,Brown Sugar Boba,5.83,2,11.66
+2026-01-29,Taro Milk Tea,6.71,3,20.13
+2026-01-29,Classic Milk Tea,7.45,2,14.9
+2026-01-29,Brown Sugar Boba,6.17,2,12.34
+2026-01-29,Classic Milk Tea,6.01,3,18.03
+2026-01-29,Brown Sugar Boba,6.1,1,6.1
+2026-01-29,Matcha Latte,5.17,2,10.34
+2026-01-29,Matcha Latte,7.41,2,14.82
+2026-01-29,Thai Tea,5.24,3,15.72
+2026-01-29,Thai Tea,5.11,1,5.11
+2026-01-29,Matcha Latte,6.51,2,13.02
+2026-01-29,Classic Milk Tea,4.93,1,4.93
+2026-01-29,Classic Milk Tea,4.72,2,9.44
+2026-01-29,Matcha Latte,4.85,1,4.85
+2026-01-29,Classic Milk Tea,5.43,2,10.86
+2026-01-29,Taro Milk Tea,6.51,1,6.51
+2026-01-29,Brown Sugar Boba,6.06,1,6.06
+2026-01-29,Taro Milk Tea,7.16,2,14.32
+2026-01-29,Thai Tea,5.32,1,5.32
+2026-01-29,Classic Milk Tea,4.96,3,14.88
+2026-01-29,Matcha Latte,6.38,2,12.76
+2026-01-29,Classic Milk Tea,6.84,2,13.68
+2026-01-29,Thai Tea,7.17,1,7.17
+2026-01-29,Matcha Latte,5.2,3,15.6
+2026-01-30,Taro Milk Tea,5.53,2,11.06
+2026-01-30,Classic Milk Tea,5.54,3,16.62
+2026-01-30,Brown Sugar Boba,6.69,1,6.69
+2026-01-30,Brown Sugar Boba,5.59,3,16.77
+2026-01-30,Thai Tea,6.64,2,13.28
+2026-01-30,Brown Sugar Boba,6.15,1,6.15
+2026-01-30,Taro Milk Tea,5.18,2,10.36
+2026-01-30,Brown Sugar Boba,5.14,3,15.42
+2026-01-30,Taro Milk Tea,7.34,1,7.34
+2026-01-30,Classic Milk Tea,7.32,2,14.64
+2026-01-30,Thai Tea,5.55,1,5.55
+2026-01-30,Thai Tea,7.33,3,21.99
+2026-01-30,Taro Milk Tea,6.0,3,18.0
+2026-01-30,Thai Tea,5.82,2,11.64
+2026-01-30,Thai Tea,6.63,3,19.89
+2026-01-30,Matcha Latte,6.84,3,20.52
+2026-01-30,Brown Sugar Boba,6.64,3,19.92
+2026-01-30,Classic Milk Tea,7.24,1,7.24
+2026-01-30,Classic Milk Tea,4.67,2,9.34
+2026-01-30,Matcha Latte,4.55,2,9.1
+2026-01-30,Classic Milk Tea,6.73,2,13.46
+2026-01-30,Taro Milk Tea,4.93,2,9.86
+2026-01-30,Classic Milk Tea,6.01,3,18.03
+2026-01-30,Taro Milk Tea,5.93,2,11.86
+2026-01-30,Taro Milk Tea,6.52,3,19.56
+2026-01-30,Thai Tea,6.96,1,6.96
+2026-01-30,Taro Milk Tea,6.45,3,19.35
+2026-01-30,Thai Tea,5.19,1,5.19
+2026-01-30,Brown Sugar Boba,4.96,1,4.96
+2026-01-30,Brown Sugar Boba,5.37,2,10.74
+2026-01-30,Brown Sugar Boba,6.34,3,19.02
+2026-01-30,Taro Milk Tea,7.07,2,14.14
+2026-01-30,Thai Tea,5.6,1,5.6
+2026-01-30,Matcha Latte,6.01,2,12.02
+2026-01-30,Classic Milk Tea,4.99,3,14.97
+2026-01-30,Matcha Latte,5.06,1,5.06
+2026-01-30,Matcha Latte,5.78,2,11.56
+2026-01-30,Matcha Latte,7.05,2,14.1
+2026-01-30,Thai Tea,6.11,1,6.11
+2026-01-30,Matcha Latte,6.87,1,6.87
+2026-01-30,Taro Milk Tea,5.77,1,5.77
+2026-01-30,Matcha Latte,7.11,3,21.33
+2026-01-30,Taro Milk Tea,6.03,3,18.09
+2026-01-30,Brown Sugar Boba,5.46,1,5.46
+2026-01-30,Brown Sugar Boba,5.77,2,11.54
+2026-01-30,Taro Milk Tea,6.44,1,6.44
+2026-01-30,Thai Tea,6.53,1,6.53
+2026-01-30,Thai Tea,6.36,1,6.36
+2026-01-30,Classic Milk Tea,5.8,3,17.4
+2026-01-30,Brown Sugar Boba,5.71,2,11.42
+2026-01-31,Taro Milk Tea,7.38,1,7.38
+2026-01-31,Matcha Latte,5.01,3,15.03
+2026-01-31,Matcha Latte,6.0,1,6.0
+2026-01-31,Taro Milk Tea,4.84,1,4.84
+2026-01-31,Classic Milk Tea,5.7,2,11.4
+2026-01-31,Matcha Latte,4.73,1,4.73
+2026-01-31,Classic Milk Tea,6.27,1,6.27
+2026-01-31,Brown Sugar Boba,6.17,2,12.34
+2026-01-31,Brown Sugar Boba,6.14,3,18.42
+2026-01-31,Matcha Latte,6.18,2,12.36
+2026-01-31,Thai Tea,5.85,2,11.7
+2026-01-31,Matcha Latte,6.61,2,13.22
+2026-01-31,Taro Milk Tea,6.93,3,20.79
+2026-01-31,Thai Tea,6.68,1,6.68
+2026-01-31,Classic Milk Tea,6.54,2,13.08
+2026-01-31,Brown Sugar Boba,5.66,1,5.66
+2026-01-31,Taro Milk Tea,7.21,3,21.63
+2026-01-31,Taro Milk Tea,7.28,2,14.56
+2026-01-31,Matcha Latte,5.72,3,17.16
+2026-01-31,Matcha Latte,6.08,3,18.24
+2026-01-31,Taro Milk Tea,5.79,2,11.58
+2026-01-31,Classic Milk Tea,5.46,3,16.38
+2026-01-31,Brown Sugar Boba,5.4,1,5.4
+2026-01-31,Matcha Latte,6.67,3,20.01
+2026-01-31,Thai Tea,6.74,2,13.48
+2026-01-31,Classic Milk Tea,5.34,3,16.02
+2026-01-31,Classic Milk Tea,5.74,1,5.74
+2026-01-31,Brown Sugar Boba,7.47,2,14.94
+2026-01-31,Matcha Latte,7.45,1,7.45
+2026-01-31,Brown Sugar Boba,5.16,3,15.48
+2026-01-31,Thai Tea,6.85,1,6.85
+2026-01-31,Brown Sugar Boba,4.54,3,13.62
+2026-01-31,Matcha Latte,7.16,3,21.48
+2026-01-31,Brown Sugar Boba,7.11,2,14.22
+2026-02-01,Matcha Latte,4.69,2,9.38
+2026-02-01,Thai Tea,7.33,3,21.99
+2026-02-01,Thai Tea,4.73,2,9.46
+2026-02-01,Brown Sugar Boba,4.99,3,14.97
+2026-02-01,Brown Sugar Boba,5.74,1,5.74
+2026-02-01,Classic Milk Tea,5.59,3,16.77
+2026-02-01,Matcha Latte,4.79,3,14.37
+2026-02-01,Taro Milk Tea,6.1,1,6.1
+2026-02-01,Classic Milk Tea,4.61,1,4.61
+2026-02-01,Matcha Latte,5.54,3,16.62
+2026-02-01,Classic Milk Tea,6.73,2,13.46
+2026-02-01,Brown Sugar Boba,7.48,3,22.44
+2026-02-01,Matcha Latte,5.37,3,16.11
+2026-02-01,Taro Milk Tea,5.73,1,5.73
+2026-02-01,Matcha Latte,4.94,1,4.94
+2026-02-01,Thai Tea,6.63,1,6.63
+2026-02-01,Classic Milk Tea,6.98,2,13.96
+2026-02-01,Taro Milk Tea,5.16,1,5.16
+2026-02-01,Thai Tea,4.81,2,9.62
+2026-02-01,Brown Sugar Boba,5.48,2,10.96
+2026-02-01,Thai Tea,7.13,3,21.39
+2026-02-01,Thai Tea,6.5,2,13.0
+2026-02-01,Classic Milk Tea,5.14,1,5.14
+2026-02-01,Thai Tea,7.35,1,7.35
+2026-02-01,Thai Tea,5.0,2,10.0
+2026-02-01,Classic Milk Tea,4.89,1,4.89
+2026-02-01,Brown Sugar Boba,6.23,3,18.69
+2026-02-01,Classic Milk Tea,6.81,3,20.43
+2026-02-01,Brown Sugar Boba,5.85,2,11.7
+2026-02-01,Classic Milk Tea,4.79,3,14.37
+2026-02-01,Thai Tea,4.55,2,9.1
+2026-02-01,Matcha Latte,4.62,3,13.86
+2026-02-01,Brown Sugar Boba,6.63,3,19.89
+2026-02-01,Brown Sugar Boba,5.17,1,5.17
+2026-02-01,Brown Sugar Boba,5.27,1,5.27
+2026-02-01,Matcha Latte,4.86,2,9.72
+2026-02-01,Classic Milk Tea,4.66,3,13.98
+2026-02-01,Matcha Latte,4.87,3,14.61
+2026-02-02,Thai Tea,4.79,3,14.37
+2026-02-02,Classic Milk Tea,6.82,3,20.46
+2026-02-02,Brown Sugar Boba,4.55,2,9.1
+2026-02-02,Classic Milk Tea,5.82,3,17.46
+2026-02-02,Classic Milk Tea,5.06,3,15.18
+2026-02-02,Brown Sugar Boba,6.86,3,20.58
+2026-02-02,Taro Milk Tea,5.38,3,16.14
+2026-02-02,Taro Milk Tea,4.95,3,14.85
+2026-02-02,Taro Milk Tea,5.0,1,5.0
+2026-02-02,Thai Tea,7.11,1,7.11
+2026-02-02,Brown Sugar Boba,5.0,2,10.0
+2026-02-02,Classic Milk Tea,5.39,3,16.17
+2026-02-02,Matcha Latte,7.08,3,21.24
+2026-02-02,Classic Milk Tea,4.61,2,9.22
+2026-02-02,Classic Milk Tea,4.64,3,13.92
+2026-02-02,Brown Sugar Boba,7.03,3,21.09
+2026-02-02,Taro Milk Tea,6.47,1,6.47
+2026-02-02,Thai Tea,6.99,3,20.97
+2026-02-02,Brown Sugar Boba,4.76,3,14.28
+2026-02-02,Classic Milk Tea,5.72,2,11.44
+2026-02-02,Brown Sugar Boba,7.12,2,14.24
+2026-02-02,Classic Milk Tea,6.97,1,6.97
+2026-02-02,Brown Sugar Boba,6.78,2,13.56
+2026-02-02,Classic Milk Tea,7.35,2,14.7
+2026-02-02,Classic Milk Tea,5.06,2,10.12
+2026-02-02,Classic Milk Tea,5.89,2,11.78
+2026-02-02,Matcha Latte,5.16,1,5.16
+2026-02-02,Classic Milk Tea,5.34,3,16.02
+2026-02-02,Matcha Latte,4.68,1,4.68
+2026-02-02,Brown Sugar Boba,6.45,2,12.9
+2026-02-02,Thai Tea,6.7,2,13.4
+2026-02-02,Thai Tea,5.94,3,17.82
+2026-02-02,Taro Milk Tea,4.56,3,13.68
+2026-02-02,Taro Milk Tea,5.18,1,5.18
+2026-02-02,Brown Sugar Boba,5.63,2,11.26
+2026-02-02,Brown Sugar Boba,5.21,3,15.63
+2026-02-03,Thai Tea,6.53,2,13.06
+2026-02-03,Taro Milk Tea,5.73,1,5.73
+2026-02-03,Classic Milk Tea,6.68,3,20.04
+2026-02-03,Thai Tea,6.12,3,18.36
+2026-02-03,Thai Tea,4.52,3,13.56
+2026-02-03,Taro Milk Tea,6.32,2,12.64
+2026-02-03,Thai Tea,6.14,2,12.28
+2026-02-03,Matcha Latte,7.19,2,14.38
+2026-02-03,Classic Milk Tea,4.8,2,9.6
+2026-02-03,Taro Milk Tea,7.15,3,21.45
+2026-02-03,Thai Tea,5.42,1,5.42
+2026-02-03,Matcha Latte,4.72,3,14.16
+2026-02-03,Brown Sugar Boba,7.14,3,21.42
+2026-02-03,Classic Milk Tea,6.43,2,12.86
+2026-02-03,Classic Milk Tea,6.22,3,18.66
+2026-02-03,Matcha Latte,4.51,3,13.53
+2026-02-03,Brown Sugar Boba,7.42,1,7.42
+2026-02-03,Taro Milk Tea,4.78,3,14.34
+2026-02-03,Thai Tea,5.56,1,5.56
+2026-02-03,Brown Sugar Boba,4.89,3,14.67
+2026-02-03,Taro Milk Tea,5.76,2,11.52
+2026-02-03,Taro Milk Tea,5.88,1,5.88
+2026-02-03,Brown Sugar Boba,4.66,3,13.98
+2026-02-03,Taro Milk Tea,4.79,1,4.79
+2026-02-03,Brown Sugar Boba,5.45,2,10.9
+2026-02-03,Brown Sugar Boba,7.36,1,7.36
+2026-02-03,Brown Sugar Boba,6.3,1,6.3
+2026-02-03,Taro Milk Tea,6.09,1,6.09
+2026-02-03,Brown Sugar Boba,5.41,3,16.23
+2026-02-03,Brown Sugar Boba,5.01,2,10.02
+2026-02-03,Classic Milk Tea,5.86,2,11.72
+2026-02-03,Classic Milk Tea,7.36,2,14.72
+2026-02-03,Brown Sugar Boba,7.22,3,21.66
+2026-02-03,Thai Tea,4.81,3,14.43
+2026-02-03,Brown Sugar Boba,4.98,3,14.94
+2026-02-03,Matcha Latte,4.87,3,14.61
+2026-02-03,Thai Tea,7.02,3,21.06
+2026-02-03,Classic Milk Tea,6.42,1,6.42
+2026-02-04,Matcha Latte,4.71,1,4.71
+2026-02-04,Brown Sugar Boba,6.29,1,6.29
+2026-02-04,Classic Milk Tea,4.54,2,9.08
+2026-02-04,Brown Sugar Boba,7.27,2,14.54
+2026-02-04,Matcha Latte,7.3,3,21.9
+2026-02-04,Matcha Latte,4.78,2,9.56
+2026-02-04,Matcha Latte,6.1,3,18.3
+2026-02-04,Brown Sugar Boba,5.46,1,5.46
+2026-02-04,Brown Sugar Boba,5.5,2,11.0
+2026-02-04,Classic Milk Tea,5.31,3,15.93
+2026-02-04,Thai Tea,5.82,3,17.46
+2026-02-04,Classic Milk Tea,4.82,2,9.64
+2026-02-04,Classic Milk Tea,4.89,3,14.67
+2026-02-04,Classic Milk Tea,5.55,2,11.1
+2026-02-04,Thai Tea,4.69,1,4.69
+2026-02-04,Matcha Latte,5.13,1,5.13
+2026-02-04,Taro Milk Tea,6.84,3,20.52
+2026-02-04,Matcha Latte,5.71,2,11.42
+2026-02-04,Matcha Latte,6.56,3,19.68
+2026-02-04,Taro Milk Tea,5.54,1,5.54
+2026-02-04,Taro Milk Tea,6.5,1,6.5
+2026-02-04,Taro Milk Tea,7.24,3,21.72
+2026-02-04,Taro Milk Tea,6.64,3,19.92
+2026-02-04,Thai Tea,6.73,1,6.73
+2026-02-04,Brown Sugar Boba,5.92,3,17.76
+2026-02-04,Brown Sugar Boba,5.43,1,5.43
+2026-02-04,Classic Milk Tea,6.29,3,18.87
+2026-02-04,Classic Milk Tea,5.18,2,10.36
+2026-02-04,Classic Milk Tea,6.25,1,6.25
+2026-02-04,Thai Tea,7.04,2,14.08
+2026-02-04,Thai Tea,6.1,1,6.1
+2026-02-04,Thai Tea,6.3,1,6.3
+2026-02-04,Brown Sugar Boba,7.48,2,14.96
+2026-02-04,Brown Sugar Boba,7.31,3,21.93
+2026-02-05,Brown Sugar Boba,5.69,3,17.07
+2026-02-05,Thai Tea,6.46,1,6.46
+2026-02-05,Brown Sugar Boba,7.17,2,14.34
+2026-02-05,Matcha Latte,5.44,2,10.88
+2026-02-05,Thai Tea,5.2,3,15.6
+2026-02-05,Brown Sugar Boba,6.25,2,12.5
+2026-02-05,Brown Sugar Boba,6.72,2,13.44
+2026-02-05,Thai Tea,5.97,2,11.94
+2026-02-05,Thai Tea,4.54,3,13.62
+2026-02-05,Matcha Latte,6.19,2,12.38
+2026-02-05,Matcha Latte,5.61,2,11.22
+2026-02-05,Thai Tea,7.43,2,14.86
+2026-02-05,Thai Tea,7.34,2,14.68
+2026-02-05,Thai Tea,4.72,1,4.72
+2026-02-05,Brown Sugar Boba,6.27,2,12.54
+2026-02-05,Brown Sugar Boba,5.48,3,16.44
+2026-02-05,Classic Milk Tea,4.78,2,9.56
+2026-02-05,Classic Milk Tea,6.09,2,12.18
+2026-02-05,Taro Milk Tea,4.83,1,4.83
+2026-02-05,Brown Sugar Boba,7.49,1,7.49
+2026-02-05,Thai Tea,5.49,3,16.47
+2026-02-05,Taro Milk Tea,5.83,2,11.66
+2026-02-05,Matcha Latte,7.11,3,21.33
+2026-02-05,Taro Milk Tea,7.14,1,7.14
+2026-02-05,Classic Milk Tea,5.34,2,10.68
+2026-02-05,Brown Sugar Boba,5.68,1,5.68
+2026-02-05,Taro Milk Tea,7.46,2,14.92
+2026-02-05,Classic Milk Tea,6.58,3,19.74
+2026-02-05,Classic Milk Tea,6.71,3,20.13
+2026-02-05,Classic Milk Tea,5.42,3,16.26
+2026-02-05,Brown Sugar Boba,5.08,1,5.08
+2026-02-05,Classic Milk Tea,5.1,3,15.3
+2026-02-05,Taro Milk Tea,4.98,3,14.94
+2026-02-05,Taro Milk Tea,5.92,3,17.76
+2026-02-05,Classic Milk Tea,4.86,2,9.72
+2026-02-05,Thai Tea,6.9,3,20.7
+2026-02-06,Brown Sugar Boba,6.37,3,19.11
+2026-02-06,Classic Milk Tea,4.67,2,9.34
+2026-02-06,Taro Milk Tea,6.73,3,20.19
+2026-02-06,Classic Milk Tea,4.56,3,13.68
+2026-02-06,Matcha Latte,4.95,3,14.85
+2026-02-06,Thai Tea,4.73,3,14.19
+2026-02-06,Thai Tea,5.12,3,15.36
+2026-02-06,Thai Tea,5.42,2,10.84
+2026-02-06,Brown Sugar Boba,7.05,2,14.1
+2026-02-06,Brown Sugar Boba,4.82,2,9.64
+2026-02-06,Brown Sugar Boba,6.17,2,12.34
+2026-02-06,Taro Milk Tea,5.51,1,5.51
+2026-02-06,Matcha Latte,7.44,1,7.44
+2026-02-06,Matcha Latte,5.32,1,5.32
+2026-02-06,Thai Tea,4.8,3,14.4
+2026-02-06,Brown Sugar Boba,6.76,2,13.52
+2026-02-06,Thai Tea,4.85,3,14.55
+2026-02-06,Taro Milk Tea,4.57,3,13.71
+2026-02-06,Brown Sugar Boba,6.78,1,6.78
+2026-02-06,Taro Milk Tea,6.57,2,13.14
+2026-02-06,Classic Milk Tea,5.84,2,11.68
+2026-02-06,Taro Milk Tea,5.05,3,15.15
+2026-02-06,Brown Sugar Boba,4.85,3,14.55
+2026-02-06,Thai Tea,4.72,3,14.16
+2026-02-06,Thai Tea,5.51,1,5.51
+2026-02-06,Classic Milk Tea,4.51,3,13.53
+2026-02-06,Matcha Latte,5.66,2,11.32
+2026-02-06,Matcha Latte,5.4,1,5.4
+2026-02-06,Matcha Latte,6.97,2,13.94
+2026-02-06,Thai Tea,6.47,2,12.94
+2026-02-06,Classic Milk Tea,5.84,2,11.68
+2026-02-06,Classic Milk Tea,5.85,2,11.7
+2026-02-06,Matcha Latte,4.62,2,9.24
+2026-02-06,Thai Tea,5.32,3,15.96
+2026-02-06,Classic Milk Tea,6.77,3,20.31
+2026-02-06,Classic Milk Tea,6.11,3,18.33
+2026-02-06,Classic Milk Tea,5.4,3,16.2
+2026-02-06,Matcha Latte,6.33,2,12.66
+2026-02-06,Matcha Latte,6.34,2,12.68
+2026-02-06,Taro Milk Tea,5.52,2,11.04
+2026-02-06,Classic Milk Tea,6.43,2,12.86
+2026-02-06,Matcha Latte,4.71,1,4.71
+2026-02-06,Taro Milk Tea,6.77,2,13.54
+2026-02-06,Matcha Latte,4.66,1,4.66
+2026-02-06,Classic Milk Tea,7.05,3,21.15
+2026-02-06,Taro Milk Tea,6.03,3,18.09
+2026-02-06,Thai Tea,7.22,3,21.66
+2026-02-07,Matcha Latte,6.7,1,6.7
+2026-02-07,Matcha Latte,4.76,1,4.76
+2026-02-07,Thai Tea,6.38,2,12.76
+2026-02-07,Classic Milk Tea,4.91,1,4.91
+2026-02-07,Thai Tea,7.19,2,14.38
+2026-02-07,Thai Tea,4.93,2,9.86
+2026-02-07,Brown Sugar Boba,6.5,2,13.0
+2026-02-07,Thai Tea,7.19,3,21.57
+2026-02-07,Taro Milk Tea,5.38,1,5.38
+2026-02-07,Thai Tea,5.78,1,5.78
+2026-02-07,Classic Milk Tea,7.0,2,14.0
+2026-02-07,Taro Milk Tea,4.89,1,4.89
+2026-02-07,Taro Milk Tea,5.01,1,5.01
+2026-02-07,Brown Sugar Boba,7.5,1,7.5
+2026-02-07,Matcha Latte,5.01,1,5.01
+2026-02-07,Brown Sugar Boba,7.3,1,7.3
+2026-02-07,Brown Sugar Boba,6.27,1,6.27
+2026-02-07,Classic Milk Tea,5.44,2,10.88
+2026-02-07,Thai Tea,5.44,1,5.44
+2026-02-07,Matcha Latte,5.17,1,5.17
+2026-02-07,Brown Sugar Boba,5.61,2,11.22
+2026-02-07,Brown Sugar Boba,4.9,3,14.7
+2026-02-07,Brown Sugar Boba,6.92,3,20.76
+2026-02-07,Brown Sugar Boba,4.69,2,9.38
+2026-02-07,Classic Milk Tea,7.1,3,21.3
+2026-02-07,Thai Tea,4.8,3,14.4
+2026-02-07,Taro Milk Tea,6.29,3,18.87
+2026-02-07,Taro Milk Tea,7.49,1,7.49
+2026-02-07,Classic Milk Tea,5.78,2,11.56
+2026-02-07,Brown Sugar Boba,6.21,1,6.21
+2026-02-08,Brown Sugar Boba,5.18,3,15.54
+2026-02-08,Matcha Latte,5.36,3,16.08
+2026-02-08,Matcha Latte,6.5,2,13.0
+2026-02-08,Thai Tea,7.05,1,7.05
+2026-02-08,Classic Milk Tea,4.65,2,9.3
+2026-02-08,Matcha Latte,6.23,2,12.46
+2026-02-08,Matcha Latte,7.18,2,14.36
+2026-02-08,Classic Milk Tea,5.78,2,11.56
+2026-02-08,Brown Sugar Boba,5.15,3,15.45
+2026-02-08,Classic Milk Tea,6.97,2,13.94
+2026-02-08,Brown Sugar Boba,6.0,2,12.0
+2026-02-08,Brown Sugar Boba,5.38,3,16.14
+2026-02-08,Taro Milk Tea,7.25,1,7.25
+2026-02-08,Matcha Latte,4.9,1,4.9
+2026-02-08,Matcha Latte,5.98,3,17.94
+2026-02-08,Brown Sugar Boba,5.39,3,16.17
+2026-02-08,Matcha Latte,4.6,2,9.2
+2026-02-08,Matcha Latte,5.8,1,5.8
+2026-02-08,Classic Milk Tea,5.06,1,5.06
+2026-02-08,Taro Milk Tea,6.52,3,19.56
+2026-02-08,Thai Tea,5.58,3,16.74
+2026-02-08,Classic Milk Tea,6.41,2,12.82
+2026-02-08,Matcha Latte,6.69,2,13.38
+2026-02-08,Brown Sugar Boba,6.29,1,6.29
+2026-02-08,Classic Milk Tea,7.18,2,14.36
+2026-02-08,Thai Tea,6.13,2,12.26
+2026-02-08,Matcha Latte,6.97,1,6.97
+2026-02-08,Thai Tea,6.68,1,6.68
+2026-02-08,Thai Tea,6.55,1,6.55
+2026-02-08,Classic Milk Tea,6.46,2,12.92
+2026-02-08,Thai Tea,5.89,3,17.67
+2026-02-08,Brown Sugar Boba,6.35,3,19.05
+2026-02-08,Brown Sugar Boba,6.2,2,12.4
+2026-02-08,Classic Milk Tea,6.55,1,6.55
+2026-02-08,Brown Sugar Boba,6.77,1,6.77
+2026-02-08,Thai Tea,4.76,2,9.52
+2026-02-08,Taro Milk Tea,6.16,3,18.48
+2026-02-08,Classic Milk Tea,7.24,1,7.24
+2026-02-08,Thai Tea,5.22,2,10.44
+2026-02-08,Brown Sugar Boba,6.16,1,6.16
+2026-02-09,Brown Sugar Boba,7.39,2,14.78
+2026-02-09,Brown Sugar Boba,5.33,2,10.66
+2026-02-09,Thai Tea,4.87,2,9.74
+2026-02-09,Classic Milk Tea,4.68,2,9.36
+2026-02-09,Thai Tea,5.48,2,10.96
+2026-02-09,Matcha Latte,4.76,3,14.28
+2026-02-09,Matcha Latte,5.6,2,11.2
+2026-02-09,Thai Tea,5.29,3,15.87
+2026-02-09,Matcha Latte,5.07,1,5.07
+2026-02-09,Thai Tea,4.99,3,14.97
+2026-02-09,Brown Sugar Boba,6.76,3,20.28
+2026-02-09,Classic Milk Tea,7.21,2,14.42
+2026-02-09,Classic Milk Tea,6.55,1,6.55
+2026-02-09,Classic Milk Tea,6.97,1,6.97
+2026-02-09,Thai Tea,4.8,2,9.6
+2026-02-09,Taro Milk Tea,6.1,2,12.2
+2026-02-09,Taro Milk Tea,4.91,2,9.82
+2026-02-09,Matcha Latte,6.02,2,12.04
+2026-02-09,Taro Milk Tea,6.53,1,6.53
+2026-02-09,Taro Milk Tea,7.24,1,7.24
+2026-02-09,Classic Milk Tea,6.55,3,19.65
+2026-02-09,Brown Sugar Boba,5.5,2,11.0
+2026-02-09,Brown Sugar Boba,4.85,3,14.55
+2026-02-09,Brown Sugar Boba,5.83,1,5.83
+2026-02-09,Matcha Latte,5.84,3,17.52
+2026-02-09,Matcha Latte,4.6,1,4.6
+2026-02-09,Taro Milk Tea,7.16,3,21.48
+2026-02-09,Taro Milk Tea,7.12,2,14.24
+2026-02-09,Thai Tea,5.35,1,5.35
+2026-02-09,Thai Tea,5.38,2,10.76
+2026-02-09,Matcha Latte,4.54,2,9.08
+2026-02-09,Classic Milk Tea,7.39,1,7.39
+2026-02-10,Thai Tea,4.68,1,4.68
+2026-02-10,Brown Sugar Boba,7.48,3,22.44
+2026-02-10,Thai Tea,6.66,2,13.32
+2026-02-10,Taro Milk Tea,6.62,1,6.62
+2026-02-10,Thai Tea,7.17,3,21.51
+2026-02-10,Taro Milk Tea,6.35,3,19.05
+2026-02-10,Classic Milk Tea,5.28,3,15.84
+2026-02-10,Taro Milk Tea,5.4,2,10.8
+2026-02-10,Brown Sugar Boba,4.59,3,13.77
+2026-02-10,Classic Milk Tea,6.46,2,12.92
+2026-02-10,Taro Milk Tea,5.52,2,11.04
+2026-02-10,Thai Tea,7.26,1,7.26
+2026-02-10,Taro Milk Tea,6.27,1,6.27
+2026-02-10,Matcha Latte,4.97,1,4.97
+2026-02-10,Matcha Latte,7.27,3,21.81
+2026-02-10,Taro Milk Tea,7.08,3,21.24
+2026-02-10,Thai Tea,6.19,2,12.38
+2026-02-10,Brown Sugar Boba,6.17,1,6.17
+2026-02-10,Taro Milk Tea,7.13,3,21.39
+2026-02-10,Thai Tea,7.18,1,7.18
+2026-02-10,Taro Milk Tea,4.93,3,14.79
+2026-02-10,Thai Tea,4.75,3,14.25
+2026-02-10,Matcha Latte,6.85,3,20.55
+2026-02-10,Taro Milk Tea,7.33,3,21.99
+2026-02-10,Classic Milk Tea,6.44,3,19.32
+2026-02-10,Thai Tea,5.7,3,17.1
+2026-02-10,Taro Milk Tea,5.04,3,15.12
+2026-02-10,Matcha Latte,6.68,2,13.36
+2026-02-10,Brown Sugar Boba,5.16,1,5.16
+2026-02-10,Thai Tea,7.02,2,14.04
+2026-02-10,Thai Tea,7.24,1,7.24
+2026-02-10,Matcha Latte,6.83,2,13.66
+2026-02-10,Taro Milk Tea,5.72,2,11.44
+2026-02-10,Taro Milk Tea,5.78,1,5.78
+2026-02-10,Brown Sugar Boba,5.71,3,17.13
+2026-02-10,Classic Milk Tea,6.85,3,20.55
+2026-02-10,Classic Milk Tea,6.23,1,6.23
+2026-02-11,Brown Sugar Boba,6.65,3,19.95
+2026-02-11,Brown Sugar Boba,5.74,1,5.74
+2026-02-11,Matcha Latte,6.03,3,18.09
+2026-02-11,Taro Milk Tea,7.44,3,22.32
+2026-02-11,Thai Tea,5.82,2,11.64
+2026-02-11,Taro Milk Tea,6.93,2,13.86
+2026-02-11,Brown Sugar Boba,6.32,1,6.32
+2026-02-11,Taro Milk Tea,4.67,2,9.34
+2026-02-11,Matcha Latte,7.15,3,21.45
+2026-02-11,Thai Tea,5.32,3,15.96
+2026-02-11,Classic Milk Tea,7.13,2,14.26
+2026-02-11,Brown Sugar Boba,6.51,3,19.53
+2026-02-11,Brown Sugar Boba,5.38,3,16.14
+2026-02-11,Taro Milk Tea,6.78,2,13.56
+2026-02-11,Brown Sugar Boba,6.38,3,19.14
+2026-02-11,Taro Milk Tea,7.32,1,7.32
+2026-02-11,Classic Milk Tea,6.37,1,6.37
+2026-02-11,Brown Sugar Boba,6.93,3,20.79
+2026-02-11,Taro Milk Tea,4.95,1,4.95
+2026-02-11,Classic Milk Tea,5.67,1,5.67
+2026-02-11,Thai Tea,4.51,3,13.53
+2026-02-11,Taro Milk Tea,5.47,1,5.47
+2026-02-11,Classic Milk Tea,5.5,1,5.5
+2026-02-11,Matcha Latte,6.75,3,20.25
+2026-02-11,Taro Milk Tea,6.08,2,12.16
+2026-02-11,Thai Tea,4.94,1,4.94
+2026-02-11,Thai Tea,7.21,1,7.21
+2026-02-11,Brown Sugar Boba,5.49,2,10.98
+2026-02-11,Matcha Latte,4.9,2,9.8
+2026-02-11,Taro Milk Tea,4.68,1,4.68
+2026-02-11,Thai Tea,5.88,3,17.64
+2026-02-12,Taro Milk Tea,4.56,3,13.68
+2026-02-12,Taro Milk Tea,5.53,1,5.53
+2026-02-12,Matcha Latte,7.03,1,7.03
+2026-02-12,Matcha Latte,4.64,3,13.92
+2026-02-12,Classic Milk Tea,5.82,1,5.82
+2026-02-12,Matcha Latte,5.24,1,5.24
+2026-02-12,Brown Sugar Boba,5.06,3,15.18
+2026-02-12,Thai Tea,6.05,3,18.15
+2026-02-12,Matcha Latte,5.57,2,11.14
+2026-02-12,Thai Tea,5.54,3,16.62
+2026-02-12,Classic Milk Tea,4.61,1,4.61
+2026-02-12,Classic Milk Tea,5.25,3,15.75
+2026-02-12,Taro Milk Tea,5.99,1,5.99
+2026-02-12,Classic Milk Tea,5.56,3,16.68
+2026-02-12,Classic Milk Tea,6.26,2,12.52
+2026-02-12,Taro Milk Tea,5.2,2,10.4
+2026-02-12,Taro Milk Tea,4.67,3,14.01
+2026-02-12,Classic Milk Tea,6.0,1,6.0
+2026-02-12,Brown Sugar Boba,7.32,1,7.32
+2026-02-12,Taro Milk Tea,6.3,1,6.3
+2026-02-12,Matcha Latte,6.7,1,6.7
+2026-02-12,Thai Tea,4.59,1,4.59
+2026-02-12,Matcha Latte,5.77,2,11.54
+2026-02-12,Taro Milk Tea,4.81,1,4.81
+2026-02-12,Matcha Latte,7.09,3,21.27
+2026-02-12,Thai Tea,6.75,2,13.5
+2026-02-13,Brown Sugar Boba,5.12,2,10.24
+2026-02-13,Taro Milk Tea,6.99,2,13.98
+2026-02-13,Thai Tea,7.42,2,14.84
+2026-02-13,Matcha Latte,5.64,1,5.64
+2026-02-13,Thai Tea,5.29,2,10.58
+2026-02-13,Classic Milk Tea,6.41,3,19.23
+2026-02-13,Classic Milk Tea,5.36,2,10.72
+2026-02-13,Matcha Latte,5.39,2,10.78
+2026-02-13,Brown Sugar Boba,5.29,2,10.58
+2026-02-13,Classic Milk Tea,6.09,2,12.18
+2026-02-13,Taro Milk Tea,5.25,3,15.75
+2026-02-13,Taro Milk Tea,4.97,1,4.97
+2026-02-13,Classic Milk Tea,6.13,1,6.13
+2026-02-13,Thai Tea,7.39,1,7.39
+2026-02-13,Taro Milk Tea,5.18,1,5.18
+2026-02-13,Thai Tea,6.37,3,19.11
+2026-02-13,Thai Tea,6.51,2,13.02
+2026-02-13,Thai Tea,7.4,1,7.4
+2026-02-13,Classic Milk Tea,6.13,1,6.13
+2026-02-13,Classic Milk Tea,5.57,2,11.14
+2026-02-13,Brown Sugar Boba,6.96,2,13.92
+2026-02-13,Matcha Latte,5.97,1,5.97
+2026-02-13,Matcha Latte,6.48,2,12.96
+2026-02-13,Thai Tea,6.78,2,13.56
+2026-02-13,Matcha Latte,5.4,1,5.4
+2026-02-13,Thai Tea,6.97,1,6.97
+2026-02-13,Matcha Latte,6.78,1,6.78
+2026-02-13,Thai Tea,5.82,2,11.64
+2026-02-13,Brown Sugar Boba,5.16,1,5.16
+2026-02-13,Classic Milk Tea,6.3,3,18.9
+2026-02-13,Thai Tea,5.7,2,11.4
+2026-02-13,Classic Milk Tea,5.17,3,15.51
+2026-02-14,Matcha Latte,6.67,1,6.67
+2026-02-14,Classic Milk Tea,5.56,1,5.56
+2026-02-14,Thai Tea,6.79,2,13.58
+2026-02-14,Thai Tea,5.83,2,11.66
+2026-02-14,Brown Sugar Boba,6.17,1,6.17
+2026-02-14,Brown Sugar Boba,4.69,1,4.69
+2026-02-14,Matcha Latte,5.53,3,16.59
+2026-02-14,Brown Sugar Boba,6.43,1,6.43
+2026-02-14,Taro Milk Tea,7.27,2,14.54
+2026-02-14,Thai Tea,5.91,2,11.82
+2026-02-14,Thai Tea,5.03,3,15.09
+2026-02-14,Brown Sugar Boba,5.49,1,5.49
+2026-02-14,Brown Sugar Boba,4.53,2,9.06
+2026-02-14,Matcha Latte,4.78,2,9.56
+2026-02-14,Thai Tea,7.37,3,22.11
+2026-02-14,Brown Sugar Boba,5.82,3,17.46
+2026-02-14,Taro Milk Tea,5.46,2,10.92
+2026-02-14,Classic Milk Tea,5.73,1,5.73
+2026-02-14,Taro Milk Tea,5.14,1,5.14
+2026-02-14,Matcha Latte,4.53,3,13.59
+2026-02-14,Thai Tea,5.67,2,11.34
+2026-02-14,Classic Milk Tea,7.43,1,7.43
+2026-02-14,Taro Milk Tea,7.29,3,21.87
+2026-02-14,Taro Milk Tea,7.18,3,21.54
+2026-02-14,Classic Milk Tea,5.32,1,5.32
+2026-02-14,Classic Milk Tea,6.11,2,12.22
+2026-02-14,Thai Tea,5.81,1,5.81
+2026-02-14,Thai Tea,6.68,3,20.04
+2026-02-14,Thai Tea,7.01,3,21.03
+2026-02-14,Taro Milk Tea,5.13,3,15.39
+2026-02-14,Brown Sugar Boba,5.1,2,10.2
+2026-02-14,Matcha Latte,4.59,3,13.77
+2026-02-14,Brown Sugar Boba,5.41,2,10.82
+2026-02-14,Matcha Latte,6.44,1,6.44
+2026-02-14,Thai Tea,5.96,2,11.92
+2026-02-14,Thai Tea,6.58,1,6.58
+2026-02-14,Classic Milk Tea,4.87,1,4.87
+2026-02-14,Classic Milk Tea,5.4,3,16.2
+2026-02-14,Thai Tea,7.28,2,14.56
+2026-02-14,Matcha Latte,6.65,2,13.3
+2026-02-14,Matcha Latte,4.75,1,4.75
+2026-02-14,Brown Sugar Boba,5.66,2,11.32
+2026-02-15,Matcha Latte,7.14,2,14.28
+2026-02-15,Thai Tea,5.95,1,5.95
+2026-02-15,Brown Sugar Boba,4.59,3,13.77
+2026-02-15,Matcha Latte,5.89,1,5.89
+2026-02-15,Taro Milk Tea,4.94,1,4.94
+2026-02-15,Brown Sugar Boba,7.19,1,7.19
+2026-02-15,Taro Milk Tea,6.91,3,20.73
+2026-02-15,Brown Sugar Boba,6.54,3,19.62
+2026-02-15,Thai Tea,7.4,3,22.2
+2026-02-15,Thai Tea,6.41,2,12.82
+2026-02-15,Classic Milk Tea,6.89,1,6.89
+2026-02-15,Matcha Latte,4.9,1,4.9
+2026-02-15,Matcha Latte,5.25,2,10.5
+2026-02-15,Thai Tea,4.88,2,9.76
+2026-02-15,Classic Milk Tea,5.61,2,11.22
+2026-02-15,Classic Milk Tea,5.54,1,5.54
+2026-02-15,Thai Tea,6.88,2,13.76
+2026-02-15,Matcha Latte,5.91,3,17.73
+2026-02-15,Classic Milk Tea,5.53,1,5.53
+2026-02-15,Taro Milk Tea,4.84,1,4.84
+2026-02-15,Matcha Latte,6.56,3,19.68
+2026-02-15,Thai Tea,6.63,3,19.89
+2026-02-15,Brown Sugar Boba,6.6,1,6.6
+2026-02-15,Classic Milk Tea,6.37,1,6.37
+2026-02-15,Thai Tea,6.29,3,18.87
+2026-02-15,Thai Tea,5.17,3,15.51
+2026-02-15,Classic Milk Tea,4.96,3,14.88
+2026-02-15,Brown Sugar Boba,6.36,1,6.36
+2026-02-15,Matcha Latte,7.36,1,7.36
+2026-02-15,Brown Sugar Boba,4.65,2,9.3
+2026-02-15,Thai Tea,6.03,1,6.03
+2026-02-15,Brown Sugar Boba,6.58,3,19.74
+2026-02-15,Classic Milk Tea,5.28,3,15.84
+2026-02-15,Taro Milk Tea,6.08,1,6.08
+2026-02-15,Brown Sugar Boba,6.39,3,19.17
+2026-02-15,Taro Milk Tea,7.43,2,14.86
+2026-02-15,Brown Sugar Boba,5.28,3,15.84
+2026-02-15,Taro Milk Tea,6.79,2,13.58
+2026-02-16,Classic Milk Tea,5.62,1,5.62
+2026-02-16,Thai Tea,5.95,3,17.85
+2026-02-16,Thai Tea,4.71,2,9.42
+2026-02-16,Classic Milk Tea,6.54,3,19.62
+2026-02-16,Matcha Latte,4.74,1,4.74
+2026-02-16,Matcha Latte,5.5,2,11.0
+2026-02-16,Thai Tea,4.83,3,14.49
+2026-02-16,Taro Milk Tea,6.94,3,20.82
+2026-02-16,Matcha Latte,7.27,1,7.27
+2026-02-16,Taro Milk Tea,5.2,1,5.2
+2026-02-16,Matcha Latte,5.74,1,5.74
+2026-02-16,Classic Milk Tea,6.81,2,13.62
+2026-02-16,Brown Sugar Boba,5.64,1,5.64
+2026-02-16,Brown Sugar Boba,4.93,3,14.79
+2026-02-16,Taro Milk Tea,4.88,3,14.64
+2026-02-16,Taro Milk Tea,6.69,1,6.69
+2026-02-16,Matcha Latte,5.25,2,10.5
+2026-02-16,Thai Tea,7.49,1,7.49
+2026-02-16,Thai Tea,5.42,1,5.42
+2026-02-16,Matcha Latte,6.01,3,18.03
+2026-02-16,Taro Milk Tea,5.67,1,5.67
+2026-02-16,Thai Tea,4.88,3,14.64
+2026-02-16,Taro Milk Tea,6.8,1,6.8
+2026-02-16,Thai Tea,4.96,3,14.88
+2026-02-16,Matcha Latte,6.55,3,19.65
+2026-02-16,Classic Milk Tea,5.71,1,5.71
+2026-02-16,Thai Tea,7.48,1,7.48
+2026-02-16,Matcha Latte,6.5,3,19.5
+2026-02-16,Matcha Latte,7.08,1,7.08
+2026-02-16,Thai Tea,5.28,3,15.84
+2026-02-16,Brown Sugar Boba,7.26,2,14.52
+2026-02-16,Taro Milk Tea,4.66,3,13.98
+2026-02-16,Classic Milk Tea,4.69,2,9.38
+2026-02-16,Matcha Latte,5.5,3,16.5
+2026-02-16,Taro Milk Tea,6.68,1,6.68
+2026-02-16,Thai Tea,5.94,3,17.82
+2026-02-16,Taro Milk Tea,7.37,3,22.11
+2026-02-16,Taro Milk Tea,5.38,3,16.14
+2026-02-16,Brown Sugar Boba,4.62,1,4.62
+2026-02-16,Taro Milk Tea,5.9,2,11.8
+2026-02-16,Classic Milk Tea,5.78,2,11.56
+2026-02-16,Brown Sugar Boba,4.86,3,14.58
+2026-02-16,Thai Tea,5.04,2,10.08
+2026-02-16,Classic Milk Tea,5.67,2,11.34
+2026-02-16,Thai Tea,7.41,1,7.41
+2026-02-16,Brown Sugar Boba,7.34,3,22.02
+2026-02-16,Thai Tea,4.97,1,4.97
+2026-02-17,Taro Milk Tea,5.04,1,5.04
+2026-02-17,Matcha Latte,6.93,3,20.79
+2026-02-17,Brown Sugar Boba,5.1,3,15.3
+2026-02-17,Classic Milk Tea,7.46,2,14.92
+2026-02-17,Thai Tea,4.85,2,9.7
+2026-02-17,Brown Sugar Boba,4.62,3,13.86
+2026-02-17,Matcha Latte,6.18,3,18.54
+2026-02-17,Taro Milk Tea,6.45,1,6.45
+2026-02-17,Thai Tea,7.37,2,14.74
+2026-02-17,Thai Tea,5.23,2,10.46
+2026-02-17,Matcha Latte,6.31,2,12.62
+2026-02-17,Thai Tea,6.56,1,6.56
+2026-02-17,Brown Sugar Boba,6.2,2,12.4
+2026-02-17,Matcha Latte,4.6,2,9.2
+2026-02-17,Brown Sugar Boba,6.3,2,12.6
+2026-02-17,Taro Milk Tea,6.2,2,12.4
+2026-02-17,Taro Milk Tea,6.5,1,6.5
+2026-02-17,Thai Tea,6.02,2,12.04
+2026-02-17,Brown Sugar Boba,7.03,2,14.06
+2026-02-17,Brown Sugar Boba,5.13,3,15.39
+2026-02-17,Matcha Latte,7.1,3,21.3
+2026-02-17,Matcha Latte,5.87,1,5.87
+2026-02-17,Classic Milk Tea,5.79,3,17.37
+2026-02-17,Classic Milk Tea,4.53,1,4.53
+2026-02-17,Matcha Latte,4.94,1,4.94
+2026-02-17,Brown Sugar Boba,6.95,3,20.85
+2026-02-17,Brown Sugar Boba,4.88,1,4.88
+2026-02-17,Brown Sugar Boba,6.74,2,13.48
+2026-02-17,Classic Milk Tea,6.04,3,18.12
+2026-02-17,Brown Sugar Boba,4.67,1,4.67
+2026-02-18,Matcha Latte,4.63,1,4.63
+2026-02-18,Brown Sugar Boba,5.98,1,5.98
+2026-02-18,Matcha Latte,7.1,2,14.2
+2026-02-18,Taro Milk Tea,7.47,1,7.47
+2026-02-18,Classic Milk Tea,7.32,1,7.32
+2026-02-18,Classic Milk Tea,6.49,3,19.47
+2026-02-18,Thai Tea,5.7,1,5.7
+2026-02-18,Matcha Latte,5.38,2,10.76
+2026-02-18,Classic Milk Tea,5.38,2,10.76
+2026-02-18,Brown Sugar Boba,5.25,3,15.75
+2026-02-18,Brown Sugar Boba,7.41,2,14.82
+2026-02-18,Taro Milk Tea,7.16,1,7.16
+2026-02-18,Taro Milk Tea,4.69,1,4.69
+2026-02-18,Classic Milk Tea,4.57,3,13.71
+2026-02-18,Taro Milk Tea,5.24,3,15.72
+2026-02-18,Taro Milk Tea,6.46,3,19.38
+2026-02-18,Brown Sugar Boba,4.89,2,9.78
+2026-02-18,Thai Tea,5.32,1,5.32
+2026-02-18,Brown Sugar Boba,6.54,3,19.62
+2026-02-18,Matcha Latte,5.24,1,5.24
+2026-02-18,Classic Milk Tea,7.5,1,7.5
+2026-02-18,Taro Milk Tea,6.52,3,19.56
+2026-02-18,Taro Milk Tea,4.73,3,14.19
+2026-02-18,Brown Sugar Boba,6.78,2,13.56
+2026-02-18,Matcha Latte,6.34,1,6.34
+2026-02-18,Classic Milk Tea,5.78,2,11.56
+2026-02-18,Classic Milk Tea,6.93,2,13.86
+2026-02-18,Classic Milk Tea,6.52,1,6.52
+2026-02-18,Matcha Latte,6.53,2,13.06
+2026-02-18,Thai Tea,6.04,1,6.04
+2026-02-18,Classic Milk Tea,7.02,3,21.06
+2026-02-18,Taro Milk Tea,6.37,2,12.74
+2026-02-18,Brown Sugar Boba,4.99,2,9.98
+2026-02-18,Taro Milk Tea,7.0,3,21.0
+2026-02-18,Brown Sugar Boba,4.64,3,13.92
+2026-02-18,Brown Sugar Boba,7.05,1,7.05
+2026-02-18,Brown Sugar Boba,5.7,1,5.7
+2026-02-18,Brown Sugar Boba,5.21,1,5.21
+2026-02-18,Taro Milk Tea,4.69,3,14.07
+2026-02-18,Brown Sugar Boba,6.75,3,20.25
+2026-02-18,Taro Milk Tea,5.2,3,15.6
+2026-02-18,Matcha Latte,5.67,2,11.34
+2026-02-18,Thai Tea,6.0,3,18.0
+2026-02-18,Brown Sugar Boba,4.95,1,4.95
+2026-02-18,Brown Sugar Boba,6.48,2,12.96
+2026-02-18,Classic Milk Tea,5.85,2,11.7
+2026-02-18,Thai Tea,4.8,3,14.4
+2026-02-18,Brown Sugar Boba,6.5,2,13.0
+2026-02-18,Brown Sugar Boba,6.06,3,18.18
+2026-02-18,Brown Sugar Boba,5.52,3,16.56
+2026-02-19,Thai Tea,5.73,1,5.73
+2026-02-19,Thai Tea,6.8,1,6.8
+2026-02-19,Brown Sugar Boba,7.28,3,21.84
+2026-02-19,Taro Milk Tea,5.83,3,17.49
+2026-02-19,Thai Tea,6.11,3,18.33
+2026-02-19,Taro Milk Tea,5.36,3,16.08
+2026-02-19,Brown Sugar Boba,6.19,2,12.38
+2026-02-19,Classic Milk Tea,4.51,1,4.51
+2026-02-19,Thai Tea,4.92,3,14.76
+2026-02-19,Thai Tea,5.81,3,17.43
+2026-02-19,Thai Tea,5.59,3,16.77
+2026-02-19,Brown Sugar Boba,5.37,1,5.37
+2026-02-19,Brown Sugar Boba,6.52,3,19.56
+2026-02-19,Taro Milk Tea,5.65,3,16.95
+2026-02-19,Classic Milk Tea,6.13,1,6.13
+2026-02-19,Thai Tea,7.42,1,7.42
+2026-02-19,Thai Tea,7.14,1,7.14
+2026-02-19,Brown Sugar Boba,4.94,1,4.94
+2026-02-19,Taro Milk Tea,7.34,3,22.02
+2026-02-19,Thai Tea,5.38,2,10.76
+2026-02-19,Matcha Latte,5.24,1,5.24
+2026-02-19,Matcha Latte,7.05,3,21.15
+2026-02-19,Thai Tea,6.22,3,18.66
+2026-02-19,Thai Tea,5.84,3,17.52
+2026-02-19,Thai Tea,6.9,3,20.7
+2026-02-19,Taro Milk Tea,5.92,3,17.76
+2026-02-19,Matcha Latte,6.43,2,12.86
+2026-02-19,Matcha Latte,5.33,2,10.66
+2026-02-19,Taro Milk Tea,5.27,1,5.27
+2026-02-19,Classic Milk Tea,7.35,2,14.7
+2026-02-19,Thai Tea,5.88,1,5.88
+2026-02-19,Classic Milk Tea,5.47,2,10.94
+2026-02-19,Taro Milk Tea,7.47,3,22.41
+2026-02-19,Thai Tea,4.97,2,9.94
+2026-02-19,Taro Milk Tea,4.55,3,13.65
+2026-02-19,Taro Milk Tea,6.23,2,12.46
+2026-02-19,Brown Sugar Boba,6.82,3,20.46
+2026-02-19,Taro Milk Tea,7.35,1,7.35
+2026-02-19,Brown Sugar Boba,5.73,1,5.73
+2026-02-19,Classic Milk Tea,6.81,3,20.43
+2026-02-20,Matcha Latte,6.3,2,12.6
+2026-02-20,Taro Milk Tea,6.11,1,6.11
+2026-02-20,Matcha Latte,6.84,3,20.52
+2026-02-20,Brown Sugar Boba,6.68,1,6.68
+2026-02-20,Taro Milk Tea,7.42,1,7.42
+2026-02-20,Taro Milk Tea,7.34,2,14.68
+2026-02-20,Taro Milk Tea,5.58,2,11.16
+2026-02-20,Taro Milk Tea,7.43,3,22.29
+2026-02-20,Thai Tea,7.28,1,7.28
+2026-02-20,Thai Tea,6.72,3,20.16
+2026-02-20,Brown Sugar Boba,4.63,1,4.63
+2026-02-20,Matcha Latte,5.15,1,5.15
+2026-02-20,Taro Milk Tea,5.77,2,11.54
+2026-02-20,Brown Sugar Boba,7.27,2,14.54
+2026-02-20,Taro Milk Tea,5.76,2,11.52
+2026-02-20,Thai Tea,5.83,3,17.49
+2026-02-20,Classic Milk Tea,4.91,2,9.82
+2026-02-20,Thai Tea,6.24,1,6.24
+2026-02-20,Classic Milk Tea,6.69,3,20.07
+2026-02-20,Thai Tea,6.77,1,6.77
+2026-02-20,Classic Milk Tea,6.45,1,6.45
+2026-02-20,Brown Sugar Boba,7.31,1,7.31
+2026-02-20,Thai Tea,6.76,2,13.52
+2026-02-20,Thai Tea,6.51,2,13.02
+2026-02-20,Classic Milk Tea,4.91,1,4.91
+2026-02-20,Matcha Latte,4.69,1,4.69
+2026-02-20,Classic Milk Tea,6.78,3,20.34
+2026-02-20,Taro Milk Tea,5.14,3,15.42
+2026-02-20,Taro Milk Tea,5.33,2,10.66
+2026-02-20,Brown Sugar Boba,6.73,3,20.19
+2026-02-20,Classic Milk Tea,7.3,3,21.9
+2026-02-20,Matcha Latte,4.73,1,4.73
+2026-02-20,Classic Milk Tea,5.08,1,5.08
+2026-02-20,Taro Milk Tea,4.76,3,14.28
+2026-02-20,Brown Sugar Boba,6.98,2,13.96
+2026-02-20,Matcha Latte,5.89,2,11.78
+2026-02-20,Classic Milk Tea,6.36,1,6.36
+2026-02-20,Taro Milk Tea,7.14,1,7.14
+2026-02-20,Taro Milk Tea,6.47,1,6.47
+2026-02-20,Matcha Latte,7.32,1,7.32
+2026-02-20,Brown Sugar Boba,7.23,1,7.23
+2026-02-20,Taro Milk Tea,5.49,1,5.49
+2026-02-20,Brown Sugar Boba,4.83,3,14.49
+2026-02-20,Matcha Latte,5.86,3,17.58
+2026-02-20,Classic Milk Tea,6.3,2,12.6
+2026-02-20,Taro Milk Tea,6.66,2,13.32
+2026-02-20,Thai Tea,6.17,2,12.34
+2026-02-20,Thai Tea,5.04,1,5.04
+2026-02-20,Classic Milk Tea,4.83,3,14.49
+2026-02-20,Matcha Latte,5.38,3,16.14
+2026-02-21,Thai Tea,4.5,1,4.5
+2026-02-21,Brown Sugar Boba,6.57,2,13.14
+2026-02-21,Thai Tea,4.87,3,14.61
+2026-02-21,Brown Sugar Boba,5.43,1,5.43
+2026-02-21,Matcha Latte,5.45,2,10.9
+2026-02-21,Brown Sugar Boba,5.42,2,10.84
+2026-02-21,Brown Sugar Boba,5.85,1,5.85
+2026-02-21,Matcha Latte,6.36,1,6.36
+2026-02-21,Matcha Latte,7.12,1,7.12
+2026-02-21,Brown Sugar Boba,5.87,2,11.74
+2026-02-21,Taro Milk Tea,5.04,3,15.12
+2026-02-21,Brown Sugar Boba,5.26,3,15.78
+2026-02-21,Classic Milk Tea,7.04,3,21.12
+2026-02-21,Brown Sugar Boba,4.96,2,9.92
+2026-02-21,Brown Sugar Boba,5.08,3,15.24
+2026-02-21,Thai Tea,6.43,2,12.86
+2026-02-21,Taro Milk Tea,5.32,1,5.32
+2026-02-21,Taro Milk Tea,5.69,2,11.38
+2026-02-21,Classic Milk Tea,5.4,3,16.2
+2026-02-21,Taro Milk Tea,5.52,2,11.04
+2026-02-21,Taro Milk Tea,6.26,3,18.78
+2026-02-21,Thai Tea,6.61,1,6.61
+2026-02-21,Taro Milk Tea,4.85,3,14.55
+2026-02-21,Classic Milk Tea,7.49,3,22.47
+2026-02-21,Classic Milk Tea,6.32,3,18.96
+2026-02-21,Matcha Latte,4.66,1,4.66
+2026-02-21,Brown Sugar Boba,5.66,2,11.32
+2026-02-21,Matcha Latte,6.73,1,6.73
+2026-02-21,Thai Tea,4.52,3,13.56
+2026-02-21,Taro Milk Tea,6.47,3,19.41
+2026-02-21,Thai Tea,6.27,2,12.54
+2026-02-21,Taro Milk Tea,5.99,1,5.99
+2026-02-21,Brown Sugar Boba,4.55,3,13.65
+2026-02-21,Thai Tea,6.87,2,13.74
+2026-02-21,Classic Milk Tea,6.98,3,20.94
+2026-02-22,Classic Milk Tea,7.06,1,7.06
+2026-02-22,Thai Tea,5.18,3,15.54
+2026-02-22,Thai Tea,7.44,2,14.88
+2026-02-22,Classic Milk Tea,7.35,1,7.35
+2026-02-22,Thai Tea,4.76,1,4.76
+2026-02-22,Brown Sugar Boba,7.42,3,22.26
+2026-02-22,Brown Sugar Boba,7.03,3,21.09
+2026-02-22,Matcha Latte,6.6,2,13.2
+2026-02-22,Thai Tea,4.91,3,14.73
+2026-02-22,Matcha Latte,7.34,2,14.68
+2026-02-22,Classic Milk Tea,5.99,3,17.97
+2026-02-22,Thai Tea,6.61,1,6.61
+2026-02-22,Brown Sugar Boba,5.29,2,10.58
+2026-02-22,Thai Tea,5.6,3,16.8
+2026-02-22,Brown Sugar Boba,5.31,3,15.93
+2026-02-22,Classic Milk Tea,5.23,3,15.69
+2026-02-22,Classic Milk Tea,7.3,2,14.6
+2026-02-22,Matcha Latte,4.52,3,13.56
+2026-02-22,Taro Milk Tea,6.72,1,6.72
+2026-02-22,Taro Milk Tea,4.65,1,4.65
+2026-02-22,Matcha Latte,4.51,2,9.02
+2026-02-22,Brown Sugar Boba,5.51,2,11.02
+2026-02-22,Matcha Latte,6.38,1,6.38
+2026-02-22,Brown Sugar Boba,6.97,2,13.94
+2026-02-22,Taro Milk Tea,6.54,1,6.54
+2026-02-22,Brown Sugar Boba,6.81,2,13.62
+2026-02-22,Thai Tea,5.35,1,5.35
+2026-02-23,Classic Milk Tea,6.18,1,6.18
+2026-02-23,Classic Milk Tea,6.06,3,18.18
+2026-02-23,Classic Milk Tea,6.4,2,12.8
+2026-02-23,Brown Sugar Boba,5.63,2,11.26
+2026-02-23,Brown Sugar Boba,5.32,3,15.96
+2026-02-23,Brown Sugar Boba,5.44,3,16.32
+2026-02-23,Matcha Latte,4.76,2,9.52
+2026-02-23,Thai Tea,5.22,3,15.66
+2026-02-23,Brown Sugar Boba,5.75,3,17.25
+2026-02-23,Taro Milk Tea,7.42,1,7.42
+2026-02-23,Taro Milk Tea,5.68,2,11.36
+2026-02-23,Matcha Latte,6.85,2,13.7
+2026-02-23,Matcha Latte,4.61,2,9.22
+2026-02-23,Thai Tea,6.84,2,13.68
+2026-02-23,Matcha Latte,4.81,3,14.43
+2026-02-23,Brown Sugar Boba,7.19,2,14.38
+2026-02-23,Matcha Latte,6.15,3,18.45
+2026-02-23,Taro Milk Tea,6.57,2,13.14
+2026-02-23,Thai Tea,6.55,3,19.65
+2026-02-23,Thai Tea,6.78,1,6.78
+2026-02-23,Matcha Latte,4.62,2,9.24
+2026-02-23,Taro Milk Tea,5.42,2,10.84
+2026-02-23,Matcha Latte,5.27,1,5.27
+2026-02-23,Matcha Latte,5.5,1,5.5
+2026-02-23,Classic Milk Tea,6.73,1,6.73
+2026-02-23,Brown Sugar Boba,7.03,1,7.03
+2026-02-23,Classic Milk Tea,6.86,3,20.58
+2026-02-23,Thai Tea,4.97,3,14.91
+2026-02-23,Brown Sugar Boba,5.08,1,5.08
+2026-02-23,Taro Milk Tea,5.61,1,5.61
+2026-02-23,Classic Milk Tea,6.3,3,18.9
+2026-02-23,Matcha Latte,6.6,3,19.8
+2026-02-23,Brown Sugar Boba,5.4,3,16.2
+2026-02-23,Taro Milk Tea,4.82,2,9.64
+2026-02-23,Matcha Latte,7.34,2,14.68
+2026-02-23,Classic Milk Tea,6.44,3,19.32
+2026-02-24,Thai Tea,5.88,3,17.64
+2026-02-24,Brown Sugar Boba,6.48,2,12.96
+2026-02-24,Matcha Latte,7.44,3,22.32
+2026-02-24,Brown Sugar Boba,4.71,3,14.13
+2026-02-24,Classic Milk Tea,6.79,2,13.58
+2026-02-24,Classic Milk Tea,5.02,1,5.02
+2026-02-24,Thai Tea,6.8,3,20.4
+2026-02-24,Classic Milk Tea,6.81,2,13.62
+2026-02-24,Taro Milk Tea,7.22,2,14.44
+2026-02-24,Matcha Latte,7.38,2,14.76
+2026-02-24,Thai Tea,5.84,2,11.68
+2026-02-24,Taro Milk Tea,5.36,3,16.08
+2026-02-24,Classic Milk Tea,6.67,3,20.01
+2026-02-24,Taro Milk Tea,7.07,1,7.07
+2026-02-24,Thai Tea,5.67,1,5.67
+2026-02-24,Thai Tea,5.62,3,16.86
+2026-02-24,Taro Milk Tea,6.33,1,6.33
+2026-02-24,Thai Tea,6.39,3,19.17
+2026-02-24,Taro Milk Tea,5.63,1,5.63
+2026-02-24,Taro Milk Tea,6.45,1,6.45
+2026-02-24,Classic Milk Tea,6.66,1,6.66
+2026-02-24,Taro Milk Tea,6.55,1,6.55
+2026-02-24,Brown Sugar Boba,6.94,3,20.82
+2026-02-24,Taro Milk Tea,5.9,2,11.8
+2026-02-24,Brown Sugar Boba,6.26,3,18.78
+2026-02-25,Taro Milk Tea,6.54,3,19.62
+2026-02-25,Matcha Latte,5.81,1,5.81
+2026-02-25,Matcha Latte,6.89,3,20.67
+2026-02-25,Brown Sugar Boba,5.48,1,5.48
+2026-02-25,Classic Milk Tea,6.6,2,13.2
+2026-02-25,Classic Milk Tea,7.01,2,14.02
+2026-02-25,Classic Milk Tea,6.04,3,18.12
+2026-02-25,Brown Sugar Boba,5.4,3,16.2
+2026-02-25,Thai Tea,5.08,3,15.24
+2026-02-25,Matcha Latte,5.71,3,17.13
+2026-02-25,Thai Tea,6.44,2,12.88
+2026-02-25,Matcha Latte,5.05,1,5.05
+2026-02-25,Classic Milk Tea,7.37,1,7.37
+2026-02-25,Brown Sugar Boba,5.11,1,5.11
+2026-02-25,Taro Milk Tea,6.19,3,18.57
+2026-02-25,Thai Tea,4.67,1,4.67
+2026-02-25,Brown Sugar Boba,5.48,1,5.48
+2026-02-25,Matcha Latte,7.21,1,7.21
+2026-02-25,Classic Milk Tea,5.48,2,10.96
+2026-02-25,Thai Tea,5.0,2,10.0
+2026-02-25,Matcha Latte,5.45,2,10.9
+2026-02-25,Matcha Latte,5.39,3,16.17
+2026-02-25,Matcha Latte,7.49,2,14.98
+2026-02-25,Taro Milk Tea,6.19,3,18.57
+2026-02-25,Thai Tea,4.66,3,13.98
+2026-02-25,Classic Milk Tea,6.85,1,6.85
+2026-02-25,Taro Milk Tea,5.01,1,5.01
+2026-02-26,Classic Milk Tea,6.98,3,20.94
+2026-02-26,Brown Sugar Boba,6.62,2,13.24
+2026-02-26,Matcha Latte,5.45,1,5.45
+2026-02-26,Brown Sugar Boba,4.66,1,4.66
+2026-02-26,Classic Milk Tea,5.75,2,11.5
+2026-02-26,Matcha Latte,6.97,1,6.97
+2026-02-26,Matcha Latte,5.33,3,15.99
+2026-02-26,Taro Milk Tea,7.46,3,22.38
+2026-02-26,Taro Milk Tea,7.27,2,14.54
+2026-02-26,Classic Milk Tea,6.85,2,13.7
+2026-02-26,Classic Milk Tea,6.3,3,18.9
+2026-02-26,Thai Tea,5.48,2,10.96
+2026-02-26,Matcha Latte,5.95,1,5.95
+2026-02-26,Thai Tea,4.94,1,4.94
+2026-02-26,Classic Milk Tea,5.41,2,10.82
+2026-02-26,Classic Milk Tea,7.4,2,14.8
+2026-02-26,Brown Sugar Boba,5.16,2,10.32
+2026-02-26,Thai Tea,5.68,3,17.04
+2026-02-26,Matcha Latte,5.77,2,11.54
+2026-02-26,Matcha Latte,6.85,2,13.7
+2026-02-26,Thai Tea,5.9,3,17.7
+2026-02-26,Matcha Latte,6.15,3,18.45
+2026-02-26,Classic Milk Tea,4.84,1,4.84
+2026-02-26,Matcha Latte,4.87,1,4.87
+2026-02-26,Thai Tea,5.37,2,10.74
+2026-02-26,Matcha Latte,5.6,3,16.8
+2026-02-26,Thai Tea,7.32,3,21.96
+2026-02-26,Classic Milk Tea,5.98,1,5.98
+2026-02-26,Taro Milk Tea,5.28,3,15.84
+2026-02-26,Matcha Latte,6.27,2,12.54
+2026-02-26,Classic Milk Tea,6.77,1,6.77
+2026-02-26,Brown Sugar Boba,4.59,1,4.59
+2026-02-26,Brown Sugar Boba,6.87,3,20.61
+2026-02-26,Thai Tea,7.04,2,14.08
+2026-02-26,Matcha Latte,6.56,3,19.68
+2026-02-26,Brown Sugar Boba,5.17,3,15.51
+2026-02-26,Matcha Latte,6.37,3,19.11
+2026-02-26,Matcha Latte,5.45,2,10.9
+2026-02-26,Matcha Latte,6.96,3,20.88
+2026-02-27,Brown Sugar Boba,4.97,2,9.94
+2026-02-27,Brown Sugar Boba,6.7,2,13.4
+2026-02-27,Classic Milk Tea,4.72,2,9.44
+2026-02-27,Matcha Latte,4.76,3,14.28
+2026-02-27,Taro Milk Tea,4.62,3,13.86
+2026-02-27,Thai Tea,4.51,1,4.51
+2026-02-27,Brown Sugar Boba,5.37,1,5.37
+2026-02-27,Taro Milk Tea,6.4,2,12.8
+2026-02-27,Classic Milk Tea,5.12,2,10.24
+2026-02-27,Taro Milk Tea,6.11,1,6.11
+2026-02-27,Classic Milk Tea,5.72,2,11.44
+2026-02-27,Matcha Latte,5.23,3,15.69
+2026-02-27,Classic Milk Tea,4.79,3,14.37
+2026-02-27,Thai Tea,7.44,3,22.32
+2026-02-27,Classic Milk Tea,5.79,2,11.58
+2026-02-27,Classic Milk Tea,5.09,2,10.18
+2026-02-27,Brown Sugar Boba,6.64,2,13.28
+2026-02-27,Brown Sugar Boba,5.72,3,17.16
+2026-02-27,Thai Tea,7.37,3,22.11
+2026-02-27,Brown Sugar Boba,6.62,1,6.62
+2026-02-27,Matcha Latte,7.39,3,22.17
+2026-02-27,Classic Milk Tea,5.23,1,5.23
+2026-02-27,Matcha Latte,4.53,2,9.06
+2026-02-27,Thai Tea,4.52,2,9.04
+2026-02-27,Matcha Latte,5.04,2,10.08
+2026-02-27,Taro Milk Tea,5.64,2,11.28
+2026-02-27,Classic Milk Tea,6.67,2,13.34
+2026-02-27,Brown Sugar Boba,5.51,1,5.51
+2026-02-27,Thai Tea,4.69,1,4.69
+2026-02-27,Thai Tea,4.66,2,9.32
+2026-02-27,Thai Tea,5.66,3,16.98
+2026-02-27,Thai Tea,6.78,3,20.34
+2026-02-27,Brown Sugar Boba,6.73,1,6.73
+2026-02-27,Brown Sugar Boba,6.05,3,18.15
+2026-02-27,Classic Milk Tea,6.27,2,12.54
+2026-02-27,Matcha Latte,4.83,2,9.66
+2026-02-27,Matcha Latte,6.22,1,6.22
+2026-02-27,Brown Sugar Boba,4.85,1,4.85
+2026-02-27,Taro Milk Tea,5.91,3,17.73
+2026-02-27,Brown Sugar Boba,5.15,1,5.15
+2026-02-27,Matcha Latte,7.49,1,7.49
+2026-02-27,Brown Sugar Boba,5.78,3,17.34
+2026-02-27,Thai Tea,7.33,1,7.33
+2026-02-27,Taro Milk Tea,5.55,3,16.65
+2026-02-27,Classic Milk Tea,6.81,2,13.62
+2026-02-27,Thai Tea,6.31,1,6.31
+2026-02-27,Taro Milk Tea,5.3,1,5.3
+2026-02-27,Classic Milk Tea,6.89,3,20.67
+2026-02-27,Matcha Latte,5.39,2,10.78
+2026-02-27,Brown Sugar Boba,6.6,3,19.8
+2026-02-28,Matcha Latte,5.86,2,11.72
+2026-02-28,Thai Tea,5.85,1,5.85
+2026-02-28,Classic Milk Tea,4.67,2,9.34
+2026-02-28,Classic Milk Tea,6.73,1,6.73
+2026-02-28,Thai Tea,7.43,3,22.29
+2026-02-28,Thai Tea,5.91,3,17.73
+2026-02-28,Matcha Latte,6.43,1,6.43
+2026-02-28,Matcha Latte,5.62,2,11.24
+2026-02-28,Matcha Latte,5.01,1,5.01
+2026-02-28,Brown Sugar Boba,6.98,3,20.94
+2026-02-28,Matcha Latte,5.04,2,10.08
+2026-02-28,Brown Sugar Boba,4.89,2,9.78
+2026-02-28,Brown Sugar Boba,5.63,1,5.63
+2026-02-28,Taro Milk Tea,6.95,2,13.9
+2026-02-28,Classic Milk Tea,5.0,3,15.0
+2026-02-28,Taro Milk Tea,6.48,3,19.44
+2026-02-28,Taro Milk Tea,6.77,1,6.77
+2026-02-28,Brown Sugar Boba,4.57,3,13.71
+2026-02-28,Taro Milk Tea,5.97,3,17.91
+2026-02-28,Taro Milk Tea,6.5,1,6.5
+2026-02-28,Classic Milk Tea,5.04,1,5.04
+2026-02-28,Taro Milk Tea,7.23,1,7.23
+2026-02-28,Brown Sugar Boba,6.6,3,19.8
+2026-02-28,Brown Sugar Boba,4.74,2,9.48
+2026-02-28,Classic Milk Tea,7.42,1,7.42
+2026-02-28,Brown Sugar Boba,5.31,2,10.62
+2026-02-28,Classic Milk Tea,6.21,3,18.63
+2026-02-28,Thai Tea,6.79,1,6.79
+2026-02-28,Thai Tea,5.05,2,10.1
+2026-02-28,Matcha Latte,5.96,1,5.96
+2026-02-28,Brown Sugar Boba,4.78,2,9.56
+2026-02-28,Classic Milk Tea,5.72,1,5.72
+2026-02-28,Matcha Latte,4.95,1,4.95
+2026-02-28,Taro Milk Tea,5.85,1,5.85
+2026-02-28,Brown Sugar Boba,4.68,1,4.68
+2026-02-28,Matcha Latte,5.2,2,10.4
+2026-02-28,Brown Sugar Boba,6.36,3,19.08
+2026-02-28,Taro Milk Tea,6.1,1,6.1
+2026-02-28,Taro Milk Tea,6.89,3,20.67
+2026-02-28,Thai Tea,7.12,1,7.12
+2026-02-28,Brown Sugar Boba,6.35,2,12.7
+2026-02-28,Brown Sugar Boba,5.07,2,10.14
+2026-02-28,Classic Milk Tea,5.59,1,5.59
+2026-02-28,Taro Milk Tea,5.29,1,5.29
+2026-02-28,Thai Tea,4.74,3,14.22
+2026-03-01,Brown Sugar Boba,6.69,3,20.07
+2026-03-01,Thai Tea,6.28,1,6.28
+2026-03-01,Thai Tea,5.23,2,10.46
+2026-03-01,Brown Sugar Boba,6.29,3,18.87
+2026-03-01,Brown Sugar Boba,6.47,3,19.41
+2026-03-01,Thai Tea,4.74,2,9.48
+2026-03-01,Taro Milk Tea,7.08,3,21.24
+2026-03-01,Thai Tea,4.72,3,14.16
+2026-03-01,Matcha Latte,6.67,2,13.34
+2026-03-01,Taro Milk Tea,4.5,3,13.5
+2026-03-01,Taro Milk Tea,5.61,3,16.83
+2026-03-01,Brown Sugar Boba,7.0,1,7.0
+2026-03-01,Matcha Latte,6.03,3,18.09
+2026-03-01,Taro Milk Tea,5.89,2,11.78
+2026-03-01,Classic Milk Tea,4.51,1,4.51
+2026-03-01,Taro Milk Tea,4.98,2,9.96
+2026-03-01,Classic Milk Tea,7.13,1,7.13
+2026-03-01,Classic Milk Tea,5.65,2,11.3
+2026-03-01,Brown Sugar Boba,7.29,3,21.87
+2026-03-01,Classic Milk Tea,5.62,3,16.86
+2026-03-01,Taro Milk Tea,7.0,2,14.0
+2026-03-01,Taro Milk Tea,7.13,1,7.13
+2026-03-01,Brown Sugar Boba,4.53,3,13.59
+2026-03-01,Taro Milk Tea,7.39,1,7.39
+2026-03-01,Classic Milk Tea,6.65,1,6.65
+2026-03-01,Taro Milk Tea,7.11,2,14.22
+2026-03-01,Brown Sugar Boba,5.21,1,5.21
+2026-03-01,Matcha Latte,5.64,2,11.28
+2026-03-01,Thai Tea,6.68,3,20.04
+2026-03-01,Brown Sugar Boba,7.01,1,7.01
+2026-03-01,Classic Milk Tea,5.23,3,15.69
+2026-03-01,Thai Tea,5.46,3,16.38
+2026-03-01,Brown Sugar Boba,6.33,2,12.66
+2026-03-01,Classic Milk Tea,6.6,1,6.6
+2026-03-01,Classic Milk Tea,7.4,3,22.2
+2026-03-01,Thai Tea,4.55,2,9.1
+2026-03-01,Classic Milk Tea,4.96,3,14.88
+2026-03-01,Taro Milk Tea,6.13,3,18.39
+2026-03-01,Matcha Latte,5.09,1,5.09
+2026-03-02,Thai Tea,7.1,2,14.2
+2026-03-02,Taro Milk Tea,4.89,1,4.89
+2026-03-02,Taro Milk Tea,6.66,1,6.66
+2026-03-02,Matcha Latte,5.91,2,11.82
+2026-03-02,Matcha Latte,7.49,3,22.47
+2026-03-02,Classic Milk Tea,4.86,1,4.86
+2026-03-02,Brown Sugar Boba,6.59,3,19.77
+2026-03-02,Matcha Latte,7.02,1,7.02
+2026-03-02,Brown Sugar Boba,6.58,3,19.74
+2026-03-02,Taro Milk Tea,6.82,2,13.64
+2026-03-02,Brown Sugar Boba,5.55,2,11.1
+2026-03-02,Taro Milk Tea,5.77,3,17.31
+2026-03-02,Classic Milk Tea,6.78,3,20.34
+2026-03-02,Matcha Latte,4.74,2,9.48
+2026-03-02,Thai Tea,5.67,3,17.01
+2026-03-02,Thai Tea,5.4,3,16.2
+2026-03-02,Matcha Latte,5.64,1,5.64
+2026-03-02,Matcha Latte,6.22,1,6.22
+2026-03-02,Classic Milk Tea,5.74,3,17.22
+2026-03-02,Classic Milk Tea,7.09,3,21.27
+2026-03-02,Classic Milk Tea,6.55,2,13.1
+2026-03-02,Brown Sugar Boba,4.58,3,13.74
+2026-03-02,Matcha Latte,4.85,2,9.7
+2026-03-02,Taro Milk Tea,6.76,2,13.52
+2026-03-02,Thai Tea,7.32,1,7.32
+2026-03-02,Taro Milk Tea,6.7,2,13.4
+2026-03-02,Matcha Latte,6.24,2,12.48
+2026-03-02,Matcha Latte,6.21,1,6.21
+2026-03-02,Taro Milk Tea,6.29,1,6.29
+2026-03-02,Brown Sugar Boba,7.25,2,14.5
+2026-03-02,Matcha Latte,6.15,2,12.3
+2026-03-02,Matcha Latte,6.86,3,20.58
+2026-03-02,Taro Milk Tea,5.88,3,17.64
+2026-03-02,Thai Tea,4.68,2,9.36
+2026-03-02,Taro Milk Tea,6.38,1,6.38
+2026-03-02,Taro Milk Tea,6.31,1,6.31
+2026-03-02,Classic Milk Tea,6.16,3,18.48
+2026-03-02,Taro Milk Tea,6.46,1,6.46
+2026-03-02,Taro Milk Tea,6.07,1,6.07
+2026-03-02,Brown Sugar Boba,6.82,3,20.46
+2026-03-02,Matcha Latte,7.15,3,21.45
+2026-03-02,Classic Milk Tea,5.7,1,5.7
+2026-03-02,Matcha Latte,6.41,3,19.23
+2026-03-02,Brown Sugar Boba,5.1,1,5.1
+2026-03-02,Thai Tea,5.03,2,10.06
+2026-03-02,Thai Tea,7.16,1,7.16
+2026-03-02,Thai Tea,5.8,3,17.4
+2026-03-02,Matcha Latte,7.01,3,21.03
+2026-03-02,Matcha Latte,5.86,1,5.86
+2026-03-03,Brown Sugar Boba,6.45,1,6.45
+2026-03-03,Classic Milk Tea,4.52,2,9.04
+2026-03-03,Matcha Latte,6.46,1,6.46
+2026-03-03,Matcha Latte,6.88,3,20.64
+2026-03-03,Taro Milk Tea,6.68,3,20.04
+2026-03-03,Classic Milk Tea,6.98,3,20.94
+2026-03-03,Classic Milk Tea,5.67,1,5.67
+2026-03-03,Classic Milk Tea,6.27,1,6.27
+2026-03-03,Classic Milk Tea,6.53,2,13.06
+2026-03-03,Brown Sugar Boba,5.75,2,11.5
+2026-03-03,Brown Sugar Boba,5.85,2,11.7
+2026-03-03,Classic Milk Tea,5.91,1,5.91
+2026-03-03,Thai Tea,6.17,2,12.34
+2026-03-03,Taro Milk Tea,4.61,1,4.61
+2026-03-03,Classic Milk Tea,5.54,2,11.08
+2026-03-03,Classic Milk Tea,6.2,2,12.4
+2026-03-03,Classic Milk Tea,5.31,3,15.93
+2026-03-03,Classic Milk Tea,4.55,3,13.65
+2026-03-03,Matcha Latte,4.53,2,9.06
+2026-03-03,Thai Tea,5.01,1,5.01
+2026-03-03,Classic Milk Tea,6.14,3,18.42
+2026-03-03,Matcha Latte,5.24,2,10.48
+2026-03-03,Classic Milk Tea,5.55,2,11.1
+2026-03-03,Brown Sugar Boba,6.1,1,6.1
+2026-03-03,Taro Milk Tea,5.99,2,11.98
+2026-03-03,Classic Milk Tea,4.64,3,13.92
+2026-03-03,Brown Sugar Boba,5.33,1,5.33
+2026-03-04,Taro Milk Tea,5.25,1,5.25
+2026-03-04,Classic Milk Tea,6.46,2,12.92
+2026-03-04,Brown Sugar Boba,5.22,2,10.44
+2026-03-04,Brown Sugar Boba,4.58,2,9.16
+2026-03-04,Classic Milk Tea,6.22,2,12.44
+2026-03-04,Taro Milk Tea,7.3,2,14.6
+2026-03-04,Brown Sugar Boba,7.01,1,7.01
+2026-03-04,Matcha Latte,6.16,2,12.32
+2026-03-04,Thai Tea,5.9,3,17.7
+2026-03-04,Classic Milk Tea,5.15,2,10.3
+2026-03-04,Thai Tea,5.74,2,11.48
+2026-03-04,Matcha Latte,6.57,2,13.14
+2026-03-04,Brown Sugar Boba,7.39,3,22.17
+2026-03-04,Brown Sugar Boba,5.96,3,17.88
+2026-03-04,Classic Milk Tea,7.31,2,14.62
+2026-03-04,Matcha Latte,6.22,3,18.66
+2026-03-04,Thai Tea,4.82,1,4.82
+2026-03-04,Matcha Latte,4.51,3,13.53
+2026-03-04,Classic Milk Tea,6.36,3,19.08
+2026-03-04,Brown Sugar Boba,7.02,2,14.04
+2026-03-04,Taro Milk Tea,5.94,2,11.88
+2026-03-04,Classic Milk Tea,5.26,3,15.78
+2026-03-04,Thai Tea,6.63,1,6.63
+2026-03-04,Thai Tea,5.21,1,5.21
+2026-03-04,Taro Milk Tea,5.75,1,5.75
+2026-03-04,Brown Sugar Boba,6.98,1,6.98
+2026-03-04,Taro Milk Tea,6.76,3,20.28
+2026-03-04,Taro Milk Tea,6.88,3,20.64
+2026-03-04,Taro Milk Tea,5.95,3,17.85
+2026-03-04,Classic Milk Tea,4.82,3,14.46
+2026-03-04,Brown Sugar Boba,6.76,1,6.76
+2026-03-04,Matcha Latte,5.87,1,5.87
+2026-03-04,Classic Milk Tea,5.44,3,16.32
+2026-03-04,Matcha Latte,7.06,2,14.12
+2026-03-04,Brown Sugar Boba,6.64,1,6.64
+2026-03-04,Thai Tea,5.8,1,5.8
+2026-03-04,Classic Milk Tea,4.93,1,4.93
+2026-03-04,Brown Sugar Boba,5.86,3,17.58
+2026-03-05,Matcha Latte,6.43,1,6.43
+2026-03-05,Classic Milk Tea,4.72,2,9.44
+2026-03-05,Thai Tea,6.28,2,12.56
+2026-03-05,Classic Milk Tea,6.45,1,6.45
+2026-03-05,Matcha Latte,5.08,2,10.16
+2026-03-05,Brown Sugar Boba,7.44,1,7.44
+2026-03-05,Brown Sugar Boba,4.78,1,4.78
+2026-03-05,Matcha Latte,6.83,1,6.83
+2026-03-05,Matcha Latte,5.64,2,11.28
+2026-03-05,Classic Milk Tea,5.02,3,15.06
+2026-03-05,Matcha Latte,5.1,3,15.3
+2026-03-05,Matcha Latte,7.37,3,22.11
+2026-03-05,Thai Tea,6.55,2,13.1
+2026-03-05,Classic Milk Tea,7.06,1,7.06
+2026-03-05,Brown Sugar Boba,4.99,2,9.98
+2026-03-05,Matcha Latte,4.83,3,14.49
+2026-03-05,Matcha Latte,4.94,1,4.94
+2026-03-05,Thai Tea,5.58,2,11.16
+2026-03-05,Matcha Latte,5.57,1,5.57
+2026-03-05,Classic Milk Tea,5.36,1,5.36
+2026-03-05,Matcha Latte,5.99,1,5.99
+2026-03-05,Thai Tea,6.0,1,6.0
+2026-03-05,Matcha Latte,5.01,2,10.02
+2026-03-05,Classic Milk Tea,5.78,1,5.78
+2026-03-05,Classic Milk Tea,6.25,2,12.5
+2026-03-05,Classic Milk Tea,4.7,2,9.4
+2026-03-05,Matcha Latte,7.18,1,7.18
+2026-03-05,Brown Sugar Boba,6.11,3,18.33
+2026-03-05,Taro Milk Tea,6.44,2,12.88
+2026-03-05,Classic Milk Tea,5.22,1,5.22
+2026-03-05,Thai Tea,5.96,1,5.96
+2026-03-05,Classic Milk Tea,5.85,3,17.55
+2026-03-05,Taro Milk Tea,5.94,1,5.94
+2026-03-05,Matcha Latte,6.16,2,12.32
+2026-03-05,Matcha Latte,5.79,2,11.58
+2026-03-06,Classic Milk Tea,5.98,3,17.94
+2026-03-06,Matcha Latte,6.07,3,18.21
+2026-03-06,Classic Milk Tea,6.74,3,20.22
+2026-03-06,Thai Tea,6.21,1,6.21
+2026-03-06,Matcha Latte,5.97,1,5.97
+2026-03-06,Thai Tea,5.52,1,5.52
+2026-03-06,Taro Milk Tea,7.28,3,21.84
+2026-03-06,Matcha Latte,7.29,1,7.29
+2026-03-06,Classic Milk Tea,6.55,3,19.65
+2026-03-06,Thai Tea,5.23,3,15.69
+2026-03-06,Brown Sugar Boba,7.19,3,21.57
+2026-03-06,Taro Milk Tea,5.84,2,11.68
+2026-03-06,Classic Milk Tea,5.59,3,16.77
+2026-03-06,Classic Milk Tea,5.79,3,17.37
+2026-03-06,Taro Milk Tea,6.28,3,18.84
+2026-03-06,Thai Tea,4.69,2,9.38
+2026-03-06,Brown Sugar Boba,7.38,2,14.76
+2026-03-06,Brown Sugar Boba,5.71,1,5.71
+2026-03-06,Thai Tea,6.61,1,6.61
+2026-03-06,Thai Tea,5.48,1,5.48
+2026-03-06,Matcha Latte,5.74,3,17.22
+2026-03-06,Thai Tea,5.72,2,11.44
+2026-03-06,Classic Milk Tea,4.9,3,14.7
+2026-03-06,Taro Milk Tea,6.45,2,12.9
+2026-03-06,Classic Milk Tea,5.32,3,15.96
+2026-03-06,Brown Sugar Boba,6.3,1,6.3
+2026-03-06,Taro Milk Tea,4.93,1,4.93
+2026-03-06,Thai Tea,5.34,2,10.68
+2026-03-06,Matcha Latte,4.66,3,13.98
+2026-03-06,Thai Tea,6.31,3,18.93
+2026-03-06,Classic Milk Tea,6.57,3,19.71
+2026-03-06,Classic Milk Tea,5.8,2,11.6
+2026-03-06,Taro Milk Tea,7.21,1,7.21
+2026-03-06,Thai Tea,6.76,2,13.52
+2026-03-07,Classic Milk Tea,6.62,2,13.24
+2026-03-07,Matcha Latte,4.68,2,9.36
+2026-03-07,Thai Tea,5.17,2,10.34
+2026-03-07,Matcha Latte,6.51,2,13.02
+2026-03-07,Classic Milk Tea,5.53,2,11.06
+2026-03-07,Brown Sugar Boba,6.99,1,6.99
+2026-03-07,Taro Milk Tea,7.43,1,7.43
+2026-03-07,Matcha Latte,5.19,2,10.38
+2026-03-07,Classic Milk Tea,6.6,3,19.8
+2026-03-07,Classic Milk Tea,4.85,2,9.7
+2026-03-07,Thai Tea,6.83,1,6.83
+2026-03-07,Taro Milk Tea,5.38,1,5.38
+2026-03-07,Brown Sugar Boba,5.87,2,11.74
+2026-03-07,Brown Sugar Boba,5.61,2,11.22
+2026-03-07,Thai Tea,6.49,1,6.49
+2026-03-07,Matcha Latte,6.12,1,6.12
+2026-03-07,Brown Sugar Boba,5.07,1,5.07
+2026-03-07,Classic Milk Tea,4.69,3,14.07
+2026-03-07,Taro Milk Tea,6.54,1,6.54
+2026-03-07,Matcha Latte,5.83,3,17.49
+2026-03-07,Taro Milk Tea,5.86,2,11.72
+2026-03-07,Brown Sugar Boba,5.17,3,15.51
+2026-03-07,Brown Sugar Boba,5.23,1,5.23
+2026-03-07,Matcha Latte,5.59,2,11.18
+2026-03-07,Brown Sugar Boba,5.2,2,10.4
+2026-03-07,Classic Milk Tea,5.97,2,11.94
+2026-03-07,Classic Milk Tea,6.22,3,18.66
+2026-03-07,Brown Sugar Boba,6.19,3,18.57
+2026-03-07,Brown Sugar Boba,7.1,3,21.3
+2026-03-07,Brown Sugar Boba,6.55,3,19.65
+2026-03-07,Brown Sugar Boba,6.41,2,12.82
+2026-03-07,Classic Milk Tea,6.44,2,12.88
+2026-03-07,Classic Milk Tea,5.92,2,11.84
+2026-03-07,Matcha Latte,7.06,2,14.12
+2026-03-07,Matcha Latte,5.43,3,16.29
+2026-03-07,Matcha Latte,6.56,3,19.68
+2026-03-07,Thai Tea,7.01,2,14.02
+2026-03-07,Brown Sugar Boba,4.71,1,4.71
+2026-03-07,Taro Milk Tea,5.53,3,16.59
+2026-03-07,Taro Milk Tea,7.01,1,7.01
+2026-03-07,Taro Milk Tea,5.28,3,15.84
+2026-03-08,Thai Tea,7.09,1,7.09
+2026-03-08,Brown Sugar Boba,4.79,2,9.58
+2026-03-08,Matcha Latte,6.18,1,6.18
+2026-03-08,Classic Milk Tea,5.12,2,10.24
+2026-03-08,Classic Milk Tea,5.49,2,10.98
+2026-03-08,Brown Sugar Boba,5.37,1,5.37
+2026-03-08,Taro Milk Tea,4.91,3,14.73
+2026-03-08,Taro Milk Tea,6.14,1,6.14
+2026-03-08,Classic Milk Tea,6.02,1,6.02
+2026-03-08,Brown Sugar Boba,6.86,3,20.58
+2026-03-08,Taro Milk Tea,5.35,2,10.7
+2026-03-08,Matcha Latte,4.58,3,13.74
+2026-03-08,Thai Tea,5.96,3,17.88
+2026-03-08,Thai Tea,6.47,1,6.47
+2026-03-08,Matcha Latte,6.77,1,6.77
+2026-03-08,Thai Tea,7.27,3,21.81
+2026-03-08,Brown Sugar Boba,6.08,2,12.16
+2026-03-08,Thai Tea,7.18,3,21.54
+2026-03-08,Taro Milk Tea,6.63,3,19.89
+2026-03-08,Thai Tea,6.73,2,13.46
+2026-03-08,Matcha Latte,6.2,1,6.2
+2026-03-08,Matcha Latte,4.51,2,9.02
+2026-03-08,Brown Sugar Boba,5.54,3,16.62
+2026-03-08,Classic Milk Tea,7.13,2,14.26
+2026-03-08,Matcha Latte,6.2,1,6.2
+2026-03-08,Taro Milk Tea,7.47,2,14.94
+2026-03-08,Thai Tea,5.29,2,10.58
+2026-03-08,Brown Sugar Boba,6.15,2,12.3
+2026-03-08,Classic Milk Tea,5.87,3,17.61
+2026-03-08,Thai Tea,4.6,3,13.8
+2026-03-08,Thai Tea,6.84,1,6.84
+2026-03-08,Matcha Latte,4.95,1,4.95
+2026-03-08,Brown Sugar Boba,6.98,2,13.96
+2026-03-08,Taro Milk Tea,4.97,1,4.97
+2026-03-08,Brown Sugar Boba,7.44,3,22.32
+2026-03-08,Taro Milk Tea,7.27,3,21.81
+2026-03-08,Classic Milk Tea,6.02,2,12.04
+2026-03-08,Thai Tea,4.87,3,14.61
+2026-03-08,Matcha Latte,5.91,2,11.82
+2026-03-09,Thai Tea,7.07,1,7.07
+2026-03-09,Brown Sugar Boba,6.55,1,6.55
+2026-03-09,Thai Tea,7.38,3,22.14
+2026-03-09,Matcha Latte,6.94,3,20.82
+2026-03-09,Brown Sugar Boba,6.87,3,20.61
+2026-03-09,Brown Sugar Boba,5.08,3,15.24
+2026-03-09,Thai Tea,6.05,3,18.15
+2026-03-09,Classic Milk Tea,5.37,1,5.37
+2026-03-09,Classic Milk Tea,7.29,2,14.58
+2026-03-09,Matcha Latte,5.23,3,15.69
+2026-03-09,Classic Milk Tea,6.63,1,6.63
+2026-03-09,Matcha Latte,5.96,1,5.96
+2026-03-09,Thai Tea,4.59,2,9.18
+2026-03-09,Taro Milk Tea,5.43,1,5.43
+2026-03-09,Brown Sugar Boba,6.57,1,6.57
+2026-03-09,Taro Milk Tea,6.25,1,6.25
+2026-03-09,Brown Sugar Boba,5.92,3,17.76
+2026-03-09,Classic Milk Tea,6.12,2,12.24
+2026-03-09,Thai Tea,7.45,3,22.35
+2026-03-09,Thai Tea,6.48,3,19.44
+2026-03-09,Taro Milk Tea,7.16,1,7.16
+2026-03-09,Taro Milk Tea,5.35,3,16.05
+2026-03-09,Brown Sugar Boba,7.11,2,14.22
+2026-03-09,Brown Sugar Boba,5.64,2,11.28
+2026-03-09,Thai Tea,6.09,1,6.09
+2026-03-09,Brown Sugar Boba,6.78,1,6.78
+2026-03-09,Matcha Latte,6.24,2,12.48
+2026-03-09,Matcha Latte,4.75,3,14.25
+2026-03-09,Thai Tea,7.43,3,22.29
+2026-03-09,Classic Milk Tea,7.21,3,21.63
+2026-03-09,Matcha Latte,5.71,1,5.71
+2026-03-09,Classic Milk Tea,5.5,2,11.0
+2026-03-09,Classic Milk Tea,5.9,2,11.8
+2026-03-09,Classic Milk Tea,5.29,1,5.29
+2026-03-09,Matcha Latte,6.11,1,6.11
+2026-03-09,Matcha Latte,6.08,2,12.16
+2026-03-09,Brown Sugar Boba,5.99,3,17.97
+2026-03-09,Matcha Latte,5.74,1,5.74
+2026-03-09,Classic Milk Tea,6.86,1,6.86
+2026-03-09,Taro Milk Tea,4.94,3,14.82
+2026-03-09,Brown Sugar Boba,7.38,2,14.76
+2026-03-10,Taro Milk Tea,6.29,1,6.29
+2026-03-10,Brown Sugar Boba,6.1,3,18.3
+2026-03-10,Matcha Latte,4.83,1,4.83
+2026-03-10,Thai Tea,6.47,1,6.47
+2026-03-10,Classic Milk Tea,4.65,1,4.65
+2026-03-10,Matcha Latte,5.07,1,5.07
+2026-03-10,Brown Sugar Boba,5.97,3,17.91
+2026-03-10,Matcha Latte,6.05,2,12.1
+2026-03-10,Taro Milk Tea,5.0,1,5.0
+2026-03-10,Brown Sugar Boba,5.14,1,5.14
+2026-03-10,Taro Milk Tea,5.62,1,5.62
+2026-03-10,Classic Milk Tea,6.22,2,12.44
+2026-03-10,Brown Sugar Boba,5.75,3,17.25
+2026-03-10,Thai Tea,5.01,2,10.02
+2026-03-10,Brown Sugar Boba,4.63,1,4.63
+2026-03-10,Classic Milk Tea,7.46,3,22.38
+2026-03-10,Brown Sugar Boba,5.47,1,5.47
+2026-03-10,Matcha Latte,4.56,2,9.12
+2026-03-10,Thai Tea,5.83,2,11.66
+2026-03-10,Classic Milk Tea,4.89,2,9.78
+2026-03-10,Brown Sugar Boba,6.03,3,18.09
+2026-03-10,Thai Tea,5.28,2,10.56
+2026-03-10,Brown Sugar Boba,4.8,2,9.6
+2026-03-10,Taro Milk Tea,6.71,3,20.13
+2026-03-10,Brown Sugar Boba,5.59,1,5.59
+2026-03-10,Classic Milk Tea,4.98,3,14.94
+2026-03-10,Brown Sugar Boba,6.71,3,20.13
+2026-03-10,Matcha Latte,5.1,2,10.2
+2026-03-10,Classic Milk Tea,4.54,2,9.08
+2026-03-10,Thai Tea,5.71,3,17.13
+2026-03-10,Brown Sugar Boba,4.98,1,4.98
+2026-03-10,Thai Tea,6.59,2,13.18
+2026-03-10,Thai Tea,7.25,2,14.5
+2026-03-10,Taro Milk Tea,6.19,2,12.38
+2026-03-10,Taro Milk Tea,5.76,2,11.52
+2026-03-10,Taro Milk Tea,6.48,3,19.44
+2026-03-10,Brown Sugar Boba,5.63,3,16.89
+2026-03-10,Brown Sugar Boba,6.22,2,12.44
+2026-03-10,Thai Tea,7.36,3,22.08
+2026-03-10,Thai Tea,5.58,1,5.58
+2026-03-10,Brown Sugar Boba,6.42,1,6.42
+2026-03-10,Matcha Latte,6.03,1,6.03
+2026-03-10,Taro Milk Tea,6.82,2,13.64
+2026-03-10,Classic Milk Tea,6.11,2,12.22
+2026-03-10,Matcha Latte,5.64,2,11.28
+2026-03-11,Matcha Latte,4.57,3,13.71
+2026-03-11,Classic Milk Tea,5.14,2,10.28
+2026-03-11,Thai Tea,5.39,3,16.17
+2026-03-11,Thai Tea,5.52,2,11.04
+2026-03-11,Taro Milk Tea,7.21,2,14.42
+2026-03-11,Classic Milk Tea,7.32,1,7.32
+2026-03-11,Classic Milk Tea,7.07,1,7.07
+2026-03-11,Matcha Latte,6.42,1,6.42
+2026-03-11,Taro Milk Tea,5.92,1,5.92
+2026-03-11,Thai Tea,5.68,1,5.68
+2026-03-11,Matcha Latte,6.12,3,18.36
+2026-03-11,Brown Sugar Boba,6.42,3,19.26
+2026-03-11,Taro Milk Tea,5.92,3,17.76
+2026-03-11,Matcha Latte,6.29,1,6.29
+2026-03-11,Classic Milk Tea,4.92,3,14.76
+2026-03-11,Matcha Latte,4.98,3,14.94
+2026-03-11,Matcha Latte,5.0,3,15.0
+2026-03-11,Taro Milk Tea,5.9,2,11.8
+2026-03-11,Brown Sugar Boba,6.86,2,13.72
+2026-03-11,Classic Milk Tea,5.76,2,11.52
+2026-03-11,Classic Milk Tea,6.92,1,6.92
+2026-03-11,Thai Tea,5.29,1,5.29
+2026-03-11,Brown Sugar Boba,6.38,2,12.76
+2026-03-11,Classic Milk Tea,6.42,1,6.42
+2026-03-11,Brown Sugar Boba,5.5,1,5.5
+2026-03-11,Taro Milk Tea,6.8,2,13.6
+2026-03-11,Brown Sugar Boba,7.04,3,21.12
+2026-03-12,Classic Milk Tea,6.53,3,19.59
+2026-03-12,Brown Sugar Boba,7.35,1,7.35
+2026-03-12,Taro Milk Tea,4.92,2,9.84
+2026-03-12,Taro Milk Tea,6.12,3,18.36
+2026-03-12,Thai Tea,5.68,1,5.68
+2026-03-12,Thai Tea,5.43,1,5.43
+2026-03-12,Matcha Latte,7.07,1,7.07
+2026-03-12,Matcha Latte,5.01,2,10.02
+2026-03-12,Brown Sugar Boba,4.82,3,14.46
+2026-03-12,Taro Milk Tea,6.36,1,6.36
+2026-03-12,Taro Milk Tea,6.39,3,19.17
+2026-03-12,Thai Tea,4.58,2,9.16
+2026-03-12,Taro Milk Tea,5.57,2,11.14
+2026-03-12,Matcha Latte,7.39,2,14.78
+2026-03-12,Brown Sugar Boba,4.94,1,4.94
+2026-03-12,Taro Milk Tea,6.62,3,19.86
+2026-03-12,Matcha Latte,5.23,1,5.23
+2026-03-12,Classic Milk Tea,5.2,3,15.6
+2026-03-12,Classic Milk Tea,5.09,1,5.09
+2026-03-12,Matcha Latte,5.56,3,16.68
+2026-03-12,Taro Milk Tea,6.81,1,6.81
+2026-03-12,Brown Sugar Boba,6.13,3,18.39
+2026-03-12,Classic Milk Tea,6.94,2,13.88
+2026-03-12,Taro Milk Tea,6.13,2,12.26
+2026-03-12,Classic Milk Tea,4.55,2,9.1
+2026-03-12,Classic Milk Tea,6.08,1,6.08
+2026-03-12,Classic Milk Tea,5.76,1,5.76
+2026-03-12,Thai Tea,7.29,1,7.29
+2026-03-12,Classic Milk Tea,7.48,3,22.44
+2026-03-12,Matcha Latte,4.78,2,9.56
+2026-03-13,Thai Tea,4.91,2,9.82
+2026-03-13,Taro Milk Tea,5.57,1,5.57
+2026-03-13,Thai Tea,6.07,2,12.14
+2026-03-13,Thai Tea,5.65,3,16.95
+2026-03-13,Thai Tea,5.15,2,10.3
+2026-03-13,Classic Milk Tea,5.34,1,5.34
+2026-03-13,Brown Sugar Boba,7.17,1,7.17
+2026-03-13,Thai Tea,4.97,3,14.91
+2026-03-13,Matcha Latte,4.86,2,9.72
+2026-03-13,Thai Tea,4.52,1,4.52
+2026-03-13,Thai Tea,6.41,2,12.82
+2026-03-13,Matcha Latte,5.75,1,5.75
+2026-03-13,Classic Milk Tea,6.08,1,6.08
+2026-03-13,Classic Milk Tea,7.46,2,14.92
+2026-03-13,Thai Tea,6.76,2,13.52
+2026-03-13,Brown Sugar Boba,6.57,2,13.14
+2026-03-13,Taro Milk Tea,6.33,1,6.33
+2026-03-13,Classic Milk Tea,7.4,1,7.4
+2026-03-13,Matcha Latte,4.72,2,9.44
+2026-03-13,Thai Tea,6.39,2,12.78
+2026-03-13,Taro Milk Tea,5.57,3,16.71
+2026-03-13,Matcha Latte,6.33,3,18.99
+2026-03-13,Matcha Latte,5.44,2,10.88
+2026-03-13,Taro Milk Tea,5.45,2,10.9
+2026-03-13,Taro Milk Tea,6.43,3,19.29
+2026-03-13,Thai Tea,6.8,3,20.4
+2026-03-13,Thai Tea,5.68,3,17.04
+2026-03-13,Brown Sugar Boba,5.71,1,5.71
+2026-03-13,Thai Tea,6.57,1,6.57
+2026-03-13,Taro Milk Tea,7.45,3,22.35
+2026-03-13,Taro Milk Tea,6.27,3,18.81
+2026-03-13,Classic Milk Tea,6.29,2,12.58
+2026-03-13,Brown Sugar Boba,5.45,1,5.45
+2026-03-13,Taro Milk Tea,6.45,3,19.35
+2026-03-13,Matcha Latte,5.98,3,17.94
+2026-03-13,Matcha Latte,6.46,2,12.92
+2026-03-13,Matcha Latte,7.26,3,21.78
+2026-03-13,Taro Milk Tea,7.33,1,7.33
+2026-03-13,Thai Tea,6.88,3,20.64
+2026-03-13,Brown Sugar Boba,6.88,3,20.64
+2026-03-13,Classic Milk Tea,4.83,1,4.83
+2026-03-13,Brown Sugar Boba,5.67,2,11.34
+2026-03-13,Brown Sugar Boba,5.73,3,17.19
+2026-03-14,Classic Milk Tea,5.08,1,5.08
+2026-03-14,Brown Sugar Boba,6.36,2,12.72
+2026-03-14,Brown Sugar Boba,7.06,3,21.18
+2026-03-14,Classic Milk Tea,6.88,1,6.88
+2026-03-14,Classic Milk Tea,4.91,2,9.82
+2026-03-14,Brown Sugar Boba,4.68,2,9.36
+2026-03-14,Brown Sugar Boba,4.66,3,13.98
+2026-03-14,Matcha Latte,4.73,3,14.19
+2026-03-14,Classic Milk Tea,5.92,1,5.92
+2026-03-14,Thai Tea,5.73,2,11.46
+2026-03-14,Matcha Latte,5.78,1,5.78
+2026-03-14,Taro Milk Tea,5.5,1,5.5
+2026-03-14,Classic Milk Tea,6.81,3,20.43
+2026-03-14,Classic Milk Tea,6.84,1,6.84
+2026-03-14,Matcha Latte,6.52,1,6.52
+2026-03-14,Taro Milk Tea,4.98,3,14.94
+2026-03-14,Thai Tea,7.09,1,7.09
+2026-03-14,Brown Sugar Boba,6.85,2,13.7
+2026-03-14,Classic Milk Tea,7.48,2,14.96
+2026-03-14,Brown Sugar Boba,6.61,2,13.22
+2026-03-14,Thai Tea,6.14,2,12.28
+2026-03-14,Taro Milk Tea,5.64,1,5.64
+2026-03-14,Brown Sugar Boba,5.34,1,5.34
+2026-03-14,Classic Milk Tea,5.38,1,5.38
+2026-03-14,Matcha Latte,6.04,1,6.04
+2026-03-14,Matcha Latte,5.37,2,10.74
+2026-03-14,Thai Tea,4.64,3,13.92
+2026-03-14,Classic Milk Tea,7.12,2,14.24
+2026-03-14,Taro Milk Tea,5.09,2,10.18
+2026-03-14,Brown Sugar Boba,6.6,2,13.2
+2026-03-14,Thai Tea,4.74,1,4.74
+2026-03-14,Taro Milk Tea,5.92,1,5.92
+2026-03-15,Matcha Latte,7.43,3,22.29
+2026-03-15,Thai Tea,4.8,3,14.4
+2026-03-15,Matcha Latte,5.51,1,5.51
+2026-03-15,Taro Milk Tea,6.36,1,6.36
+2026-03-15,Thai Tea,5.06,2,10.12
+2026-03-15,Matcha Latte,6.75,3,20.25
+2026-03-15,Brown Sugar Boba,5.79,2,11.58
+2026-03-15,Thai Tea,4.51,3,13.53
+2026-03-15,Matcha Latte,6.64,1,6.64
+2026-03-15,Classic Milk Tea,5.12,2,10.24
+2026-03-15,Brown Sugar Boba,6.25,2,12.5
+2026-03-15,Taro Milk Tea,7.29,2,14.58
+2026-03-15,Taro Milk Tea,5.05,3,15.15
+2026-03-15,Thai Tea,6.81,3,20.43
+2026-03-15,Matcha Latte,5.17,3,15.51
+2026-03-15,Classic Milk Tea,7.34,2,14.68
+2026-03-15,Thai Tea,4.57,1,4.57
+2026-03-15,Classic Milk Tea,5.46,3,16.38
+2026-03-15,Classic Milk Tea,6.96,3,20.88
+2026-03-15,Matcha Latte,4.66,3,13.98
+2026-03-15,Thai Tea,6.36,2,12.72
+2026-03-15,Classic Milk Tea,5.54,2,11.08
+2026-03-15,Thai Tea,5.73,3,17.19
+2026-03-15,Matcha Latte,6.29,3,18.87
+2026-03-15,Thai Tea,4.68,2,9.36
+2026-03-15,Matcha Latte,5.0,2,10.0
+2026-03-15,Matcha Latte,6.16,1,6.16
+2026-03-15,Brown Sugar Boba,5.51,3,16.53
+2026-03-15,Matcha Latte,6.95,1,6.95
+2026-03-15,Brown Sugar Boba,6.13,1,6.13
+2026-03-15,Thai Tea,6.81,3,20.43
+2026-03-15,Taro Milk Tea,6.67,3,20.01
+2026-03-15,Thai Tea,5.56,3,16.68
+2026-03-15,Matcha Latte,5.7,2,11.4
+2026-03-15,Classic Milk Tea,5.41,3,16.23
+2026-03-15,Taro Milk Tea,5.52,1,5.52
+2026-03-16,Classic Milk Tea,4.66,3,13.98
+2026-03-16,Classic Milk Tea,6.3,3,18.9
+2026-03-16,Classic Milk Tea,6.45,3,19.35
+2026-03-16,Classic Milk Tea,5.38,3,16.14
+2026-03-16,Matcha Latte,6.9,2,13.8
+2026-03-16,Classic Milk Tea,7.37,2,14.74
+2026-03-16,Classic Milk Tea,6.28,1,6.28
+2026-03-16,Brown Sugar Boba,6.29,2,12.58
+2026-03-16,Thai Tea,6.04,3,18.12
+2026-03-16,Thai Tea,5.56,3,16.68
+2026-03-16,Taro Milk Tea,4.58,2,9.16
+2026-03-16,Classic Milk Tea,6.12,1,6.12
+2026-03-16,Thai Tea,4.7,1,4.7
+2026-03-16,Taro Milk Tea,5.04,3,15.12
+2026-03-16,Classic Milk Tea,4.97,1,4.97
+2026-03-16,Brown Sugar Boba,5.59,3,16.77
+2026-03-16,Brown Sugar Boba,7.33,3,21.99
+2026-03-16,Thai Tea,6.28,1,6.28
+2026-03-16,Thai Tea,4.99,2,9.98
+2026-03-16,Matcha Latte,5.53,2,11.06
+2026-03-16,Thai Tea,5.9,2,11.8
+2026-03-16,Classic Milk Tea,6.08,2,12.16
+2026-03-16,Matcha Latte,4.96,3,14.88
+2026-03-16,Thai Tea,5.66,2,11.32
+2026-03-16,Brown Sugar Boba,7.1,2,14.2
+2026-03-16,Taro Milk Tea,4.96,2,9.92
+2026-03-16,Thai Tea,5.8,1,5.8
+2026-03-16,Matcha Latte,5.36,1,5.36
+2026-03-16,Taro Milk Tea,4.89,1,4.89
+2026-03-16,Matcha Latte,6.64,2,13.28
+2026-03-17,Classic Milk Tea,6.13,1,6.13
+2026-03-17,Matcha Latte,6.21,2,12.42
+2026-03-17,Classic Milk Tea,6.03,3,18.09
+2026-03-17,Thai Tea,6.29,2,12.58
+2026-03-17,Matcha Latte,4.72,2,9.44
+2026-03-17,Taro Milk Tea,7.19,1,7.19
+2026-03-17,Matcha Latte,4.67,2,9.34
+2026-03-17,Matcha Latte,6.8,2,13.6
+2026-03-17,Classic Milk Tea,5.83,1,5.83
+2026-03-17,Taro Milk Tea,4.82,2,9.64
+2026-03-17,Brown Sugar Boba,6.84,1,6.84
+2026-03-17,Thai Tea,4.79,1,4.79
+2026-03-17,Thai Tea,4.87,1,4.87
+2026-03-17,Matcha Latte,6.22,2,12.44
+2026-03-17,Taro Milk Tea,5.41,2,10.82
+2026-03-17,Taro Milk Tea,5.17,1,5.17
+2026-03-17,Brown Sugar Boba,5.63,1,5.63
+2026-03-17,Classic Milk Tea,6.69,1,6.69
+2026-03-17,Taro Milk Tea,5.34,3,16.02
+2026-03-17,Taro Milk Tea,7.01,3,21.03
+2026-03-17,Classic Milk Tea,5.99,2,11.98
+2026-03-17,Classic Milk Tea,7.04,2,14.08
+2026-03-17,Brown Sugar Boba,6.36,2,12.72
+2026-03-17,Taro Milk Tea,4.64,2,9.28
+2026-03-17,Taro Milk Tea,4.55,3,13.65
+2026-03-17,Classic Milk Tea,6.41,2,12.82
+2026-03-17,Matcha Latte,6.77,3,20.31
+2026-03-17,Thai Tea,5.96,1,5.96
+2026-03-17,Brown Sugar Boba,6.41,2,12.82
+2026-03-17,Taro Milk Tea,7.42,3,22.26
+2026-03-17,Taro Milk Tea,5.51,1,5.51
+2026-03-17,Classic Milk Tea,5.95,2,11.9
+2026-03-17,Taro Milk Tea,6.08,3,18.24
+2026-03-17,Taro Milk Tea,5.24,2,10.48
+2026-03-17,Thai Tea,7.27,3,21.81
+2026-03-17,Matcha Latte,7.18,1,7.18
+2026-03-17,Taro Milk Tea,7.41,2,14.82
+2026-03-17,Brown Sugar Boba,5.68,2,11.36
+2026-03-17,Matcha Latte,6.22,1,6.22
+2026-03-17,Thai Tea,5.6,1,5.6
+2026-03-17,Classic Milk Tea,7.15,2,14.3
+2026-03-17,Classic Milk Tea,6.63,3,19.89
+2026-03-17,Taro Milk Tea,6.25,3,18.75
+2026-03-17,Classic Milk Tea,5.54,2,11.08
+2026-03-17,Thai Tea,7.25,3,21.75
+2026-03-17,Matcha Latte,7.01,1,7.01
+2026-03-18,Classic Milk Tea,6.72,3,20.16
+2026-03-18,Taro Milk Tea,5.48,2,10.96
+2026-03-18,Taro Milk Tea,7.24,1,7.24
+2026-03-18,Classic Milk Tea,6.31,3,18.93
+2026-03-18,Classic Milk Tea,6.98,2,13.96
+2026-03-18,Thai Tea,4.71,1,4.71
+2026-03-18,Taro Milk Tea,5.19,3,15.57
+2026-03-18,Thai Tea,7.14,1,7.14
+2026-03-18,Matcha Latte,4.65,2,9.3
+2026-03-18,Thai Tea,6.59,1,6.59
+2026-03-18,Matcha Latte,5.36,3,16.08
+2026-03-18,Matcha Latte,5.95,3,17.85
+2026-03-18,Brown Sugar Boba,6.79,1,6.79
+2026-03-18,Matcha Latte,6.2,2,12.4
+2026-03-18,Matcha Latte,6.45,3,19.35
+2026-03-18,Classic Milk Tea,6.85,3,20.55
+2026-03-18,Thai Tea,6.89,1,6.89
+2026-03-18,Taro Milk Tea,5.39,1,5.39
+2026-03-18,Taro Milk Tea,4.88,3,14.64
+2026-03-18,Taro Milk Tea,6.81,2,13.62
+2026-03-18,Taro Milk Tea,5.9,2,11.8
+2026-03-18,Taro Milk Tea,4.72,2,9.44
+2026-03-18,Brown Sugar Boba,7.23,1,7.23
+2026-03-18,Thai Tea,5.87,3,17.61
+2026-03-18,Brown Sugar Boba,6.28,3,18.84
+2026-03-18,Matcha Latte,7.22,1,7.22
+2026-03-18,Taro Milk Tea,5.44,1,5.44
+2026-03-18,Brown Sugar Boba,5.75,2,11.5
+2026-03-18,Taro Milk Tea,6.91,1,6.91
+2026-03-18,Classic Milk Tea,6.04,3,18.12
+2026-03-19,Thai Tea,5.09,2,10.18
+2026-03-19,Thai Tea,6.12,1,6.12
+2026-03-19,Taro Milk Tea,5.61,1,5.61
+2026-03-19,Classic Milk Tea,7.37,3,22.11
+2026-03-19,Taro Milk Tea,4.66,2,9.32
+2026-03-19,Classic Milk Tea,5.95,2,11.9
+2026-03-19,Classic Milk Tea,7.17,1,7.17
+2026-03-19,Thai Tea,6.26,3,18.78
+2026-03-19,Brown Sugar Boba,7.31,1,7.31
+2026-03-19,Thai Tea,7.43,3,22.29
+2026-03-19,Classic Milk Tea,7.3,2,14.6
+2026-03-19,Taro Milk Tea,6.61,3,19.83
+2026-03-19,Taro Milk Tea,5.02,3,15.06
+2026-03-19,Matcha Latte,6.85,1,6.85
+2026-03-19,Matcha Latte,4.72,2,9.44
+2026-03-19,Brown Sugar Boba,6.62,2,13.24
+2026-03-19,Taro Milk Tea,6.26,3,18.78
+2026-03-19,Matcha Latte,6.24,2,12.48
+2026-03-19,Thai Tea,7.41,1,7.41
+2026-03-19,Classic Milk Tea,7.23,3,21.69
+2026-03-19,Taro Milk Tea,4.75,3,14.25
+2026-03-19,Taro Milk Tea,7.42,1,7.42
+2026-03-19,Taro Milk Tea,5.94,2,11.88
+2026-03-19,Classic Milk Tea,5.87,2,11.74
+2026-03-19,Brown Sugar Boba,7.08,2,14.16
+2026-03-19,Taro Milk Tea,4.99,1,4.99
+2026-03-19,Brown Sugar Boba,5.88,3,17.64
+2026-03-19,Taro Milk Tea,6.52,1,6.52
+2026-03-19,Classic Milk Tea,6.22,2,12.44
+2026-03-19,Brown Sugar Boba,4.58,2,9.16
+2026-03-19,Brown Sugar Boba,4.77,2,9.54
+2026-03-19,Brown Sugar Boba,4.78,3,14.34
+2026-03-19,Classic Milk Tea,5.1,1,5.1
+2026-03-19,Brown Sugar Boba,5.96,3,17.88
+2026-03-19,Brown Sugar Boba,6.52,1,6.52
+2026-03-19,Brown Sugar Boba,5.87,1,5.87
+2026-03-19,Thai Tea,7.17,3,21.51
+2026-03-19,Matcha Latte,5.77,3,17.31
+2026-03-19,Taro Milk Tea,7.27,1,7.27
+2026-03-19,Thai Tea,4.69,2,9.38
+2026-03-19,Taro Milk Tea,7.46,3,22.38
+2026-03-19,Matcha Latte,6.58,3,19.74
+2026-03-19,Classic Milk Tea,6.14,1,6.14
+2026-03-20,Brown Sugar Boba,5.17,2,10.34
+2026-03-20,Taro Milk Tea,7.23,3,21.69
+2026-03-20,Matcha Latte,5.63,2,11.26
+2026-03-20,Thai Tea,6.56,2,13.12
+2026-03-20,Classic Milk Tea,5.0,3,15.0
+2026-03-20,Thai Tea,6.19,3,18.57
+2026-03-20,Matcha Latte,6.23,3,18.69
+2026-03-20,Taro Milk Tea,6.29,2,12.58
+2026-03-20,Matcha Latte,6.13,1,6.13
+2026-03-20,Matcha Latte,6.49,1,6.49
+2026-03-20,Taro Milk Tea,5.34,2,10.68
+2026-03-20,Thai Tea,5.95,2,11.9
+2026-03-20,Classic Milk Tea,6.63,2,13.26
+2026-03-20,Classic Milk Tea,4.74,3,14.22
+2026-03-20,Thai Tea,6.98,2,13.96
+2026-03-20,Brown Sugar Boba,5.8,1,5.8
+2026-03-20,Thai Tea,5.19,2,10.38
+2026-03-20,Brown Sugar Boba,5.43,3,16.29
+2026-03-20,Thai Tea,5.32,1,5.32
+2026-03-20,Taro Milk Tea,6.03,1,6.03
+2026-03-20,Matcha Latte,5.55,3,16.65
+2026-03-20,Brown Sugar Boba,5.01,3,15.03
+2026-03-20,Matcha Latte,5.38,3,16.14
+2026-03-20,Taro Milk Tea,6.77,2,13.54
+2026-03-20,Taro Milk Tea,6.55,1,6.55
+2026-03-20,Thai Tea,5.52,2,11.04
+2026-03-20,Brown Sugar Boba,7.35,1,7.35
+2026-03-20,Matcha Latte,5.33,2,10.66
+2026-03-21,Brown Sugar Boba,5.24,1,5.24
+2026-03-21,Classic Milk Tea,6.93,3,20.79
+2026-03-21,Classic Milk Tea,7.31,1,7.31
+2026-03-21,Brown Sugar Boba,5.81,2,11.62
+2026-03-21,Matcha Latte,4.83,2,9.66
+2026-03-21,Classic Milk Tea,4.65,2,9.3
+2026-03-21,Classic Milk Tea,6.15,1,6.15
+2026-03-21,Classic Milk Tea,5.77,3,17.31
+2026-03-21,Classic Milk Tea,5.13,2,10.26
+2026-03-21,Matcha Latte,7.27,3,21.81
+2026-03-21,Taro Milk Tea,6.04,1,6.04
+2026-03-21,Thai Tea,5.45,3,16.35
+2026-03-21,Thai Tea,6.7,1,6.7
+2026-03-21,Classic Milk Tea,7.11,2,14.22
+2026-03-21,Thai Tea,7.0,3,21.0
+2026-03-21,Taro Milk Tea,5.71,2,11.42
+2026-03-21,Matcha Latte,4.7,2,9.4
+2026-03-21,Classic Milk Tea,5.17,2,10.34
+2026-03-21,Taro Milk Tea,5.55,2,11.1
+2026-03-21,Thai Tea,5.36,3,16.08
+2026-03-21,Thai Tea,4.88,3,14.64
+2026-03-21,Thai Tea,5.52,2,11.04
+2026-03-21,Brown Sugar Boba,6.06,2,12.12
+2026-03-21,Brown Sugar Boba,6.75,2,13.5
+2026-03-21,Taro Milk Tea,5.75,3,17.25
+2026-03-21,Brown Sugar Boba,5.31,3,15.93
+2026-03-21,Thai Tea,7.47,2,14.94
+2026-03-21,Taro Milk Tea,5.85,2,11.7
+2026-03-21,Taro Milk Tea,7.49,1,7.49
+2026-03-21,Thai Tea,6.49,2,12.98
+2026-03-21,Classic Milk Tea,7.39,3,22.17
+2026-03-21,Brown Sugar Boba,5.61,1,5.61
+2026-03-21,Brown Sugar Boba,5.96,2,11.92
+2026-03-21,Taro Milk Tea,7.19,2,14.38
+2026-03-21,Taro Milk Tea,6.94,1,6.94
+2026-03-21,Thai Tea,5.44,2,10.88
+2026-03-21,Brown Sugar Boba,4.51,2,9.02
+2026-03-21,Brown Sugar Boba,6.83,2,13.66
+2026-03-21,Brown Sugar Boba,7.25,2,14.5
+2026-03-21,Classic Milk Tea,6.25,3,18.75
+2026-03-21,Matcha Latte,5.68,3,17.04
+2026-03-21,Brown Sugar Boba,4.8,2,9.6
+2026-03-21,Taro Milk Tea,4.89,2,9.78
+2026-03-21,Classic Milk Tea,7.36,1,7.36
+2026-03-21,Classic Milk Tea,6.73,2,13.46
+2026-03-21,Classic Milk Tea,5.32,2,10.64
+2026-03-21,Classic Milk Tea,5.96,1,5.96
+2026-03-21,Taro Milk Tea,5.35,2,10.7
+2026-03-21,Matcha Latte,6.84,3,20.52
+2026-03-21,Brown Sugar Boba,7.48,1,7.48
+2026-03-22,Thai Tea,5.02,3,15.06
+2026-03-22,Taro Milk Tea,6.65,2,13.3
+2026-03-22,Taro Milk Tea,5.21,3,15.63
+2026-03-22,Taro Milk Tea,6.72,1,6.72
+2026-03-22,Taro Milk Tea,7.49,1,7.49
+2026-03-22,Thai Tea,6.37,1,6.37
+2026-03-22,Taro Milk Tea,5.42,1,5.42
+2026-03-22,Thai Tea,7.18,2,14.36
+2026-03-22,Taro Milk Tea,4.62,2,9.24
+2026-03-22,Taro Milk Tea,6.01,3,18.03
+2026-03-22,Taro Milk Tea,5.69,3,17.07
+2026-03-22,Taro Milk Tea,6.64,3,19.92
+2026-03-22,Classic Milk Tea,5.01,3,15.03
+2026-03-22,Brown Sugar Boba,7.39,3,22.17
+2026-03-22,Thai Tea,5.12,1,5.12
+2026-03-22,Taro Milk Tea,6.45,3,19.35
+2026-03-22,Matcha Latte,6.92,1,6.92
+2026-03-22,Thai Tea,4.51,3,13.53
+2026-03-22,Classic Milk Tea,4.53,2,9.06
+2026-03-22,Thai Tea,6.8,1,6.8
+2026-03-22,Classic Milk Tea,6.99,2,13.98
+2026-03-22,Taro Milk Tea,5.25,3,15.75
+2026-03-22,Brown Sugar Boba,4.65,2,9.3
+2026-03-22,Taro Milk Tea,5.61,2,11.22
+2026-03-22,Matcha Latte,6.25,2,12.5
+2026-03-22,Brown Sugar Boba,5.66,3,16.98
+2026-03-22,Thai Tea,6.34,2,12.68
+2026-03-22,Matcha Latte,4.89,1,4.89
+2026-03-22,Classic Milk Tea,5.02,1,5.02
+2026-03-22,Thai Tea,4.7,3,14.1
+2026-03-22,Matcha Latte,6.05,2,12.1
+2026-03-22,Thai Tea,7.13,1,7.13
+2026-03-22,Taro Milk Tea,5.33,1,5.33
+2026-03-23,Brown Sugar Boba,4.55,1,4.55
+2026-03-23,Matcha Latte,4.52,2,9.04
+2026-03-23,Thai Tea,5.49,1,5.49
+2026-03-23,Taro Milk Tea,5.49,1,5.49
+2026-03-23,Matcha Latte,7.04,3,21.12
+2026-03-23,Brown Sugar Boba,5.15,1,5.15
+2026-03-23,Matcha Latte,5.12,1,5.12
+2026-03-23,Matcha Latte,6.08,2,12.16
+2026-03-23,Thai Tea,6.84,3,20.52
+2026-03-23,Taro Milk Tea,5.58,3,16.74
+2026-03-23,Matcha Latte,4.73,1,4.73
+2026-03-23,Brown Sugar Boba,7.11,3,21.33
+2026-03-23,Matcha Latte,6.49,2,12.98
+2026-03-23,Matcha Latte,5.58,3,16.74
+2026-03-23,Classic Milk Tea,5.87,1,5.87
+2026-03-23,Classic Milk Tea,6.17,1,6.17
+2026-03-23,Matcha Latte,4.94,1,4.94
+2026-03-23,Matcha Latte,7.14,1,7.14
+2026-03-23,Matcha Latte,4.86,3,14.58
+2026-03-23,Matcha Latte,5.05,3,15.15
+2026-03-23,Thai Tea,6.38,3,19.14
+2026-03-23,Classic Milk Tea,4.62,3,13.86
+2026-03-23,Taro Milk Tea,6.95,2,13.9
+2026-03-23,Classic Milk Tea,6.43,3,19.29
+2026-03-23,Brown Sugar Boba,5.55,3,16.65
+2026-03-23,Taro Milk Tea,6.06,1,6.06
+2026-03-23,Matcha Latte,7.1,2,14.2
+2026-03-23,Classic Milk Tea,5.58,2,11.16
+2026-03-23,Taro Milk Tea,4.95,2,9.9
+2026-03-23,Thai Tea,4.93,1,4.93
+2026-03-23,Taro Milk Tea,6.16,2,12.32
+2026-03-23,Matcha Latte,5.78,3,17.34
+2026-03-23,Matcha Latte,6.85,1,6.85
+2026-03-23,Taro Milk Tea,4.99,3,14.97
+2026-03-23,Thai Tea,5.86,2,11.72
+2026-03-23,Matcha Latte,5.13,3,15.39
+2026-03-23,Classic Milk Tea,6.9,2,13.8
+2026-03-23,Matcha Latte,7.29,2,14.58
+2026-03-23,Matcha Latte,7.21,1,7.21
+2026-03-23,Thai Tea,5.26,2,10.52
+2026-03-23,Brown Sugar Boba,5.28,1,5.28
+2026-03-24,Classic Milk Tea,4.96,2,9.92
+2026-03-24,Taro Milk Tea,5.93,2,11.86
+2026-03-24,Brown Sugar Boba,4.94,3,14.82
+2026-03-24,Matcha Latte,5.85,2,11.7
+2026-03-24,Thai Tea,5.72,2,11.44
+2026-03-24,Brown Sugar Boba,6.24,1,6.24
+2026-03-24,Matcha Latte,5.47,1,5.47
+2026-03-24,Matcha Latte,6.65,1,6.65
+2026-03-24,Brown Sugar Boba,4.89,1,4.89
+2026-03-24,Thai Tea,4.62,1,4.62
+2026-03-24,Classic Milk Tea,5.15,3,15.45
+2026-03-24,Matcha Latte,6.25,3,18.75
+2026-03-24,Taro Milk Tea,5.37,2,10.74
+2026-03-24,Classic Milk Tea,5.65,2,11.3
+2026-03-24,Classic Milk Tea,6.54,2,13.08
+2026-03-24,Thai Tea,6.09,3,18.27
+2026-03-24,Matcha Latte,7.01,1,7.01
+2026-03-24,Matcha Latte,4.52,3,13.56
+2026-03-24,Brown Sugar Boba,4.59,1,4.59
+2026-03-24,Taro Milk Tea,4.97,3,14.91
+2026-03-24,Thai Tea,4.71,2,9.42
+2026-03-24,Taro Milk Tea,5.29,2,10.58
+2026-03-24,Matcha Latte,6.99,1,6.99
+2026-03-24,Thai Tea,6.96,1,6.96
+2026-03-24,Matcha Latte,5.56,1,5.56
+2026-03-24,Brown Sugar Boba,6.07,2,12.14
+2026-03-24,Classic Milk Tea,5.02,1,5.02
+2026-03-24,Taro Milk Tea,6.41,1,6.41
+2026-03-24,Matcha Latte,6.1,2,12.2
+2026-03-24,Thai Tea,4.75,3,14.25
+2026-03-24,Taro Milk Tea,6.74,2,13.48
+2026-03-25,Classic Milk Tea,6.71,2,13.42
+2026-03-25,Taro Milk Tea,6.15,1,6.15
+2026-03-25,Classic Milk Tea,7.36,2,14.72
+2026-03-25,Matcha Latte,7.09,3,21.27
+2026-03-25,Classic Milk Tea,6.06,1,6.06
+2026-03-25,Brown Sugar Boba,5.42,1,5.42
+2026-03-25,Matcha Latte,4.63,1,4.63
+2026-03-25,Brown Sugar Boba,4.61,3,13.83
+2026-03-25,Matcha Latte,7.12,1,7.12
+2026-03-25,Matcha Latte,4.77,2,9.54
+2026-03-25,Taro Milk Tea,7.12,3,21.36
+2026-03-25,Matcha Latte,6.07,2,12.14
+2026-03-25,Thai Tea,5.35,2,10.7
+2026-03-25,Thai Tea,6.24,2,12.48
+2026-03-25,Classic Milk Tea,5.4,1,5.4
+2026-03-25,Taro Milk Tea,5.44,1,5.44
+2026-03-25,Matcha Latte,5.19,1,5.19
+2026-03-25,Matcha Latte,4.9,1,4.9
+2026-03-25,Brown Sugar Boba,5.56,1,5.56
+2026-03-25,Classic Milk Tea,5.16,1,5.16
+2026-03-25,Taro Milk Tea,6.94,3,20.82
+2026-03-25,Classic Milk Tea,5.95,1,5.95
+2026-03-25,Taro Milk Tea,7.43,2,14.86
+2026-03-25,Matcha Latte,6.87,1,6.87
+2026-03-25,Classic Milk Tea,5.36,3,16.08
+2026-03-25,Thai Tea,7.35,2,14.7
+2026-03-25,Thai Tea,6.32,3,18.96
+2026-03-25,Brown Sugar Boba,4.83,2,9.66
+2026-03-25,Classic Milk Tea,5.55,3,16.65
+2026-03-25,Brown Sugar Boba,5.6,2,11.2
+2026-03-25,Taro Milk Tea,6.0,3,18.0
+2026-03-26,Matcha Latte,5.84,2,11.68
+2026-03-26,Taro Milk Tea,4.52,1,4.52
+2026-03-26,Matcha Latte,5.75,2,11.5
+2026-03-26,Thai Tea,6.57,3,19.71
+2026-03-26,Taro Milk Tea,6.16,3,18.48
+2026-03-26,Brown Sugar Boba,5.59,2,11.18
+2026-03-26,Classic Milk Tea,5.81,3,17.43
+2026-03-26,Thai Tea,7.36,3,22.08
+2026-03-26,Matcha Latte,6.92,3,20.76
+2026-03-26,Thai Tea,4.8,2,9.6
+2026-03-26,Classic Milk Tea,6.58,1,6.58
+2026-03-26,Taro Milk Tea,7.35,2,14.7
+2026-03-26,Brown Sugar Boba,4.65,3,13.95
+2026-03-26,Classic Milk Tea,5.4,2,10.8
+2026-03-26,Classic Milk Tea,5.8,1,5.8
+2026-03-26,Thai Tea,4.56,2,9.12
+2026-03-26,Taro Milk Tea,6.46,3,19.38
+2026-03-26,Classic Milk Tea,7.1,3,21.3
+2026-03-26,Classic Milk Tea,6.43,3,19.29
+2026-03-26,Classic Milk Tea,5.8,1,5.8
+2026-03-26,Matcha Latte,5.05,1,5.05
+2026-03-26,Classic Milk Tea,6.77,1,6.77
+2026-03-26,Classic Milk Tea,5.04,1,5.04
+2026-03-26,Thai Tea,6.5,2,13.0
+2026-03-26,Matcha Latte,6.3,1,6.3
+2026-03-26,Matcha Latte,5.35,2,10.7
+2026-03-26,Matcha Latte,5.57,3,16.71
+2026-03-26,Taro Milk Tea,4.94,1,4.94
+2026-03-26,Brown Sugar Boba,6.28,3,18.84
+2026-03-26,Classic Milk Tea,5.0,2,10.0
+2026-03-26,Matcha Latte,5.39,3,16.17
+2026-03-26,Thai Tea,5.75,2,11.5
+2026-03-26,Thai Tea,4.94,2,9.88
+2026-03-26,Taro Milk Tea,6.58,2,13.16
+2026-03-26,Brown Sugar Boba,6.85,2,13.7
+2026-03-26,Brown Sugar Boba,5.47,2,10.94
+2026-03-26,Brown Sugar Boba,6.87,3,20.61
+2026-03-26,Taro Milk Tea,6.97,1,6.97
+2026-03-26,Thai Tea,6.09,3,18.27
+2026-03-26,Taro Milk Tea,5.1,1,5.1
+2026-03-26,Matcha Latte,6.94,3,20.82
+2026-03-26,Classic Milk Tea,7.2,2,14.4
+2026-03-26,Classic Milk Tea,4.65,2,9.3
+2026-03-26,Matcha Latte,6.4,1,6.4
+2026-03-26,Classic Milk Tea,5.77,2,11.54
+2026-03-26,Taro Milk Tea,4.52,1,4.52
+2026-03-26,Taro Milk Tea,5.18,2,10.36
+2026-03-26,Taro Milk Tea,7.02,3,21.06
+2026-03-27,Taro Milk Tea,6.09,3,18.27
+2026-03-27,Taro Milk Tea,5.39,2,10.78
+2026-03-27,Matcha Latte,5.52,1,5.52
+2026-03-27,Taro Milk Tea,6.27,2,12.54
+2026-03-27,Brown Sugar Boba,5.21,1,5.21
+2026-03-27,Brown Sugar Boba,7.39,3,22.17
+2026-03-27,Taro Milk Tea,6.28,1,6.28
+2026-03-27,Taro Milk Tea,4.85,1,4.85
+2026-03-27,Classic Milk Tea,6.75,2,13.5
+2026-03-27,Matcha Latte,6.59,1,6.59
+2026-03-27,Taro Milk Tea,7.3,2,14.6
+2026-03-27,Thai Tea,5.36,1,5.36
+2026-03-27,Classic Milk Tea,4.62,3,13.86
+2026-03-27,Thai Tea,5.22,3,15.66
+2026-03-27,Brown Sugar Boba,5.12,1,5.12
+2026-03-27,Brown Sugar Boba,7.41,3,22.23
+2026-03-27,Taro Milk Tea,4.6,3,13.8
+2026-03-27,Taro Milk Tea,6.03,1,6.03
+2026-03-27,Brown Sugar Boba,4.78,3,14.34
+2026-03-27,Matcha Latte,5.14,3,15.42
+2026-03-27,Classic Milk Tea,6.73,3,20.19
+2026-03-27,Matcha Latte,7.31,1,7.31
+2026-03-27,Classic Milk Tea,4.7,3,14.1
+2026-03-27,Thai Tea,7.01,3,21.03
+2026-03-27,Brown Sugar Boba,5.44,1,5.44
+2026-03-27,Taro Milk Tea,5.17,3,15.51
+2026-03-27,Classic Milk Tea,5.77,1,5.77
+2026-03-27,Classic Milk Tea,5.68,3,17.04
+2026-03-27,Classic Milk Tea,5.0,1,5.0
+2026-03-27,Matcha Latte,5.68,1,5.68
+2026-03-27,Classic Milk Tea,7.24,2,14.48
+2026-03-27,Classic Milk Tea,4.92,2,9.84
+2026-03-27,Matcha Latte,6.27,1,6.27
+2026-03-27,Matcha Latte,4.66,1,4.66
+2026-03-27,Brown Sugar Boba,5.04,3,15.12
+2026-03-27,Thai Tea,6.49,2,12.98
+2026-03-27,Taro Milk Tea,6.35,2,12.7
+2026-03-28,Taro Milk Tea,4.56,2,9.12
+2026-03-28,Classic Milk Tea,7.03,3,21.09
+2026-03-28,Classic Milk Tea,6.02,3,18.06
+2026-03-28,Classic Milk Tea,6.89,3,20.67
+2026-03-28,Thai Tea,7.25,1,7.25
+2026-03-28,Brown Sugar Boba,4.92,1,4.92
+2026-03-28,Thai Tea,5.9,3,17.7
+2026-03-28,Brown Sugar Boba,5.27,2,10.54
+2026-03-28,Thai Tea,5.5,2,11.0
+2026-03-28,Thai Tea,7.32,1,7.32
+2026-03-28,Matcha Latte,4.69,3,14.07
+2026-03-28,Brown Sugar Boba,5.84,3,17.52
+2026-03-28,Thai Tea,6.78,2,13.56
+2026-03-28,Classic Milk Tea,6.3,1,6.3
+2026-03-28,Classic Milk Tea,5.03,1,5.03
+2026-03-28,Classic Milk Tea,7.0,3,21.0
+2026-03-28,Thai Tea,5.15,2,10.3
+2026-03-28,Matcha Latte,6.24,3,18.72
+2026-03-28,Matcha Latte,4.53,1,4.53
+2026-03-28,Thai Tea,5.15,1,5.15
+2026-03-28,Thai Tea,7.44,2,14.88
+2026-03-28,Thai Tea,6.36,3,19.08
+2026-03-28,Classic Milk Tea,6.93,3,20.79
+2026-03-28,Thai Tea,6.71,1,6.71
+2026-03-28,Taro Milk Tea,4.74,3,14.22
+2026-03-28,Classic Milk Tea,5.26,1,5.26
+2026-03-28,Matcha Latte,5.93,3,17.79
+2026-03-29,Thai Tea,6.24,2,12.48
+2026-03-29,Taro Milk Tea,6.13,3,18.39
+2026-03-29,Taro Milk Tea,5.33,3,15.99
+2026-03-29,Matcha Latte,5.09,1,5.09
+2026-03-29,Brown Sugar Boba,7.04,2,14.08
+2026-03-29,Matcha Latte,6.0,1,6.0
+2026-03-29,Thai Tea,7.05,3,21.15
+2026-03-29,Taro Milk Tea,5.72,2,11.44
+2026-03-29,Taro Milk Tea,6.85,1,6.85
+2026-03-29,Taro Milk Tea,5.2,3,15.6
+2026-03-29,Taro Milk Tea,6.59,1,6.59
+2026-03-29,Brown Sugar Boba,7.31,2,14.62
+2026-03-29,Brown Sugar Boba,5.78,1,5.78
+2026-03-29,Thai Tea,7.16,2,14.32
+2026-03-29,Thai Tea,7.24,1,7.24
+2026-03-29,Thai Tea,6.87,3,20.61
+2026-03-29,Taro Milk Tea,6.65,1,6.65
+2026-03-29,Matcha Latte,5.34,2,10.68
+2026-03-29,Taro Milk Tea,6.89,1,6.89
+2026-03-29,Matcha Latte,7.27,2,14.54
+2026-03-29,Matcha Latte,6.88,1,6.88
+2026-03-29,Thai Tea,5.97,2,11.94
+2026-03-29,Thai Tea,4.53,3,13.59
+2026-03-29,Matcha Latte,6.39,2,12.78
+2026-03-29,Matcha Latte,6.34,2,12.68
+2026-03-29,Thai Tea,7.06,2,14.12
+2026-03-29,Matcha Latte,5.88,1,5.88
+2026-03-29,Taro Milk Tea,7.25,1,7.25
+2026-03-29,Matcha Latte,5.14,1,5.14
+2026-03-29,Thai Tea,6.41,3,19.23
+2026-03-29,Matcha Latte,6.68,3,20.04
+2026-03-29,Matcha Latte,6.15,1,6.15
+2026-03-29,Thai Tea,6.77,2,13.54
+2026-03-29,Classic Milk Tea,6.45,3,19.35
+2026-03-29,Classic Milk Tea,4.6,3,13.8
+2026-03-29,Classic Milk Tea,5.25,3,15.75
+2026-03-29,Matcha Latte,4.54,1,4.54
+2026-03-29,Taro Milk Tea,7.09,3,21.27
+2026-03-29,Classic Milk Tea,4.54,1,4.54
+2026-03-29,Thai Tea,6.21,2,12.42
+2026-03-29,Taro Milk Tea,5.0,1,5.0
+2026-03-29,Taro Milk Tea,4.77,3,14.31
+2026-03-29,Thai Tea,7.44,3,22.32
+2026-03-29,Taro Milk Tea,5.45,2,10.9
+2026-03-29,Thai Tea,7.28,3,21.84
+2026-03-29,Classic Milk Tea,6.36,1,6.36
+2026-03-30,Matcha Latte,7.29,3,21.87
+2026-03-30,Thai Tea,4.82,1,4.82
+2026-03-30,Taro Milk Tea,7.1,1,7.1
+2026-03-30,Matcha Latte,5.03,3,15.09
+2026-03-30,Brown Sugar Boba,5.77,2,11.54
+2026-03-30,Taro Milk Tea,6.61,3,19.83
+2026-03-30,Brown Sugar Boba,6.38,3,19.14
+2026-03-30,Matcha Latte,5.74,1,5.74
+2026-03-30,Matcha Latte,5.67,2,11.34
+2026-03-30,Thai Tea,7.23,1,7.23
+2026-03-30,Thai Tea,6.78,3,20.34
+2026-03-30,Classic Milk Tea,5.49,1,5.49
+2026-03-30,Thai Tea,6.43,3,19.29
+2026-03-30,Thai Tea,5.68,2,11.36
+2026-03-30,Classic Milk Tea,5.14,1,5.14
+2026-03-30,Matcha Latte,5.1,3,15.3
+2026-03-30,Thai Tea,5.76,1,5.76
+2026-03-30,Brown Sugar Boba,5.61,1,5.61
+2026-03-30,Brown Sugar Boba,5.38,3,16.14
+2026-03-30,Matcha Latte,7.03,2,14.06
+2026-03-30,Thai Tea,4.89,1,4.89
+2026-03-30,Matcha Latte,7.04,2,14.08
+2026-03-30,Classic Milk Tea,6.97,2,13.94
+2026-03-30,Brown Sugar Boba,5.37,3,16.11
+2026-03-30,Brown Sugar Boba,5.81,1,5.81
+2026-03-30,Thai Tea,4.67,2,9.34
+2026-03-30,Thai Tea,4.8,1,4.8
+2026-03-30,Matcha Latte,7.1,3,21.3
+2026-03-30,Taro Milk Tea,7.16,2,14.32
+2026-03-30,Matcha Latte,4.67,1,4.67
+2026-03-30,Brown Sugar Boba,4.98,1,4.98
+2026-03-30,Matcha Latte,6.56,2,13.12
+2026-03-30,Thai Tea,5.44,3,16.32
+2026-03-31,Classic Milk Tea,7.06,3,21.18
+2026-03-31,Matcha Latte,6.24,2,12.48
+2026-03-31,Matcha Latte,5.7,3,17.1
+2026-03-31,Brown Sugar Boba,5.79,3,17.37
+2026-03-31,Matcha Latte,7.29,3,21.87
+2026-03-31,Brown Sugar Boba,6.2,1,6.2
+2026-03-31,Classic Milk Tea,5.61,2,11.22
+2026-03-31,Brown Sugar Boba,5.5,2,11.0
+2026-03-31,Matcha Latte,7.17,3,21.51
+2026-03-31,Brown Sugar Boba,7.25,3,21.75
+2026-03-31,Thai Tea,6.34,1,6.34
+2026-03-31,Thai Tea,6.52,3,19.56
+2026-03-31,Classic Milk Tea,7.11,1,7.11
+2026-03-31,Thai Tea,6.92,3,20.76
+2026-03-31,Taro Milk Tea,4.67,1,4.67
+2026-03-31,Classic Milk Tea,5.28,1,5.28
+2026-03-31,Matcha Latte,6.66,1,6.66
+2026-03-31,Classic Milk Tea,7.31,1,7.31
+2026-03-31,Brown Sugar Boba,7.12,1,7.12
+2026-03-31,Brown Sugar Boba,6.5,3,19.5
+2026-03-31,Brown Sugar Boba,4.98,1,4.98
+2026-03-31,Taro Milk Tea,6.89,3,20.67
+2026-03-31,Classic Milk Tea,4.94,3,14.82
+2026-03-31,Classic Milk Tea,6.57,2,13.14
+2026-03-31,Brown Sugar Boba,6.69,1,6.69
+2026-03-31,Thai Tea,7.12,3,21.36
+2026-03-31,Taro Milk Tea,4.69,1,4.69
+2026-03-31,Brown Sugar Boba,5.3,3,15.9
+2026-03-31,Brown Sugar Boba,7.13,2,14.26
+2026-03-31,Matcha Latte,5.36,3,16.08
+2026-03-31,Classic Milk Tea,4.76,2,9.52
+2026-03-31,Thai Tea,6.65,3,19.95
+2026-03-31,Matcha Latte,5.22,3,15.66
+2026-03-31,Taro Milk Tea,7.11,1,7.11
+2026-03-31,Taro Milk Tea,4.6,1,4.6
+2026-03-31,Taro Milk Tea,6.48,3,19.44
+2026-03-31,Classic Milk Tea,5.88,1,5.88
